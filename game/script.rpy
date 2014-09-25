@@ -1,5 +1,6 @@
 # game starts here
 
+define limbaugh = Character('?', kind=nvl, color="#6633cc")
 define Limbaugh = Character('Limbaugh', kind=nvl, color="#6633cc")
 
 define narrator = Character(None, kind=nvl)
@@ -16,7 +17,7 @@ label start:
 
     "There was a child, who lived in a house with mother and father. They were
     happy together and while they were not rich, they didn't lack anything
-    important.
+    important.\n\n
 
     In the bookshelf, there was a strange book that the child had never seen
     anyone to read. It was very thick and bound in old leather. While the
@@ -28,7 +29,7 @@ label start:
     not even sounds of cars could be heard. The child sat up and listened
     carefully. Not a single sound could be heard. Tiny feet tapped over
     floor and sunk into carpet of the living room. A chair was moved against
-    the bookself without a sound.
+    the bookself without a sound.\n\n
 
     A scraping sound could be heard when the book was removed from the
     bookshelf, followed by the quick patter of feet as the adventurer retreated
@@ -39,13 +40,13 @@ label start:
     "The child was hunched over the book, the blanket was used to provide cover
     while a flashlight provided light needed for reading. The house was
     completely silent and nobody could have guessed that something had
-    happened.
+    happened.\n\n
 
     The book opened and revealed old, ink stained pages. The book was actually
     written by hand and not printed by a printing press. The child found this
     very fascinating. Writing a thick book like this must have taken a very
     long time. The child could not yet read, but just looking those old pages
-    filled with strange looking writing was fun.
+    filled with strange looking writing was fun.\n\n
 
     In some pages there were hand drawn pictures. Some of them showed strange
     landscapes, while others depicted fantastical creatures. Page after page
@@ -60,7 +61,7 @@ label start:
     very same road that started from somewhere behind the child, continued
     all the way to the book and through the open pages and then journeyed
     onward. Around the child grassy clearing was bordered with a gnarled
-    looking trees and sun shine didn't reach under the canopy of the trees.
+    looking trees and sun shine didn't reach under the canopy of the trees.\n\n
 
     The child stood up, look to both directions and wondered what should be
     done and which way would be the correct direction. Of course there was
@@ -79,7 +80,7 @@ label clearing_forward:
     The whole new world was there waiting to be explored. All the new places
     and people waited to be discovered. If everyone just sat down and waited,
     nothing would happen at all. And if nothing would happen at all, the world
-    would be very boring place.
+    would be very boring place.\n\n
 
     The child stood up and picked up the book, closing the pages. The book
     couldn't stay here, it had to be returned on the bookshelf. Otherwise
@@ -93,7 +94,7 @@ label clearing_forward:
     One could hear small creatures rustling in underbush and fluttering of
     winged creatures up in the trees. It seemed though, that they were trying
     to stay away from sight of this new traveller who was stranger in these
-    lands.
+    lands.\n\n
 
     After a while of walking, it was time to stop and rest. The child sat under
     some large mushrooms that were growing next to the road. All that walking
@@ -103,4 +104,4 @@ label clearing_forward:
 
     nvl clear
 
-    Limbaugh "foo"
+    limbaugh "foo"

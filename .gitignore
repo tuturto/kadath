@@ -1,0 +1,9 @@
+tmp
+*.bak
+*.rpyc
+game/bytecode.rpyb
+game/saves
+errors.txt
+log.txt
+traceback.txt
+res

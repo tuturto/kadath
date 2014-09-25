@@ -6,6 +6,7 @@ define Limbaugh = Character('Limbaugh', kind=nvl, color="#6633cc")
 define narrator = Character(None, kind=nvl)
 
 image bg house = "opening_house.png"
+image bg book = "book.png"
 
 init python:
     menu = nvl_menu
@@ -24,6 +25,7 @@ label start:
     child didn't know its age for sure, the book looked really old."
 
     nvl clear
+    scene bg book
 
     "One night, the sleep wouldn't come. The house was completely quiet and
     not even sounds of cars could be heard. The child sat up and listened

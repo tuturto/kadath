@@ -86,10 +86,11 @@ label clearing_forward:
     to stay away from sight of this new traveller who was stranger in these
     lands."
 
-    "After a while of walking, it was time to stop and rest. The child sat under
-    some large mushrooms that were growing next to the road. All that walking
-    had resulted into a hunger, but how would one go about solving that? Big
-    mushrooms could probably be eaten, but what if they were poisonous? One
-    shouldn't eat strange mushrooms, that much have been taught to the child."
+    "After a while of walking, it was time to stop and rest. The child sat
+    under some large mushrooms that were growing next to the road. All that
+    walking had resulted into a hunger, but how would one go about solving
+    that? Big mushrooms could probably be eaten, but what if they were
+    poisonous? One shouldn't eat strange mushrooms, that much have been taught
+    to the child."
 
     limbaugh "foo"

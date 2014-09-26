@@ -5,6 +5,7 @@ define Limbaugh = Character('Limbaugh', color="#6633cc")
 
 image bg house = "opening_house.png"
 image bg book = "book.png"
+image bg open_book = "open_book.png"
 
 init python:
     menu = nvl_menu
@@ -12,12 +13,14 @@ init python:
 
 label start:
     scene bg house
+    with dissolve
 
     "There was a child, who lived in a house with mother and father. They were
     happy together and while they were not rich, they didn't lack anything
     important."
 
     scene bg book
+    with dissolve
 
     "In the bookshelf, there was a strange book that the child had never seen
     anyone to read. It was very thick and bound in old leather. While the
@@ -32,6 +35,9 @@ label start:
     "A scraping sound could be heard when the book was removed from the
     bookshelf, followed by the quick patter of feet as the adventurer retreated
     after a succesful raid."
+
+    scene bg open_book
+    with dissolve
 
     "The child was hunched over the book, the blanket was used to provide cover
     while a flashlight provided light needed for reading. The house was

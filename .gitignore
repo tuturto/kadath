@@ -1,6 +1,7 @@
 tmp
 *.bak
 *.rpyc
+*.png~
 game/bytecode.rpyb
 game/saves
 errors.txt

@@ -8,12 +8,12 @@ image bg book = "book.png"
 image bg open_book = "open_book.png"
 
 define dreamer = None
-define he = "he"
-define him = "him"
-define his = "his"
-define He = "He"
-define Him = "Him"
-define His = "His"
+define he = None
+define him = None
+define his = None
+define He = None
+define Him = None
+define His = None
 
 init python:
     menu = nvl_menu
@@ -137,3 +137,49 @@ label clearing_forward:
             dreamer = "Simon"
 
     Limbaugh "It is my pleasure to meet you [dreamer]."
+
+    Limbaugh "If you forgive me, I'm not entirely sure how should I address
+    you. I haven't met anyone like you before, therefore, I don't know the
+    proper salutations and such. Would you be kind and tell me, how should
+    one address you?"
+
+    menu:
+        "I would like to be addressed as"
+
+        "He":
+            python:
+                he = "he"
+                him = "him"
+                his = "his"
+                He = "He"
+                Him = "Him"
+                His = "His"
+            
+        "She":
+            python:
+                he = "she"
+                him = "her"
+                his = "hers"
+                He = "She"
+                Him = "Her"
+                His = "Hers"
+
+        "They":
+            python:
+                he = "they"
+                him = "them"
+                his = "their"
+                He = "They"
+                Him = "Them"
+                His = "Their"
+
+    Limbaugh "Very well, I shall do so [dreamer]. Thank you for your patience
+    with this old bird."
+
+    Limbaugh "Now that we have been properly introduced, I can continue. Like
+    I said, I'm called Limbaugh. I live here and there, currently more here
+    than there, as you can see. I wander quite a bit and sell small trinkets to
+    whoever I happen to encounter. I may not be rich, but I'm free as a bird."
+
+    "Limbaugh chuckled a little bit. He apparently found the pun clever and
+    quite funny."

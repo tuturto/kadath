@@ -7,6 +7,14 @@ image bg house = "opening_house.png"
 image bg book = "book.png"
 image bg open_book = "open_book.png"
 
+define dreamer = None
+define he = "he"
+define him = "him"
+define his = "his"
+define He = "He"
+define Him = "Him"
+define His = "His"
+
 init python:
     menu = nvl_menu
     config.nvl_paged_rollback = True
@@ -99,4 +107,33 @@ label clearing_forward:
     poisonous? One shouldn't eat strange mushrooms, that much have been taught
     to the child."
 
-    limbaugh "foo"
+    limbaugh "Well, well, what do we have here? Who is sitting here all alone
+    under some old and worm eaten mushrooms?"
+
+    "The child looked up. A strange creature was standing couple steps away
+    from the mushrooms. How it had managed to sneak there without being
+    noticed was a mystery unto itself. The creature had long legs like a crane,
+    long beak and its body was covered in rags and dozens of small bags. Bright
+    and wise eyes blinked from under bushy eye brows."
+
+    limbaugh "I think, that you are a stranger in these lands. I haven't seen
+    like you before and your garb is not familiar either. Hold on a second
+    and let me to introduce myself properly."
+
+    "The creature bowed deep and made a fancy looking flourish with its hat.
+    Then it stood straight again and continued."
+
+    Limbaugh "I'm called Limbaugh. That is of course not my real name, but I
+    never tell my real name to strangers. And you would do well, if you would
+    keep yours secret too. Knowing real name of something grants one certain
+    power of that thing. I know, you should pick yourself a new name. A name
+    that you will be known around these parts."
+
+    python:
+        dreamer = renpy.input("What should I call you?")
+        dreamer = dreamer.strip()
+
+        if not dreamer:
+            dreamer = "Simon"
+
+    Limbaugh "It is my pleasure to meet you [dreamer]."

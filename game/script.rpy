@@ -6,6 +6,7 @@ define Limbaugh = Character('Limbaugh', color="#6633cc")
 image bg house = "opening_house.png"
 image bg book = "book.png"
 image bg open_book = "open_book.png"
+image bg clearing = "clearing.png"
 
 define dreamer = None
 define he = None
@@ -59,6 +60,9 @@ label start:
     was turned and each of them was intensively studied. Small eyelids started
     to get heavy as night slumbered slowly forward, but bravely the child kept
     awake and continued through the book."
+
+    scene bg clearing
+    with dissolve
 
     "The child jolted up. When the drowsiness took over, the book had fallen
     on the grass. It laid there, pages open, with a picture of a road. That

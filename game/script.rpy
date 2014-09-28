@@ -15,10 +15,6 @@ define He = None
 define Him = None
 define His = None
 
-init python:
-    menu = nvl_menu
-    config.nvl_paged_rollback = True
-
 label start:
     scene bg house
     with dissolve
@@ -182,4 +178,51 @@ label clearing_forward:
     whoever I happen to encounter. I may not be rich, but I'm free as a bird."
 
     "Limbaugh chuckled a little bit. He apparently found the pun clever and
-    quite funny."
+    quite funny. Then he straightened his face."
+
+    Limbaugh "You seemed hungry to me when I saw you sitting under the
+    mushrooms. It looked like you were almost ready to take a bite from them.
+    I would advice against doing that however, these mushrooms aren't
+    particularly tasty."
+
+    Limbaugh "All is not lost though, I have remains of a very delicious
+    mushroom pie in one of my bags. Would you like to share it with me
+    before I have to continue onward?"
+
+    menu:
+        "What should I do about the pie?"
+
+        "Eat the pie with Limbaugh":
+            jump eat_pie_with_limbaugh
+
+        "Politely refuse":
+            jump do_not_eat_pie_with_limbaugh
+
+label eat_pie_with_limbaugh:
+    "Limbaugh rummaged through his various bags and soon produced half a pie
+    that smelled delicious. He cut it into two and offered the other half
+    to [dreamer], while starting to eat his half."
+
+    Limbaugh "Remember, around here things aren't always what they seem to be
+    and generally it's a good idea to be careful around strangers. You do have
+    a dream book with you though, which is a good thing. Just never lose it and
+    things will turn out just fine in the end."
+
+    Limbaugh "My grand-father, may the wind be soft for him, was fond of saying
+    that 'Everything will be fine in the end, if something is not fine, then
+    it is not the end yet.' I think it's not that simple always, but the old
+    man had a good idea there still."
+
+    Limbaugh "But now I must continue my journey. I'm on my way to meet
+    Baroness Zhukovsky and shouldn't be late. If you continue this road for
+    a while still, you'll arrive to a friendly village where you can get more
+    food and place to sleep."
+
+    "[dreamer] watched as Limbaugh stood up, collected his bags and after
+    counting them twice, started walking. Curiously, he didn't follow the
+    road, but continued directly into shadowy woods."
+
+label do_not_eat_pie_with_limbaugh:
+    "No pie!!"
+
+    return

@@ -222,7 +222,46 @@ label eat_pie_with_limbaugh:
     counting them twice, started walking. Curiously, he didn't follow the
     road, but continued directly into shadowy woods."
 
+    "Soon the forest was quiet again. One could still hear rustling and flapping
+    of small creatures here and there, but that was all. [dreamer] looked around
+    and then stood up. [He] started walking the road again, wondering how long
+    it would take [him] to arrive that friendly village Limbaugh had mentioned."
+
+    "Walking was easy. The road was even and there were no big hills or other
+    obstacles in the way. The mushroom pie had driven the hunger away and [he]
+    was on a cheerful mood. [dreamer] was starting to get tired though and
+    yawned couple of times. Warm weather and silent forest didn't help at all
+    either. [He] was determined to make to that village before the dark and
+    pressed onwards."
+
+    "Eventually [dreamer] arrived to a clearing. The road continue straight and
+    just barely edged the clearing. [He] could hear sound of a small stream
+    coming from somewhere near, although it was nowhere to be seen. The ground
+    was covered in tall grass and flowers of all colours. [dreamer] thought that
+    the stream couldn't be far away and was probably just hidden by flowers."
+
+    "Sweet scent of flowers was tantalizing and [he] could see some big
+    butterflies flying among them. Would a short stop here to rest hurt that
+    much? [He] could use some cool water to drink too. [dreamer] didn't know
+    how far the village was and if [he] would make it there before dark,
+    especially if [he] would rest here for a bit."
+
+    menu:
+        "Should [dreamer] take a short rest here?"
+
+        "Yes, rest for a bit":
+            jump drowsy_clearing
+
+        "No, keep going":
+            jump walk_without_rest
+
 label do_not_eat_pie_with_limbaugh:
     "No pie!!"
 
     return
+
+label drowsy_clearing:
+    "foo"
+
+label walk_without_rest:
+    "bar"

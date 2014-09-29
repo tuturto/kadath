@@ -7,6 +7,7 @@ image bg house = "opening_house.png"
 image bg book = "book.png"
 image bg open_book = "open_book.png"
 image bg clearing = "clearing.png"
+image bg mushrooms = "mushrooms.png"
 
 define dreamer = None
 define he = None
@@ -114,6 +115,9 @@ label clearing_forward:
     winged creatures up in the trees. It seemed though, that they were trying
     to stay away from sight of this new traveller who was stranger in these
     lands."
+
+    scene bg mushrooms
+    with dissolve
 
     "After a while of walking, it was time to stop and rest. The child sat
     under some large mushrooms that were growing next to the road. All that

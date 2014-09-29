@@ -61,6 +61,21 @@ label start:
     to get heavy as night slumbered slowly forward, but bravely the child kept
     awake and continued through the book."
 
+    menu:
+        "Your eyes are really heavy and you feel drowsy. Should you"
+
+        "Put book away and sleep":
+            "TODO: description of going to sleep"
+            jump clearing_night
+
+        "Read just a little bit more":
+            jump clearing_morning
+
+label clearing_night:
+    "TODO: clearing at night arc"
+    return
+
+label clearing_morning:
     scene bg clearing
     with dissolve
 

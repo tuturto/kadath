@@ -357,8 +357,10 @@ label nap_in_clearing:
     [his] imagination, the stream did sound like people chattering."
 
     "Now [dreamer] was struggling in order to hear better. Sounds were so close
-    that [he] could almost understand what they were talking. Suddenly [he]
-    woke up and stood to a sitting position, looking around."
+    that [he] could almost understand what they were talking. Suddenly [dreamer]
+    woke up and stood to a sitting position, looking around and realised that
+    [he] was surrounded with small, winged creatures that were the source of
+    chattering [he] had heard in [his] dream."
 
     jump fairy_folk_in_clearing
 
@@ -366,7 +368,21 @@ label stay_awake_in_clearing:
     "Staying awake"
 
 label fairy_folk_in_clearing:
-    simbali "..."
+    simbali "Hey, big folk! What are you doing here, snoring like an old bear?
+    We can barely hear our own thoughts and I'm sure all the birds of the forest
+    have gone deaf and are not going to sing in a while."
+
+    "Tiny winged creatures were sitting on flowers and in grass. Some were
+    flying around and all of them were chattering busily with each other. It
+    seemed that most of their talking was to comment loud snoring of the
+    stranger or [his] unfashionable and dull clothes. [dreamer] tried to follow
+    them all with [his] eyes, but soon gave up and focused only on the one what
+    had been talking to [him]."
+
+    simabli "This clearing is home of the fairy folk and we don't like when
+    big folk come stomping and crushing here. You are loud and impolite and
+    troublesome in general. Big folk can travel on their hard and boring road,
+    but the clearing and flowers are domain of fairy folk."
 
 label walk_without_rest:
     "bar"

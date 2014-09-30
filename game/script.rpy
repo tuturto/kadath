@@ -325,9 +325,9 @@ label drowsy_clearing:
     "As [he] walked further, the sound of stream started getting stronger.
     Eventually [dreamer] arrived on bank of a small stream that was flowing
     merrily between round rocks. [dreamer] sat down by the bank, removed [his]
-    shoes and let stream run over [her] sore toes. The water was very cold,
+    shoes and let stream run over [his] sore toes. The water was very cold,
     but [he] found it pleasing after a long walk. [dreamer] closed [his] eyes
-    and enjoyed wfeeling of arm sun shine and cool water."
+    and enjoyed feeling of arm sun shine and cool water."
 
     "[He] started nodding. Warm and comfortable drowsiness spread over [him]
     and made [his] limbs heavy and eye lids droopy. It would be easy to just
@@ -379,7 +379,7 @@ label fairy_folk_in_clearing:
     them all with [his] eyes, but soon gave up and focused only on the one what
     had been talking to [him]."
 
-    simabli "This clearing is home of the fairy folk and we don't like when
+    simbali "This clearing is home of the fairy folk and we don't like when
     big folk come stomping and crushing here. You are loud and impolite and
     troublesome in general. Big folk can travel on their hard and boring road,
     but the clearing and flowers are domain of fairy folk."

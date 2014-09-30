@@ -307,7 +307,39 @@ label do_not_eat_pie_with_limbaugh:
     return
 
 label drowsy_clearing:
-    "foo"
+    "[dreamer] stepped from the road and started walking into the clearing. Tall
+    flowers soon surrounded [him] from every direction. Sun was shining warmly
+    and butterflies were flying amidst the flowers. [He] could hear buzzing of
+    the bees too. The air was very sweet from the scent on colourful flowers
+    and [dreamer] stopped couple of times to smell them."
+
+    "As [he] walked further, the sound of stream started getting stronger.
+    Eventually [dreamer] arrived on bank of a small stream that was flowing
+    merrily between round rocks. [dreamer] sat down by the bank, removed [his]
+    shoes and let stream run over [her] sore toes. The water was very cold,
+    but [he] found it pleasing after a long walk. [dreamer] closed [his] eyes
+    and enjoyed wfeeling of arm sun shine and cool water."
+
+    "[He] started nodding. Warm and comfortable drowsiness spread over [him]
+    and made [his] limbs heavy and eye lids droopy. It would be easy to just
+    stretch out in the long grass and take a short nap. [His] head felt heavy
+    and [dreamer] wanted nothing more than just nap in the grass and enjoy
+    scent of the flowers."
+
+    menu:
+        "Should [dreamer] sleep here?"
+
+        "A little sleep wouldn't hurt anyone":
+            jump nap_in_clearing
+
+        "Sleeping wouldn't be a good idea":
+            jump stay_awake_in_clearing
+
+label nap_in_clearing:
+    "Napping in clearing"
+
+label stay_awake_in_clearing:
+    "Staying awake"
 
 label walk_without_rest:
     "bar"

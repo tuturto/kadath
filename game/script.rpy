@@ -93,7 +93,26 @@ label clearing_morning:
     soon pass by and tell what this strange place was. There was also the old
     book that could be read while waiting for a person to come."
 
-    jump clearing_forward
+
+    menu:
+        "What would be the best course of action?"
+
+        "Continue forwards into the forest":
+            jump clearing_forward
+
+        "Follow road to other direction":
+            jump clearing_backwards
+
+        "Wait here":
+            jump clearing_wait
+
+label clearing_backwards:
+    "TODO: clearing backwards"
+    return
+
+label clearing_wait:
+    "TODO: clearing wait"
+    return
 
 label clearing_forward:
 

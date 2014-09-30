@@ -17,6 +17,8 @@ define He = None
 define Him = None
 define His = None
 
+define ate_pie_with_limbaugh = False
+
 label start:
     scene bg house
     with dissolve
@@ -241,6 +243,8 @@ label clearing_forward:
             jump do_not_eat_pie_with_limbaugh
 
 label eat_pie_with_limbaugh:
+    $ ate_pie_with_limbaugh = True
+
     "Limbaugh rummaged through his various bags and soon produced half a pie
     that smelled delicious. He cut it into two and offered the other half
     to [dreamer], while starting to eat his half."

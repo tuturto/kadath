@@ -3,6 +3,11 @@
 define limbaugh = Character('?', color="#6633cc")
 define Limbaugh = Character('Limbaugh', color="#6633cc")
 
+define simbali = Character('?', color="#6633cc")
+define Simbali = Character('Simbali', color="#6633cc")
+
+define fairies = Character('other fairies', color="#33cccc")
+
 image bg house = "opening_house.png"
 image bg book = "book.png"
 image bg open_book = "open_book.png"
@@ -12,6 +17,7 @@ image bg mushrooms = "mushrooms.png"
 define dreamer = None
 define he = None
 define him = None
+define himself = None
 define his = None
 define He = None
 define Him = None
@@ -191,6 +197,7 @@ label clearing_forward:
                 he = "he"
                 him = "him"
                 his = "his"
+                himself = "himself"
                 He = "He"
                 Him = "Him"
                 His = "His"
@@ -200,6 +207,7 @@ label clearing_forward:
                 he = "she"
                 him = "her"
                 his = "hers"
+                himself = "herself"
                 He = "She"
                 Him = "Her"
                 His = "Hers"
@@ -209,6 +217,7 @@ label clearing_forward:
                 he = "they"
                 him = "them"
                 his = "their"
+                himself = "themself"
                 He = "They"
                 Him = "Them"
                 His = "Their"
@@ -336,10 +345,28 @@ label drowsy_clearing:
             jump stay_awake_in_clearing
 
 label nap_in_clearing:
-    "Napping in clearing"
+    "Grass felt soft and comfortable as [dreamer] stretched [himself] across
+    the ground. [He] watched the clouds drifting on the sky, but then [his] eye
+    lids felt too heavy and [he] had to close them. Very soon [dreamer] was in
+    a deep sleep as flowers and butterflies were guarding [him]."
+
+    "[dreamer] was dreaming of sweet smelling flowers of all colours and big
+    butterflies that were flying amidst them. Sound of the stream could be heard
+    somewhere not too far away and it sounded almost like distant chatter of
+    people. [He] strirred and tried to listen to more closely. It was not just
+    [his] imagination, the stream did sound like people chattering."
+
+    "Now [dreamer] was struggling in order to hear better. Sounds were so close
+    that [he] could almost understand what they were talking. Suddenly [he]
+    woke up and stood to a sitting position, looking around."
+
+    jump fairy_folk_in_clearing
 
 label stay_awake_in_clearing:
     "Staying awake"
+
+label fairy_folk_in_clearing:
+    simbali "..."
 
 label walk_without_rest:
     "bar"

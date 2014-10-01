@@ -410,7 +410,27 @@ label fairy_folk_in_clearing:
     butterflies were like big birds."
 
     Simbali "That's much better. Now you can come with use without fear of
-    crushing a house or trampling down an innocent fairy."
+    crushing a house or trampling down an innocent fairy. But walking back to
+    our town would take too long now. We need to get you a ride."
+
+    "Upon Simbali's request, a large monarch butterfly landed nearby. [dreamer]
+    climbed on its back off they went. [He] was holding very tightly and barely
+    dared to peek down. The butterfly followed fairies, as they left the stream
+    and headed deeper into the meadow."
+
+    "Soon they landed on a large clearing. [dreamer] realized that even if the
+    clearing looked large, in reality it was relatively small. Everything just
+    looked so much larger from [his] current point of view. Colourful houses
+    were surrounding the clearing. Some of them were on the ground, while others
+    were hanging from the flowers and grass."
+
+    Simbali "This is our town. As you can see, if you had wandered here you
+    could have easily stepped on our houses without noticing them at all. This
+    is also where we will decide a proper judgement for you. You may sit down
+    in the shade over there as we have our meeting."
+
+    [dreamer] sat down on a small twig and watched as fairies gathered in the
+    clearing."
 
 label walk_without_rest:
     "bar"

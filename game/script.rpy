@@ -384,5 +384,9 @@ label fairy_folk_in_clearing:
     troublesome in general. Big folk can travel on their hard and boring road,
     but the clearing and flowers are domain of fairy folk."
 
+    Simbali "I'm known as Simbali and I'm captain of the guard. And you are
+    here without our permission. Be glad that you didn't stomp over any houses
+    with your big feets as you trampled through the meadow."
+
 label walk_without_rest:
     "bar"

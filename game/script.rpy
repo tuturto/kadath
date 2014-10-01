@@ -13,6 +13,7 @@ image bg book = "book.png"
 image bg open_book = "open_book.png"
 image bg clearing = "clearing.png"
 image bg mushrooms = "mushrooms.png"
+image bg limbaugh_img = "limbaugh.png"
 
 define dreamer = None
 define he = None
@@ -155,6 +156,9 @@ label clearing_forward:
 
     limbaugh "Well, well, what do we have here? Who is sitting here all alone
     under some old and worm eaten mushrooms?"
+
+    scene bg limbaugh_img
+    with dissolve
 
     "The child looked up. A strange creature was standing couple steps away
     from the mushrooms. How it had managed to sneak there without being

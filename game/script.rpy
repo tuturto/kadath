@@ -394,14 +394,19 @@ label fairy_folk_in_clearing:
     Simbali "That is true, we can't let you cause any havoc in our beautiful
     meadow. I'll arrange this."
 
-    Simbali started flying around [dreamer] and threw multicoloured dust at
+    "Simbali started flying around [dreamer] and threw multicoloured dust at
     [him] while singing a strange melody. First, nothing seemed to happen, but
     then [dreamer] felt small tingling. The tingling started from [his] spine
     and spread up and down from there. Flowers and grass around [him] seemed
     to grow and soon they were high above [his] head."
 
     "[dreamer] kept shrinking and shrinking, until [he] was the same size as
-    the fairies."
+    the fairies. Other fairies giggled as they flew around confused [dreamer].
+    From [his] new vantage point, high grass looked like tall trees and
+    butterflies were like big birds."
+
+    Simbali "That's much better. Now you can come with use without fear of
+    crushing a house or trampling down an innocent fairy."
 
 label walk_without_rest:
     "bar"

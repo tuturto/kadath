@@ -386,7 +386,22 @@ label fairy_folk_in_clearing:
 
     Simbali "I'm known as Simbali and I'm captain of the guard. And you are
     here without our permission. Be glad that you didn't stomp over any houses
-    with your big feets as you trampled through the meadow."
+    with your big feets as you trampled through the meadow. You are to come
+    with us, so a due justice can be administered."
+
+    fairies "[He] will trample our homes and crush all the beautiful flowers!"
+
+    Simbali "That is true, we can't let you cause any havoc in our beautiful
+    meadow. I'll arrange this."
+
+    Simbali started flying around [dreamer] and threw multicoloured dust at
+    [him] while singing a strange melody. First, nothing seemed to happen, but
+    then [dreamer] felt small tingling. The tingling started from [his] spine
+    and spread up and down from there. Flowers and grass around [him] seemed
+    to grow and soon they were high above [his] head."
+
+    "[dreamer] kept shrinking and shrinking, until [he] was the same size as
+    the fairies."
 
 label walk_without_rest:
     "bar"

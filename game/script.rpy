@@ -432,10 +432,9 @@ label fairy_folk_in_clearing:
     "[dreamer] sat down on a small twig and watched as fairies gathered in the
     clearing. [He] couldn't hear clearly what the fairies were talking, but
     clearly they were quite agitated. Time passed and the sun was rising
-    higher. At some point a fairy bought [him] something to eat."
-
-    "Eventually fairies seemed to reach a conclusion and they parted to
-    different directions. [dreamer] stood up as Simbali walked towards [him]."
+    higher. At some point a fairy bought [him] something to eat. Eventually
+    fairies seemed to reach a conclusion and they parted to different
+    directions. [dreamer] stood up as Simbali walked towards [him]."
 
 label walk_without_rest:
     "bar"

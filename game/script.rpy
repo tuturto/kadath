@@ -440,5 +440,41 @@ label fairy_folk_in_clearing:
     fairies seemed to reach a conclusion and they parted to different
     directions. [dreamer] stood up as Simbali walked towards [him]."
 
+    Simbali "We have come to a conclusion and will give you an opportunity
+    to redeem yourself. Not long time ago, a treasure was stolen from us and
+    we wish to get it back. While we know where it is, we can't retrieve it by
+    ourselves. This is where you come into the picture. If you can retrieve the
+    treasure and return it to us, we will let you go."
+
+    Simbali "However, if you choose not to perform this task or fail trying it,
+    you will be imprisoned until we decide otherwise."
+
+    "[dreamer] didn't really have any options. Simbali had cast a spell on [him]
+    and [he] was in captivity in their town. Escaping seemed impossible, so
+    [dreamer] agreed to perform the task."
+
+    Simbali "Good, I knew that you would be reasonable. The task is rather
+    simple. We need you to retrieve a bag of pearls that was stolen from us by
+    a group of thunder beetles. They have a hive on the other side of the
+    river and we know its location. But because the hive is underground, we
+    can't enter it and retrieve the pearls by ourselves."
+
+    Simbali "A butterfly will take you near the hive and wait you there. The
+    excact details on how you will get the pearls is up to you, but I would
+    advice you to avoid the beetles as much as possible. They are vicious folk
+    and your story will surely be at end if they catch you."
+
+    "A butterfly was summoned and after a brief flight [dreamer] found herself
+    standing in the long grass. The butterfly was resting on a large hosta and
+    watching [him] as [he] slowly started walking to the direction where the
+    hive was supposed to be."
+
+    "[dreamer] was full of doubts. [He] certainly was not a fighter and didn't
+    really have an idea how to approach the problem. This was something entirely
+    different than raiding [his] parents' cookie jar in the night. [He] felt a
+    little sting of home sickness in [his] chest and wondered what mother and
+    father were doing anyway and if they had already noticed that [he] had
+    disappeared somewhere."
+
 label walk_without_rest:
     "bar"

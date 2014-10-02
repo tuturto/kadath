@@ -14,6 +14,7 @@ image bg open_book = "open_book.png"
 image bg clearing = "clearing.png"
 image bg mushrooms = "mushrooms.png"
 image bg limbaugh_img = "limbaugh.png"
+image bg pie = "pie.png"
 
 define dreamer = None
 define he = None
@@ -241,6 +242,9 @@ label clearing_forward:
     mushrooms. It looked like you were almost ready to take a bite from them.
     I would advice against doing that however, these mushrooms aren't
     particularly tasty."
+
+    scene bg pie
+    with dissolve   
 
     Limbaugh "All is not lost though, I have remains of a very delicious
     mushroom pie in one of my bags. Would you like to share it with me

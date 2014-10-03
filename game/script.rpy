@@ -546,7 +546,14 @@ label negotiate_with_beetles:
 
     "[His] explanation raised a roar of chittering from the beetles. For a
     moment [dreamer] feared that [his] life would end at this very instant, but
-    then the king Chkakuth silenced the beetles"
+    then the king Chkakuth silenced the beetles."
+
+    Chkakuth "You are either very brave or very stupid to walk in here and
+    demand that we hand over the pearls. They are spoils of war, rightfully ours
+    by the might of the thunder beetles. If those fairies want them back, they
+    can come and get them by themselves!"
+
+    "Chkakuth's speech raised an approving storm of beetle chittering."
 
 label walk_without_rest:
     "bar"

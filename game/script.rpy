@@ -487,7 +487,33 @@ label fairy_folk_in_clearing:
     ground and moist roots."
 
     "[dreamer] started descending the stairs, stopping now and then to listen.
-    "
+    As [he] proceeded deeper and deeper under the ground, the sun light was
+    replaced with pale glow of the fungi. [He] heard faint chittering in the
+    distance that grew stronger further [he] progressed."
+
+    "Eventually [dreamer] arrived to an opening that let into a big cavern. [He]
+    could see large beetles sleeping here and there in the cavern, with few of
+    them wandering about the cavern. They were large, dark coloured and
+    generally menacing looking. In the middle of the cavern [he] could see
+    a bag of pearls on a big table."
+
+    "[dreamer] started to think what would be the best way to get the pearls.
+    [He] could sneak in and try to steal them. That might work since most of the
+    beetles seemed to be asleep. [He] could also just charge in and try to scare
+    them away. Third option was the scariest one, just walk in and ask if [he]
+    could take the pearls and return them to the fairies."
+
+    menu:
+        "How should [dreamer] try to solve the problem?"
+
+        "Sneak in and steal the pearls":
+            "I prefer 'treasure hunter'"
+
+        "Charge in and try to scare beetles":
+            "Leroy Jenkins!"
+
+        "Walk in and ask to have the pearls":
+            "Open the hailing frequencies"
 
 label walk_without_rest:
     "bar"

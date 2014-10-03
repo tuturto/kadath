@@ -8,6 +8,8 @@ define Simbali = Character('Simbali', color="#6633cc")
 
 define fairies = Character('other fairies', color="#33cccc")
 
+define Chkakuth = Character('Chkakuth', color="#cc6633")
+
 image bg house = "opening_house.png"
 image bg book = "book.png"
 image bg open_book = "open_book.png"
@@ -507,13 +509,44 @@ label fairy_folk_in_clearing:
         "How should [dreamer] try to solve the problem?"
 
         "Sneak in and steal the pearls":
-            "I prefer 'treasure hunter'"
+            jump steal_pearls
 
         "Charge in and try to scare beetles":
-            "Leroy Jenkins!"
+            jump charge_hive
 
         "Walk in and ask to have the pearls":
-            "Open the hailing frequencies"
+            jump negotiate_with_beetles
+
+label steal_pearls:
+    "stealing"
+
+label charge_hive:
+    "Charge!"
+
+label negotiate_with_beetles:
+    "[dreamer] was hesitant, but [he] thought this would be the best course of
+    action. [His] throat was try and [his] hands were trembling as [he] stepped
+    into the cavern. After [dreamer] had taken couple of steps, the beetles
+    spotted [him]. As [he] walked towards them [dreamer] heard chittering and
+    clattering as more and more beetles were woken and alarmed."
+
+    "Large beetles were surrounding [him] now. [dreamer] hoped that [he] hadn't
+    done a mistake when [he] decided to try and reason with them. A large and
+    differently coloured beetle slowly walked on front of [him]. It towered far
+    above [dreamer] and could easily crush [him] any moment. [dreamer] tried to
+    speak, but [his] throat was completely dry."
+
+    Chkakuth "I am king Chkakuth, leader of the thunder beetles and ruler of
+    this hive. Who are you and why have you intruded into our tunnels?"
+
+    "[dreamer] had to tried twice, before [he] could answer. With a trembling
+    voice [he] explained that [he] had been sent by the fairies to retrieve the
+    pearls that had been taken from them and asked if the beetles would be so
+    kind and give them to [him]."
+
+    "[His] explanation raised a roar of chittering from the beetles. For a
+    moment [dreamer] feared that [his] life would end at this very instant, but
+    then the king Chkakuth silenced the beetles."
 
 label walk_without_rest:
     "bar"

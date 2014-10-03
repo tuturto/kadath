@@ -17,6 +17,7 @@ image bg clearing = "clearing.png"
 image bg mushrooms = "mushrooms.png"
 image bg limbaugh_img = "limbaugh.png"
 image bg pie = "pie.png"
+image bg forest_road = "forest_road.png"
 
 define dreamer = None
 define he = None
@@ -286,6 +287,9 @@ label eat_pie_with_limbaugh:
     "[dreamer] watched as Limbaugh stood up, collected his bags and after
     counting them twice, started walking. Curiously, he didn't follow the
     road, but continued directly into shadowy woods."
+
+    scene bg forest_road
+    with dissolve
 
     "Soon the forest was quiet again. One could still hear rustling and flapping
     of small creatures here and there, but that was all. [dreamer] looked around

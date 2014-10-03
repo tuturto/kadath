@@ -476,5 +476,18 @@ label fairy_folk_in_clearing:
     father were doing anyway and if they had already noticed that [he] had
     disappeared somewhere."
 
+    "Soon [he] arrived to what had to be the hive. There was a large mound of
+    soil that had a hole on the side. Wide stairs lead down under the earth.
+    [dreamer] could see that there had been lot of traffic going in and coming
+    out, but currently there were no movement to see."
+
+    "After gathering [his] courage for a bit, [dreamer] snuck to the stairs and
+    looked down. Spiraling stairs were illuminated by luminuous fungi that was
+    growing on the walls and ceiling. Heavy hanging air smelled like damp
+    ground and moist roots."
+
+    "[dreamer] started descending the stairs, stopping now and then to listen.
+    "
+
 label walk_without_rest:
     "bar"

@@ -213,11 +213,11 @@ label clearing_forward:
             python:
                 he = "she"
                 him = "her"
-                his = "hers"
+                his = "her"
                 himself = "herself"
                 He = "She"
                 Him = "Her"
-                His = "Hers"
+                His = "Her"
 
         "They":
             python:
@@ -546,7 +546,7 @@ label negotiate_with_beetles:
 
     "[His] explanation raised a roar of chittering from the beetles. For a
     moment [dreamer] feared that [his] life would end at this very instant, but
-    then the king Chkakuth silenced the beetles."
+    then the king Chkakuth silenced the beetles"
 
 label walk_without_rest:
     "bar"

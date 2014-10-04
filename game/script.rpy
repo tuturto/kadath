@@ -619,7 +619,112 @@ label offer_peace:
     again. [dreamer] turned to thank the beetle, but it had already retreated
     back into the hive."
 
+    "[dreamer] retraced [his] steps back to the butterfly, who was more than
+    happy to take off and leave the vicinity of the hive. [He] was clutching the
+    bag of pearls during the whole flight, worried that they would drop and get
+    lost in the tall grass."
+
     $ white_pearls = True
+
+    jump fairy_town
+
+label fairy_town:
+    "Back in the fairy town, there was a huge gathering of fairies waiting for
+    [him]. Loud murmuring rose from the crowd as the butterfly landed and
+    [dreamer] stepped down, holding the bag of pearls."
+
+    Simbali "I have to admit, you are more resourceful than you look like. How
+    did you manage to get the pearls back?"
+
+    menu:
+        "What should [dreamer] say?"
+
+        "Tell about the trade and peace offering":
+            jump tell_peace_offering
+
+        "Lie that you snuck in and stole them":
+            jump lie_about_sneaking_in
+
+label lie_about_sneaking_in:
+    "[dreamer] decided that even when [he] had agreed to help to trade
+    the pearls between fairies and the beetles, it wouldn't work in the end.
+    Now was [his] chance to spin some yarn and make a good impression on
+    the fairies. Who knows, maybe [he] could even ask to have one or two
+    pearls as a token of friendship."
+
+    "[dreamer] told an impressive story of how [he] had first silently
+    sneaked inside the hive and after considerable effort located the pearls.
+    There were at least twice as many beetles in [his] story that had been
+    in the hive and most of them were awake. Somehow, [he] had still had
+    managed to stay in the shadows and patiently sneak to the pearls."
+
+    "[His] story continued as [dreamer] explained that as soon as [he] had
+    the pearls in [his] custody, a beetle had noticed the missing pearls and
+    an alarm had been sounded. If [dreamer] had not been so crafty and stealthy,
+    [he] surely would have been caught. But in the end [he] had snuck out of
+    the hive and now [he] was here with the pearls."
+
+    "Fairies were listening to [his] story silently. In particularly exciting
+    parts somebody might let out a small gasp, but other than that all the
+    fairies were silent. They clearly admired how skillful and clever [dreamer]
+    was. Only Simbali seemed to be unaffected by the story, [dreamer] was
+    wondering if the fairy guessed that [he] wasn't telling the truth."
+
+    "When the story was over, everyone were silent for a while and started at
+    Simbali. Eventually the fairy spoke with a steady voice that didn't reveal
+    an emotion."
+
+    Simbali "You have fulfilled your part of the deal. We will now fulfill our
+    part. First you are escorted at the edge of the meadow, where there are no
+    fairies or houses to trample on. Then a spell will be cast upon you that
+    will return you back to your normal size. After that you are free to go."
+
+    Simbali "You did well. It was not an easy task to retrieve the pearls from
+    the hive of the thunder beetles. However, in the future, you would do
+    well to avoid wandering on the meadow again. This time you were lucky and
+    managed to avoid the judgement. Next time might not be so easy anymore."
+
+    $ white_pearls = False
+
+    jump leaving_town
+
+label tell_peace_offering:
+    "[dreamer] starts telling how [he] entered the hive and what transpired
+    within it. When [he] arrived to the part where deal was made to trade
+    the pearls, Simbali's face turned dark. Regardless of that [dreamer]
+    continued, until the story had been told."
+
+    Simbali "You were sent to retrieve the pearls and not to trade away our
+    treasures. However, fairies keep their word, unlike certain earth digging
+    beetles. I will have a squad to deliver the black pearls to the hive. We
+    can always get them back later with force."
+
+    Simbali "You have fulfilled your part of the deal. We will now fulfill our
+    part. First you are escorted at the edge of the meadow, where there are no
+    fairies or houses to trample on. Then a spell will be cast upon you that
+    will return you back to your normal size. After that you are free to go."
+
+    Simbali "You didn't do too badly. I just wish that we wouldn't have to hand
+    over those pearls that are in our possession. In the future, you would do
+    well to avoid wandering on the meadow again. This time you were lucky and
+    managed to avoid the judgement. Next time might not be so easy anymore."
+
+    $ white_pearls = True
+
+    jump leaving_town
+
+label leaving_town:
+    "Simbali turned away and left. [dreamer] was given a butterfly to fly and
+    soon enough [he] and few fairies that were escorting [him] were again at
+    the edge of the meadow. [dreamer] stepped down and closed [his] eyes as
+    one of the fairies started throwing the colourful dust at [him]."
+
+    "[dreamer] felt the familiar tingle that started from [his] spine and spread
+    over the whole body. As [he] opened [his] eyes, fairies were nowhere to be
+    seen and [he] was again looking flowers from the above, not from the down."
 
 label walk_without_rest:
     "bar"
+
+label arriving_to_village:
+    "arrive to village"

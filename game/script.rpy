@@ -723,6 +723,12 @@ label leaving_town:
     over the whole body. As [he] opened [his] eyes, fairies were nowhere to be
     seen and [he] was again looking flowers from the above, not from the down."
 
+    "[dreamer] looked at the meadow one more time and then turned to continue.
+    The friendly village was somewhere in front of [him]. It occurred to [him]
+    that it would have been a good idea to ask the fairies if they knew anything
+    about it. Although [dreamer] had a feeling that the fairy folk didn't often
+    leave the meadow, if ever at all."
+
 label walk_without_rest:
     "bar"
 

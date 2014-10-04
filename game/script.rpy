@@ -29,6 +29,8 @@ define Him = None
 define His = None
 
 define ate_pie_with_limbaugh = False
+define white_pearls = False
+define black_pearls = False
 
 label start:
     scene bg house
@@ -580,6 +582,44 @@ label offer_peace:
     the beetles lived underneath. Maybe some compromises would have to be done
     here and there, but [he] was sure that they could work it all out in the
     end."
+
+    Chkakuth "We have been in war with the fairies as long as we can remember.
+    They try to drive us away from the meadow and we are trying to do the same.
+    We can't just simply say that 'lets forget all this and be friends.' It
+    does not work that way."
+
+    "[dreamer] noticed that some of the beetles weren't as enthuastic as before
+    and even Chkakuth seemed tired. [He] offered to help with the negotiations.
+    They could start slowly and first cease fighting and then try and find out
+    a way that everybody could continue living at the meadow."
+
+    "Chkakuth was silent for a very long time. [dreamer] was already getting
+    worried that [his] plan wouldn't work after all, but then Chkakuth spoke and
+    broke the silence."
+
+    Chkakuth "Very well, we accept your offer. But don't take us as fools that
+    you can trick. At the first sign of treachery the agreement is broken and
+    we will return to war with fairies. Until then, you have the word of the
+    thunder beetles that we won't be attacking the fairies."
+
+    Chkakuth "You may take the pearls that the fairies sent you to retrieve. But
+    in return we would like our pearls to be returned to us. They are like
+    these, but instead of being white, they are all black. Fairies will know
+    what I talk about if you ask them. They took those pearls from us in force.
+    A guard will escort you back to the surface."
+
+    "Chkakuth turned and slowly walked away. Other beetles started scattering
+    to different directions. Lighter coloured beetle handed [dreamer] the bag
+    of pearls and started escorting [him] towards the surface. This new beetle
+    spoke very little and soon [dreamer] gave up trying to ask more question."
+
+    "After ascending in silence for a while, [dreamer] started notice how light
+    was changing. Pale glow of fungi was slowly replaced with the warn sun shine
+    and [his] spirits rose as [he] could see the blue sky above [his] head
+    again. [dreamer] turned to thank the beetle, but it had already retreated
+    back into the hive."
+
+    $ white_pearls = True
 
 label walk_without_rest:
     "bar"

@@ -674,17 +674,7 @@ label lie_about_sneaking_in:
     Simbali. Eventually the fairy spoke with a steady voice that didn't reveal
     an emotion."
 
-    Simbali "You have fulfilled your part of the deal. We will now fulfill our
-    part. First you are escorted at the edge of the meadow, where there are no
-    fairies or houses to trample on. Then a spell will be cast upon you that
-    will return you back to your normal size. After that you are free to go."
-
-    Simbali "You did well. It was not an easy task to retrieve the pearls from
-    the hive of the thunder beetles. However, in the future, you would do
-    well to avoid wandering on the meadow again. This time you were lucky and
-    managed to avoid the judgement. Next time might not be so easy anymore."
-
-    $ white_pearls = False
+    $ black_pearls = False
 
     jump leaving_town
 
@@ -699,21 +689,31 @@ label tell_peace_offering:
     beetles. I will have a squad to deliver the black pearls to the hive. We
     can always get them back later with force."
 
+    $ black_pearls = True
+
+    jump leaving_town
+
+label leaving_town:
+
+    if black_pearls:
+        Simbali "You didn't do too badly. I just wish that we wouldn't have to
+        hand over those pearls that are in our possession. In the future, you
+        would do well to avoid wandering on the meadow again. This time you were
+        lucky and managed to avoid the judgement. Next time might not be so easy
+        anymore."
+
+    if not black_pearls:
+        Simbali "You did well. It was not an easy task to retrieve the pearls
+        from the hive of the thunder beetles. However, in the future, you would
+        do well to avoid wandering on the meadow again. This time you were lucky
+        and managed to avoid the judgement. Next time might not be so easy
+        anymore."
+
     Simbali "You have fulfilled your part of the deal. We will now fulfill our
     part. First you are escorted at the edge of the meadow, where there are no
     fairies or houses to trample on. Then a spell will be cast upon you that
     will return you back to your normal size. After that you are free to go."
 
-    Simbali "You didn't do too badly. I just wish that we wouldn't have to hand
-    over those pearls that are in our possession. In the future, you would do
-    well to avoid wandering on the meadow again. This time you were lucky and
-    managed to avoid the judgement. Next time might not be so easy anymore."
-
-    $ white_pearls = True
-
-    jump leaving_town
-
-label leaving_town:
     "Simbali turned away and left. [dreamer] was given a butterfly to fly and
     soon enough [he] and few fairies that were escorting [him] were again at
     the edge of the meadow. [dreamer] stepped down and closed [his] eyes as
@@ -728,6 +728,10 @@ label leaving_town:
     that it would have been a good idea to ask the fairies if they knew anything
     about it. Although [dreamer] had a feeling that the fairy folk didn't often
     leave the meadow, if ever at all."
+
+    "foo bar baz"
+
+    jump arriving_to_village
 
 label walk_without_rest:
     "bar"

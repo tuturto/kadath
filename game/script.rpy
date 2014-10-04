@@ -557,7 +557,29 @@ label negotiate_with_beetles:
     by the might of the thunder beetles. If those fairies want them back, they
     can come and get them by themselves!"
 
-    "Chkakuth's speech raised an approving storm of beetle chittering."
+    "Chkakuth's speech raised an approving storm of beetle chittering.
+    Eventually it died down and [dreamer] could continue. This seemed like a
+    crucial moment, fail here and [his] mission would fail."
+
+    menu:
+        "How should [dreamer] approach this?"
+
+        "Ask if the beetles could trade the pearls for something":
+            jump offer_trade
+
+        "Ask if the beetles would rather have peace":
+            jump offer_peace
+
+label offer_trade:
+    "offer trade"
+
+label offer_peace:
+    "[dreamer] cleared [his] throat and asked if the beetles would rather live
+    in peace with the fairies. It seemed to [him] that there would be enough
+    space for both of them on the meadow, because fairies lived on top of it and
+    the beetles lived underneath. Maybe some compromises would have to be done
+    here and there, but [he] was sure that they could work it all out in the
+    end."
 
 label walk_without_rest:
     "bar"

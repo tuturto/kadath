@@ -729,7 +729,9 @@ label leaving_town:
     about it. Although [dreamer] had a feeling that the fairy folk didn't often
     leave the meadow, if ever at all."
 
-    "foo bar baz"
+    "[dreamer] started following the road once more. Like before, it was easy to
+    follow. The woods around [him] didn't look as thick as before and
+    occasionally [dreamer] caught glimpse of meadows and small ponds."
 
     jump arriving_to_village
 
@@ -737,4 +739,9 @@ label walk_without_rest:
     "bar"
 
 label arriving_to_village:
-    "arrive to village"
+
+    "Eventually the woods started growing thinner and [dreamer] could see
+    further than before. [He] could see fields in the distance and thought
+    the the village shouldn't be that far anymore. Soon after that the forest
+    ended and [dreamer] was walking on a road that was nestled between two
+    fields."

@@ -730,8 +730,8 @@ label leaving_town:
     leave the meadow, if ever at all."
 
     "[dreamer] started following the road once more. Like before, it was easy to
-    follow. The woods around [him] didn't look as thick as before and
-    occasionally [dreamer] caught glimpse of meadows and small ponds."
+    walk. The woods around [him] didn't look as thick as before and occasionally
+    [dreamer] caught glimpse of meadows and small ponds."
 
     jump arriving_to_village
 

@@ -18,6 +18,7 @@ image bg mushrooms = "mushrooms.png"
 image bg limbaugh_img = "limbaugh.png"
 image bg pie = "pie.png"
 image bg forest_road = "forest_road.png"
+image bg meadow_bg = "meadow.png"
 
 define dreamer = None
 define he = None
@@ -304,6 +305,9 @@ label eat_pie_with_limbaugh:
     yawned couple of times. Warm weather and silent forest didn't help at all
     either. [He] was determined to make to that village before the dark and
     pressed onwards."
+
+    scene bg meadow_bg
+    with dissolve
 
     "Eventually [dreamer] arrived to a clearing. The road continue straight and
     just barely edged the clearing. [He] could hear sound of a small stream

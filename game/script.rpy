@@ -745,3 +745,6 @@ label arriving_to_village:
     the the village shouldn't be that far anymore. Soon after that the forest
     ended and [dreamer] was walking on a road that was nestled between two
     fields."
+
+    "As [dreamer] walked towards the road, [he] saw farmers working on the
+    fields."

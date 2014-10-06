@@ -19,6 +19,7 @@ image bg limbaugh_img = "limbaugh.png"
 image bg pie = "pie.png"
 image bg forest_road = "forest_road.png"
 image bg meadow_bg = "meadow.png"
+image bg stream_bg = "stream.png"
 
 define dreamer = None
 define he = None
@@ -341,6 +342,9 @@ label drowsy_clearing:
     and butterflies were flying amidst the flowers. [He] could hear buzzing of
     the bees too. The air was very sweet from the scent on colourful flowers
     and [dreamer] stopped couple of times to smell them."
+
+    scene bg stream_bg
+    with dissolve
 
     "As [he] walked further, the sound of stream started getting stronger.
     Eventually [dreamer] arrived on bank of a small stream that was flowing

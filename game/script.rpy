@@ -746,5 +746,4 @@ label arriving_to_village:
     ended and [dreamer] was walking on a road that was nestled between two
     fields."
 
-    "As [dreamer] walked towards the road, [he] saw farmers working on the
-    fields."
+    "The village wasn't big, but it certainly was friendly looking."

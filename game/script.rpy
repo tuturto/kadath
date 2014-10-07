@@ -754,4 +754,6 @@ label arriving_to_village:
     ended and [dreamer] was walking on a road that was nestled between two
     fields."
 
-    "The village wasn't big, but it certainly was friendly looking."
+    "The village wasn't big, but it certainly was friendly looking. People
+    were walking around smiling and they greeted each other in warm and open
+    manner."

@@ -20,6 +20,7 @@ image bg pie = "pie.png"
 image bg forest_road = "forest_road.png"
 image bg meadow_bg = "meadow.png"
 image bg stream_bg = "stream.png"
+image bg simbali_bg = "simbali.png"
 
 define dreamer = None
 define he = None
@@ -379,6 +380,9 @@ label nap_in_clearing:
     somewhere not too far away and it sounded almost like distant chatter of
     people. [He] strirred and tried to listen to more closely. It was not just
     [his] imagination, the stream did sound like people chattering."
+
+    scene bg simbali_bg
+    with dissolve
 
     "Now [dreamer] was struggling in order to hear better. Sounds were so close
     that [he] could almost understand what they were talking. Suddenly [dreamer]

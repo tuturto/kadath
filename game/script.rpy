@@ -21,6 +21,7 @@ image bg forest_road = "forest_road.png"
 image bg meadow_bg = "meadow.png"
 image bg stream_bg = "stream.png"
 image bg simbali_bg = "simbali.png"
+image bg trial_bg = "trial.png"
 
 define dreamer = None
 define he = None
@@ -452,6 +453,9 @@ label fairy_folk_in_clearing:
     could have easily stepped on our houses without noticing them at all. This
     is also where we will decide a proper judgement for you. You may sit down
     in the shade over there as we have our meeting."
+
+    scene bg trial_bg
+    with dissolve
 
     "[dreamer] sat down on a small twig and watched as fairies gathered in the
     clearing. [He] couldn't hear clearly what the fairies were talking, but

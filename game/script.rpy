@@ -760,4 +760,20 @@ label arriving_to_village:
 
     "The village wasn't big, but it certainly was friendly looking. People
     were walking around smiling and they greeted each other in warm and open
-    manner."
+    manner. On [his] left, [dreamer] saw some cats walk into an alley, while
+    from the right [he] could smell delicious freshly baked bread."
+
+    menu:
+        "Which direction [dreamer] should go?"
+
+        "Left, follow the cats":
+            jump cats_in_alley
+
+        "Right, freshly baked bread should be delicious":
+            jump fresh_bread
+
+label fresh_bread:
+    "fresh bread"
+
+label cats_in_alley:
+    "Follow cats"

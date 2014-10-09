@@ -297,10 +297,11 @@ label eat_pie_with_limbaugh:
     scene bg forest_road
     with dissolve
 
-    "Soon the forest was quiet again. One could still hear rustling and flapping
-    of small creatures here and there, but that was all. [dreamer] looked around
-    and then stood up. [He] started walking the road again, wondering how long
-    it would take [him] to arrive that friendly village Limbaugh had mentioned."
+    "Soon the forest was quiet again. One could still hear rustling and
+    flapping of small creatures here and there, but that was all. [dreamer]
+    looked around and then stood up. [He] started walking the road again,
+    wondering how long it would take [him] to arrive that friendly village
+    Limbaugh had mentioned."
 
     "Walking was easy. The road was even and there were no big hills or other
     obstacles in the way. The mushroom pie had driven the hunger away and [he]
@@ -315,8 +316,9 @@ label eat_pie_with_limbaugh:
     "Eventually [dreamer] arrived to a clearing. The road continue straight and
     just barely edged the clearing. [He] could hear sound of a small stream
     coming from somewhere near, although it was nowhere to be seen. The ground
-    was covered in tall grass and flowers of all colours. [dreamer] thought that
-    the stream couldn't be far away and was probably just hidden by flowers."
+    was covered in tall grass and flowers of all colours. [dreamer] thought
+    that the stream couldn't be far away and was probably just hidden by
+    flowers."
 
     "Sweet scent of flowers was tantalizing and [he] could see some big
     butterflies flying among them. Would a short stop here to rest hurt that
@@ -339,11 +341,11 @@ label do_not_eat_pie_with_limbaugh:
     return
 
 label drowsy_clearing:
-    "[dreamer] stepped from the road and started walking into the clearing. Tall
-    flowers soon surrounded [him] from every direction. Sun was shining warmly
-    and butterflies were flying amidst the flowers. [He] could hear buzzing of
-    the bees too. The air was very sweet from the scent on colourful flowers
-    and [dreamer] stopped couple of times to smell them."
+    "[dreamer] stepped from the road and started walking into the clearing.
+    Tall flowers soon surrounded [him] from every direction. Sun was shining
+    warmly and butterflies were flying amidst the flowers. [He] could hear
+    buzzing of the bees too. The air was very sweet from the scent on
+    colourful flowers and [dreamer] stopped couple of times to smell them."
 
     scene bg stream_bg
     with dissolve
@@ -377,19 +379,20 @@ label nap_in_clearing:
     a deep sleep as flowers and butterflies were guarding [him]."
 
     "[dreamer] was dreaming of sweet smelling flowers of all colours and big
-    butterflies that were flying amidst them. Sound of the stream could be heard
-    somewhere not too far away and it sounded almost like distant chatter of
-    people. [He] strirred and tried to listen to more closely. It was not just
-    [his] imagination, the stream did sound like people chattering."
+    butterflies that were flying amidst them. Sound of the stream could be
+    heard somewhere not too far away and it sounded almost like distant
+    chatter of people. [He] strirred and tried to listen to more closely. It
+    was not just [his] imagination, the stream did sound like people
+    chattering."
 
     scene bg simbali_bg
     with dissolve
 
     "Now [dreamer] was struggling in order to hear better. Sounds were so close
-    that [he] could almost understand what they were talking. Suddenly [dreamer]
-    woke up and stood to a sitting position, looking around and realised that
-    [he] was surrounded with small, winged creatures that were the source of
-    chattering [he] had heard in [his] dream."
+    that [he] could almost understand what they were talking. Suddenly
+    [dreamer] woke up and stood to a sitting position, looking around and
+    realised that [he] was surrounded with small, winged creatures that were
+    the source of chattering [he] had heard in [his] dream."
 
     jump fairy_folk_in_clearing
 
@@ -398,8 +401,8 @@ label stay_awake_in_clearing:
 
 label fairy_folk_in_clearing:
     simbali "Hey, big folk! What are you doing here, snoring like an old bear?
-    We can barely hear our own thoughts and I'm sure all the birds of the forest
-    have gone deaf and are not going to sing in a while."
+    We can barely hear our own thoughts and I'm sure all the birds of the
+    forest have gone deaf and are not going to sing in a while."
 
     "Tiny winged creatures were sitting on flowers and in grass. Some were
     flying around and all of them were chattering busily with each other. It
@@ -446,8 +449,8 @@ label fairy_folk_in_clearing:
     "Soon they landed on a large clearing. [dreamer] realized that even if the
     clearing looked large, in reality it was relatively small. Everything just
     looked so much larger from [his] current point of view. Colourful houses
-    were surrounding the clearing. Some of them were on the ground, while others
-    were hanging from the flowers and grass."
+    were surrounding the clearing. Some of them were on the ground, while
+    others were hanging from the flowers and grass."
 
     Simbali "This is our town. As you can see, if you had wandered here you
     could have easily stepped on our houses without noticing them at all. This
@@ -473,9 +476,9 @@ label fairy_folk_in_clearing:
     Simbali "However, if you choose not to perform this task or fail trying it,
     you will be imprisoned until we decide otherwise."
 
-    "[dreamer] didn't really have any options. Simbali had cast a spell on [him]
-    and [he] was in captivity in their town. Escaping seemed impossible, so
-    [dreamer] agreed to perform the task."
+    "[dreamer] didn't really have any options. Simbali had cast a spell on
+    [him] and [he] was in captivity in their town. Escaping seemed impossible,
+    so [dreamer] agreed to perform the task."
 
     Simbali "Good, I knew that you would be reasonable. The task is rather
     simple. We need you to retrieve a bag of pearls that was stolen from us by
@@ -494,11 +497,11 @@ label fairy_folk_in_clearing:
     hive was supposed to be."
 
     "[dreamer] was full of doubts. [He] certainly was not a fighter and didn't
-    really have an idea how to approach the problem. This was something entirely
-    different than raiding [his] parents' cookie jar in the night. [He] felt a
-    little sting of home sickness in [his] chest and wondered what mother and
-    father were doing anyway and if they had already noticed that [he] had
-    disappeared somewhere."
+    really have an idea how to approach the problem. This was something
+    entirely different than raiding [his] parents' cookie jar in the night.
+    [He] felt a little sting of home sickness in [his] chest and wondered what
+    mother and father were doing anyway and if they had already noticed that
+    [he] had disappeared somewhere."
 
     "Soon [he] arrived to what had to be the hive. There was a large mound of
     soil that had a hole on the side. Wide stairs lead down under the earth.
@@ -515,17 +518,17 @@ label fairy_folk_in_clearing:
     replaced with pale glow of the fungi. [He] heard faint chittering in the
     distance that grew stronger further [he] progressed."
 
-    "Eventually [dreamer] arrived to an opening that let into a big cavern. [He]
-    could see large beetles sleeping here and there in the cavern, with few of
-    them wandering about the cavern. They were large, dark coloured and
+    "Eventually [dreamer] arrived to an opening that let into a big cavern.
+    [He] could see large beetles sleeping here and there in the cavern, with
+    few of them wandering about the cavern. They were large, dark coloured and
     generally menacing looking. In the middle of the cavern [he] could see
     a bag of pearls on a big table."
 
     "[dreamer] started to think what would be the best way to get the pearls.
-    [He] could sneak in and try to steal them. That might work since most of the
-    beetles seemed to be asleep. [He] could also just charge in and try to scare
-    them away. Third option was the scariest one, just walk in and ask if [he]
-    could take the pearls and return them to the fairies."
+    [He] could sneak in and try to steal them. That might work since most of
+    the beetles seemed to be asleep. [He] could also just charge in and try to
+    scare them away. Third option was the scariest one, just walk in and ask
+    if [he] could take the pearls and return them to the fairies."
 
     menu:
         "How should [dreamer] try to solve the problem?"
@@ -571,9 +574,9 @@ label negotiate_with_beetles:
     then the king Chkakuth silenced the beetles."
 
     Chkakuth "You are either very brave or very stupid to walk in here and
-    demand that we hand over the pearls. They are spoils of war, rightfully ours
-    by the might of the thunder beetles. If those fairies want them back, they
-    can come and get them by themselves!"
+    demand that we hand over the pearls. They are spoils of war, rightfully
+    ours by the might of the thunder beetles. If those fairies want them back,
+    they can come and get them by themselves!"
 
     "Chkakuth's speech raised an approving storm of beetle chittering.
     Eventually it died down and [dreamer] could continue. This seemed like a
@@ -594,10 +597,10 @@ label offer_trade:
 label offer_peace:
     "[dreamer] cleared [his] throat and asked if the beetles would rather live
     in peace with the fairies. It seemed to [him] that there would be enough
-    space for both of them on the meadow, because fairies lived on top of it and
-    the beetles lived underneath. Maybe some compromises would have to be done
-    here and there, but [he] was sure that they could work it all out in the
-    end."
+    space for both of them on the meadow, because fairies lived on top of it
+    and the beetles lived underneath. Maybe some compromises would have to be
+    done here and there, but [he] was sure that they could work it all out in
+    the end."
 
     Chkakuth "We have been in war with the fairies as long as we can remember.
     They try to drive us away from the meadow and we are trying to do the same.
@@ -610,16 +613,16 @@ label offer_peace:
     a way that everybody could continue living at the meadow."
 
     "Chkakuth was silent for a very long time. [dreamer] was already getting
-    worried that [his] plan wouldn't work after all, but then Chkakuth spoke and
-    broke the silence."
+    worried that [his] plan wouldn't work after all, but then Chkakuth spoke
+    and broke the silence."
 
     Chkakuth "Very well, we accept your offer. But don't take us as fools that
     you can trick. At the first sign of treachery the agreement is broken and
     we will return to war with fairies. Until then, you have the word of the
     thunder beetles that we won't be attacking the fairies."
 
-    Chkakuth "You may take the pearls that the fairies sent you to retrieve. But
-    in return we would like our pearls to be returned to us. They are like
+    Chkakuth "You may take the pearls that the fairies sent you to retrieve.
+    But in return we would like our pearls to be returned to us. They are like
     these, but instead of being white, they are all black. Fairies will know
     what I talk about if you ask them. They took those pearls from us in force.
     A guard will escort you back to the surface."
@@ -630,15 +633,15 @@ label offer_peace:
     spoke very little and soon [dreamer] gave up trying to ask more question."
 
     "After ascending in silence for a while, [dreamer] started notice how light
-    was changing. Pale glow of fungi was slowly replaced with the warn sun shine
-    and [his] spirits rose as [he] could see the blue sky above [his] head
-    again. [dreamer] turned to thank the beetle, but it had already retreated
-    back into the hive."
+    was changing. Pale glow of fungi was slowly replaced with the warn sun
+    shine and [his] spirits rose as [he] could see the blue sky above [his]
+    head again. [dreamer] turned to thank the beetle, but it had already
+    retreated back into the hive."
 
     "[dreamer] retraced [his] steps back to the butterfly, who was more than
-    happy to take off and leave the vicinity of the hive. [He] was clutching the
-    bag of pearls during the whole flight, worried that they would drop and get
-    lost in the tall grass."
+    happy to take off and leave the vicinity of the hive. [He] was clutching
+    the bag of pearls during the whole flight, worried that they would drop
+    and get lost in the tall grass."
 
     $ white_pearls = True
 
@@ -676,9 +679,9 @@ label lie_about_sneaking_in:
 
     "[His] story continued as [dreamer] explained that as soon as [he] had
     the pearls in [his] custody, a beetle had noticed the missing pearls and
-    an alarm had been sounded. If [dreamer] had not been so crafty and stealthy,
-    [he] surely would have been caught. But in the end [he] had snuck out of
-    the hive and now [he] was here with the pearls."
+    an alarm had been sounded. If [dreamer] had not been so crafty and
+    stealthy, [he] surely would have been caught. But in the end [he] had
+    snuck out of the hive and now [he] was here with the pearls."
 
     "Fairies were listening to [his] story silently. In particularly exciting
     parts somebody might let out a small gasp, but other than that all the
@@ -714,16 +717,16 @@ label leaving_town:
     if black_pearls:
         Simbali "You didn't do too badly. I just wish that we wouldn't have to
         hand over those pearls that are in our possession. In the future, you
-        would do well to avoid wandering on the meadow again. This time you were
-        lucky and managed to avoid the judgement. Next time might not be so easy
-        anymore."
+        would do well to avoid wandering on the meadow again. This time you
+        were lucky and managed to avoid the judgement. Next time might not be
+        so easy anymore."
 
     if not black_pearls:
         Simbali "You did well. It was not an easy task to retrieve the pearls
         from the hive of the thunder beetles. However, in the future, you would
-        do well to avoid wandering on the meadow again. This time you were lucky
-        and managed to avoid the judgement. Next time might not be so easy
-        anymore."
+        do well to avoid wandering on the meadow again. This time you were
+        lucky and managed to avoid the judgement. Next time might not be so
+        easy anymore."
 
     Simbali "You have fulfilled your part of the deal. We will now fulfill our
     part. First you are escorted at the edge of the meadow, where there are no
@@ -735,19 +738,20 @@ label leaving_town:
     the edge of the meadow. [dreamer] stepped down and closed [his] eyes as
     one of the fairies started throwing the colourful dust at [him]."
 
-    "[dreamer] felt the familiar tingle that started from [his] spine and spread
-    over the whole body. As [he] opened [his] eyes, fairies were nowhere to be
-    seen and [he] was again looking flowers from the above, not from the down."
+    "[dreamer] felt the familiar tingle that started from [his] spine and
+    spread over the whole body. As [he] opened [his] eyes, fairies were
+    nowhere to be seen and [he] was again looking flowers from the above, not
+    from the down."
 
     "[dreamer] looked at the meadow one more time and then turned to continue.
     The friendly village was somewhere in front of [him]. It occurred to [him]
-    that it would have been a good idea to ask the fairies if they knew anything
-    about it. Although [dreamer] had a feeling that the fairy folk didn't often
-    leave the meadow, if ever at all."
+    that it would have been a good idea to ask the fairies if they knew
+    anything about it. Although [dreamer] had a feeling that the fairy folk
+    didn't often leave the meadow, if ever at all."
 
-    "[dreamer] started following the road once more. Like before, it was easy to
-    walk. The woods around [him] didn't look as thick as before and occasionally
-    [dreamer] caught glimpse of meadows and small ponds."
+    "[dreamer] started following the road once more. Like before, it was easy
+    to walk. The woods around [him] didn't look as thick as before and
+    occasionally [dreamer] caught glimpse of meadows and small ponds."
 
     jump arriving_to_village
 

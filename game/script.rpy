@@ -21,7 +21,9 @@ image bg forest_road = "forest_road.png"
 image bg meadow_bg = "meadow.png"
 image bg stream_bg = "stream.png"
 image bg simbali_bg = "simbali.png"
+image bg fairy_town_bg = "town.png"
 image bg trial_bg = "trial.png"
+image bg white_pearls_bg = "white_pearls.png"
 
 define dreamer = None
 define he = None
@@ -446,6 +448,9 @@ label fairy_folk_in_clearing:
     dared to peek down. The butterfly followed fairies, as they left the stream
     and headed deeper into the meadow."
 
+    scene bg fairy_town_bg
+    with dissolve
+
     "Soon they landed on a large clearing. [dreamer] realized that even if the
     clearing looked large, in reality it was relatively small. Everything just
     looked so much larger from [his] current point of view. Colourful houses
@@ -479,6 +484,9 @@ label fairy_folk_in_clearing:
     "[dreamer] didn't really have any options. Simbali had cast a spell on
     [him] and [he] was in captivity in their town. Escaping seemed impossible,
     so [dreamer] agreed to perform the task."
+
+    scene bg white_pearls_bg
+    with dissolve
 
     Simbali "Good, I knew that you would be reasonable. The task is rather
     simple. We need you to retrieve a bag of pearls that was stolen from us by

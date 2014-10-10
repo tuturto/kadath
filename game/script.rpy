@@ -784,4 +784,4 @@ label fresh_bread:
     "fresh bread"
 
 label cats_in_alley:
-    "Follow cats"
+    "[dreamer] followed two cats as they disappeared into a shadowy alley."

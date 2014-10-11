@@ -792,4 +792,6 @@ label fresh_bread:
     "fresh bread"
 
 label cats_in_alley:
-    "[dreamer] followed two cats as they disappeared into a shadowy alley."
+    "[dreamer] followed two cats as they disappeared into a shadowy alley.
+    When [he] entered the alley, [dreamer] saw that there were at least a
+    dozen if not more of them already there."

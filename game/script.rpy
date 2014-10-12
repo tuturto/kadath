@@ -10,6 +10,8 @@ define fairies = Character('other fairies', color="#33cccc")
 
 define Chkakuth = Character('Chkakuth', color="#cc6633")
 
+define black_cat = Character('black cat', color="#336666")
+
 image bg house = "opening_house.png"
 image bg book = "book.png"
 image bg open_book = "open_book.png"
@@ -794,4 +796,8 @@ label fresh_bread:
 label cats_in_alley:
     "[dreamer] followed two cats as they disappeared into a shadowy alley.
     When [he] entered the alley, [dreamer] saw that there were at least a
-    dozen if not more of them already there."
+    dozen if not more of them already there. Some of them were on the ground,
+    while others were sitting or standing on boxes and barrels strewn on the
+    alley. They looked at [him] inquisitively and then one of them spoke."
+
+    black_cat "Greetings Book Bearer and welcome to the Assembly of the Cats."

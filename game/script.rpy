@@ -26,6 +26,7 @@ image bg simbali_bg = "simbali.png"
 image bg fairy_town_bg = "town.png"
 image bg trial_bg = "trial.png"
 image bg white_pearls_bg = "white_pearls.png"
+image bg high_grass_bg = "high_grass.png"
 
 define dreamer = None
 define he = None
@@ -500,6 +501,9 @@ label fairy_folk_in_clearing:
     excact details on how you will get the pearls is up to you, but I would
     advice you to avoid the beetles as much as possible. They are vicious folk
     and your story will surely be at end if they catch you."
+
+    scene bg high_grass_bg
+    with dissolve
 
     "A butterfly was summoned and after a brief flight [dreamer] found herself
     standing in the long grass. The butterfly was resting on a large hosta and

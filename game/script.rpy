@@ -27,6 +27,7 @@ image bg fairy_town_bg = "town.png"
 image bg trial_bg = "trial.png"
 image bg white_pearls_bg = "white_pearls.png"
 image bg high_grass_bg = "high_grass.png"
+image bg hive_bg = "hive.png"
 
 define dreamer = None
 define he = None
@@ -516,6 +517,9 @@ label fairy_folk_in_clearing:
     [He] felt a little sting of home sickness in [his] chest and wondered what
     mother and father were doing anyway and if they had already noticed that
     [he] had disappeared somewhere."
+
+    scene bg hive_bg
+    with dissolve
 
     "Soon [he] arrived to what had to be the hive. There was a large mound of
     soil that had a hole on the side. Wide stairs lead down under the earth.

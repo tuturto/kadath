@@ -805,3 +805,7 @@ label cats_in_alley:
     alley. They looked at [him] inquisitively and then one of them spoke."
 
     black_cat "Greetings Book Bearer and welcome to the Assembly of the Cats."
+
+    "[dreamer] look at the book [he] was carrying. Clearly it held some
+    significance to the cats, otherwise they wouldn't have bothered mentioning
+    it."

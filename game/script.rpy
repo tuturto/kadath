@@ -509,7 +509,9 @@ label fairy_folk_in_clearing:
     "A butterfly was summoned and after a brief flight [dreamer] found herself
     standing in the long grass. The butterfly was resting on a large hosta and
     watching [him] as [he] slowly started walking to the direction where the
-    hive was supposed to be."
+    hive was supposed to be. [He] had to proceed carefully, as there were
+    thorny bushes all around and thorned vines covered the ground here and
+    there."
 
     "[dreamer] was full of doubts. [He] certainly was not a fighter and didn't
     really have an idea how to approach the problem. This was something

@@ -814,4 +814,11 @@ label cats_in_alley:
 
     "[dreamer] look at the book [he] was carrying. Clearly it held some
     significance to the cats, otherwise they wouldn't have bothered mentioning
-    it."
+    it. [He] greeted the cats, not quite sure how [he] should deal with this
+    new situation."
+
+    black_cat "I can see that you're still unaccustomed to being the Book
+    Bearer. Don't worry, you'll learn quickly enough if you have any senses
+    inside of that head of yours. And if you don't.."
+
+    "The cat shrugged."

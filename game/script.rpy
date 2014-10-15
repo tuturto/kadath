@@ -821,4 +821,4 @@ label cats_in_alley:
     Bearer. Don't worry, you'll learn quickly enough if you have any senses
     inside of that head of yours. And if you don't.."
 
-    "The cat shrugged."
+    "The cat shrugged and looked serenely at [dreamer]."

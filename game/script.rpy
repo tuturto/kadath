@@ -822,4 +822,4 @@ label cats_in_alley:
     inside of that head of yours. And if you don't.."
 
     "The cat shrugged and looked serenely at [him]. [dreamer] started feeling
-    a little bit uneasy."
+    a little bit uneasy. Talking cats weren't common."

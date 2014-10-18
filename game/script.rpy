@@ -809,17 +809,3 @@ label cats_in_alley:
     dozen if not more of them already there. Some of them were on the ground,
     while others were sitting or standing on boxes and barrels strewn on the
     alley. They looked at [him] inquisitively and then one of them spoke."
-
-    black_cat "Greetings Book Bearer and welcome to the Assembly of the Cats."
-
-    "[dreamer] look at the book [he] was carrying. Clearly it held some
-    significance to the cats, otherwise they wouldn't have bothered mentioning
-    it. [He] greeted the cats, not quite sure how [he] should deal with this
-    new situation."
-
-    black_cat "I can see that you're still unaccustomed to being the Book
-    Bearer. Don't worry, you'll learn quickly enough if you have any senses
-    inside of that head of yours. And if you don't.."
-
-    "The cat shrugged and looked serenely at [him]. [dreamer] started feeling
-    a little bit uneasy. Talking cats weren't common."

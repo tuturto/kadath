@@ -19,7 +19,7 @@ image bg clearing = "clearing.png"
 image bg mushrooms = "mushrooms.png"
 image bg limbaugh_img = "limbaugh.png"
 image bg pie = "pie.png"
-image bg forest_road = "forest_road.png"
+image bg forest_road_bg = "forest_road.png"
 image bg meadow_bg = "meadow.png"
 image bg stream_bg = "stream.png"
 image bg simbali_bg = "simbali.png"
@@ -38,6 +38,7 @@ define He = None
 define Him = None
 define His = None
 
+define met_limbaugh = False
 define ate_pie_with_limbaugh = False
 define white_pearls = False
 define black_pearls = False
@@ -162,6 +163,8 @@ label clearing_forward:
 
     scene bg mushrooms
     with dissolve
+
+    $ met_limbaugh = True
 
     "After a while of walking, it was time to stop and rest. The child sat
     under some large mushrooms that were growing next to the road. All that
@@ -300,7 +303,11 @@ label eat_pie_with_limbaugh:
     counting them twice, started walking. Curiously, he didn't follow the
     road, but continued directly into shadowy woods."
 
-    scene bg forest_road
+    jump forest_road
+
+label forest_road:
+
+    scene bg forest_road_bg
     with dissolve
 
     "Soon the forest was quiet again. One could still hear rustling and
@@ -309,12 +316,21 @@ label eat_pie_with_limbaugh:
     wondering how long it would take [him] to arrive that friendly village
     Limbaugh had mentioned."
 
-    "Walking was easy. The road was even and there were no big hills or other
-    obstacles in the way. The mushroom pie had driven the hunger away and [he]
-    was on a cheerful mood. [dreamer] was starting to get tired though and
-    yawned couple of times. Warm weather and silent forest didn't help at all
-    either. [He] was determined to make to that village before the dark and
-    pressed onwards."
+    if ate_pie_with_limbaugh:
+        "Walking was easy. The road was even and there were no big hills or
+        other obstacles in the way. The mushroom pie had driven the hunger away
+        and [he] was on a cheerful mood. [dreamer] was starting to get tired
+        though and yawned couple of times. Warm weather and silent forest
+        didn't help at all either. [He] was determined to make to that village
+        before the dark and pressed onwards."
+
+    if not ate_pie_with_limbaugh:
+        "Walking was easy. The road was even and there were no big hills or
+        other obstacles in the way. [dreamer] was starting to get hungry and
+        wished that [he] had eaten the pie with Limbaugh. On top of that
+        [dreamer] was starting to get tired Warm weather and silent forest
+        didn't help at all either. [He] was determined to make to that village
+        before the dark and pressed onwards."
 
     scene bg meadow_bg
     with dissolve
@@ -342,9 +358,32 @@ label eat_pie_with_limbaugh:
             jump walk_without_rest
 
 label do_not_eat_pie_with_limbaugh:
-    "No pie!!"
+    "Limbaugh shrugged when [dreamer] said [he] would rather not share a pie
+    with him. Limbaugh rearranged some of his many bags and then looked at
+    [dreamer] again."
 
-    return
+    Limbaugh "I don't mind that you didn't want to eat the pie with me. In
+    some ways it's actually very sensible to decline in these parts of the
+    world. One should be wary of the strangers after all. But if you don't
+    mind, we could still sit here for a bit before I have to continue my
+    journey."
+
+    Limbaugh "I see that you're carrying a dream book with you. That makes
+    traveling here safer. As long as you keep the book with you, there is
+    not very much that you need to be afraid of. But if you were to lose the
+    book, the situation would be different. So, keep a close eye on the book
+    and never let go of it."
+
+    Limbaugh "But now I must continue my journey. I'm on my way to meet
+    Baron Inningsborough and his seven cats and shouldn't be late.
+    If you continue this road for a while still, you'll arrive to a friendly
+    village where you can get more food and place to sleep."
+
+    "[dreamer] watched as Limbaugh stood up, collected his bags and after
+    counting them twice, started walking. Curiously, he didn't follow the
+    road, but continued directly into shadowy woods."
+
+    jump forest_road
 
 label drowsy_clearing:
     "[dreamer] stepped from the road and started walking into the clearing.

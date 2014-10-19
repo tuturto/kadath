@@ -132,7 +132,6 @@ label clearing_wait:
     "TODO: clearing wait"
 
 label clearing_forward:
-
     "The child pondered and thought and pondered some more. Waiting would be
     the easiest choice and the book would keep company. But waiting felt wrong.
     The whole new world was there waiting to be explored. All the new places
@@ -297,7 +296,6 @@ label eat_pie_with_limbaugh:
     jump forest_road
 
 label forest_road:
-
     scene bg forest_road_bg
     with dissolve
 
@@ -433,7 +431,7 @@ label nap_in_clearing:
     jump fairy_folk_in_clearing
 
 label stay_awake_in_clearing:
-    "Staying awake"
+    "TODO: Staying awake"
 
 label fairy_folk_in_clearing:
     simbali "Hey, big folk! What are you doing here, snoring like an old bear?
@@ -593,10 +591,10 @@ label fairy_folk_in_clearing:
             jump negotiate_with_beetles
 
 label steal_pearls:
-    "stealing"
+    "TODO: stealing"
 
 label charge_hive:
-    "Charge!"
+    "TODO: Charge!"
 
 label negotiate_with_beetles:
     "[dreamer] was hesitant, but [he] thought this would be the best course of
@@ -635,14 +633,14 @@ label negotiate_with_beetles:
     menu:
         "How should [dreamer] approach this?"
 
-        "Ask if the beetles could trade the pearls for something":
+        "Offer trading the pearls for something":
             jump offer_trade
 
         "Ask if the beetles would rather have peace":
             jump offer_peace
 
 label offer_trade:
-    "offer trade"
+    "TODO: offer trade"
 
 label offer_peace:
     "[dreamer] cleared [his] throat and asked if the beetles would rather live
@@ -763,7 +761,6 @@ label tell_peace_offering:
     jump leaving_town
 
 label leaving_town:
-
     if black_pearls:
         Simbali "You didn't do too badly. I just wish that we wouldn't have to
         hand over those pearls that are in our possession. In the future, you
@@ -806,10 +803,9 @@ label leaving_town:
     jump arriving_to_village
 
 label walk_without_rest:
-    "bar"
+    "TODO: walking without rest"
 
 label arriving_to_village:
-
     "Eventually the woods started growing thinner and [dreamer] could see
     further than before. [He] could see fields in the distance and thought
     the the village shouldn't be that far anymore. Soon after that the forest
@@ -831,7 +827,7 @@ label arriving_to_village:
             jump fresh_bread
 
 label fresh_bread:
-    "fresh bread"
+    "TODO: fresh bread"
 
 label cats_in_alley:
     "[dreamer] followed two cats as they disappeared into a shadowy alley.

@@ -347,6 +347,9 @@ label forest_road:
             jump walk_without_rest
 
 label do_not_eat_pie_with_limbaugh:
+    scene bg limbaugh_img
+    with dissolve
+
     "Limbaugh shrugged when [dreamer] said [he] would rather not share a pie
     with him. Limbaugh rearranged some of his many bags and then looked at
     [dreamer] again."

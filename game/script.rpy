@@ -594,7 +594,46 @@ label fairy_folk_in_clearing:
             jump negotiate_with_beetles
 
 label steal_pearls:
-    "TODO: stealing"
+    "Stealing pearls would be a difficult task. While they were not actively
+    being guarded, there still were beetles in the room and some of them were
+    moving about. [dreamer] stood in the shadows and observed. [he] tried to
+    find patterns beetles might be following and memorize them. It seemed that
+    to [him] that it would be possible to sneak in and use some of the
+    sleeping beetles as a cover."
+
+    "When the moving beetles were the furtherst away, [dreamer] snuck into
+    the room. [he] quietly tiptoed next to the closest sleeping beetle and
+    hid behind it. [he] lay there, holding [his] breath and listened
+    another beetle that passed on the other side of the sleeper."
+
+    "When path was clear, [dreamer] started crawling. [he] moved from a
+    sleeping beetle to another and lay in waiting while any of the other
+    beetles was near by. Slowly [he] was making towards the center of the room
+    where pearls shimmered."
+
+    "Last leg would be the most dangerous. There were not much cover, save
+    for the rock table where the pearls were. [dreamer] waited until all the
+    moving beetles were on the other side and then quickly scurried next to
+    the table. [He] didn't dare to look over the edge of it, in fear that   
+    the beetles would see [him]. Instead of that [dreamer] blidly groped for
+    pearls."
+
+    "After second or two that felt long as years, [dreamer] felt smooth
+    surface of the pearls on [his] fingertips. Slowly [he] started pulling
+    them towards the edge. Then, suddenly [he] felt cold chitinous arm and
+    [dreamer] was pulled up. A large beetle stood on the other side of the
+    table and it had caught [him]!"
+
+    "No matter how much [he] kicked, hit and screamer, the beetle wouldn't
+    put him back down. More bettles gathered and they were chittering with each
+    other, probably negotiation what should be done with the intruder."
+
+    "Soon [dreamer] was being carried deeper into the hive. They went
+    downwards for a considerable time, until they reached a pit that was
+    covered with a grate. Into that pit [dreamer] was thrown and grate was
+    closed again. [dreamer] was now prisoner of the beetles."
+
+    jump hive_prison
 
 label charge_hive:
     "[dreamer] gathered [his] courage for a moment. It probably would work if
@@ -629,6 +668,8 @@ label charge_hive:
 
 label hive_prison:
     "TODO: hive prison"
+
+    jump end_of_day_one
 
 label negotiate_with_beetles:
     "[dreamer] was hesitant, but [he] thought this would be the best course of
@@ -869,3 +910,6 @@ label cats_in_alley:
     dozen if not more of them already there. Some of them were on the ground,
     while others were sitting or standing on boxes and barrels strewn on the
     alley. They looked at [him] inquisitively and then one of them spoke."
+
+label end_of_day_one:
+    "TODO: end of day one"

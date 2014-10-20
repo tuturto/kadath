@@ -667,7 +667,29 @@ label charge_hive:
     jump hive_prison
 
 label hive_prison:
-    "TODO: hive prison"
+    "[dreamer] dusted off [his] clothes, stood up and looked around. [He] was
+    in a small, but rather deep pit. Grate covered the pit high above [his]
+    head and was well beyond [his] reach. The floor was bare and featureless.
+    Walls of the pit were almost vertical and definitely too steep to even
+    think of scaling them without any tools. [dreamer] sighed, [his] situation
+    looked hopeless."
+
+    "For a while [dreamer] kept searching [his] prison, in hope of finding
+    a way out, but eventually [he] had to conclude that such thing didn't
+    exist. [dreamer] sighed, sat down and stared at the grate high above.
+    There was no way to reach it and it was the only way out."
+
+    "Then [he] remember the book. The beetles hadn't taken it away from [him].
+    Not that it would do much good, but at least [he] could pass some time
+    reading it, while waiting what the beetles would do next. [dreamer] opened
+    the book and started looking through it. While the light of fungi was dim,
+    it was enough so [he] could look at the pictures."
+
+    "[dreamer] rubbed [his] eyes, while [he] turned to another page. The
+    pictures alone were fascinating, but [he] wished that [he] could read the
+    text too. The dim light didn't make reading easy and [he] was getting
+    tired too. [dreamer] yawned as [he] turned to the next page. Soon [he]
+    fell asleep, the book open on [his] lap."
 
     jump end_of_day_one
 

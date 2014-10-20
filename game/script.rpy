@@ -597,7 +597,38 @@ label steal_pearls:
     "TODO: stealing"
 
 label charge_hive:
-    "TODO: Charge!"
+    "[dreamer] gathered [his] courage for a moment. It probably would work if
+    [he] charged in screaming as loud as [he] could. That should confuse the
+    beetles and maybe even drive some of them away. In any case, they
+    wouldn't be able to react fast enough and [dreamer] could snatch the
+    pearls and ran away again."
+
+    "[dreamer] took few deep breaths and then started running, while screaming
+    as hard and loud as [he] could. First his plan seemed to work. Beetles
+    were unsure what this new thing was that was running inside of their hive,
+    screaming like a banshee. But quickly they started moving and taking
+    defensive positions."
+
+    "Some of the beetles guarded pathways that lead deeper into hive, while
+    others were escorted into safety. They were much quicker that [dreamer]
+    had anticipated and soon blocked all the exits from the room. Then group
+    of beetles formed a loose ring around [him] and started advancing.
+    [dreamer] tried to escape, but it was already too late."
+
+    "Unceremoniously, [dreamer] was picked up by one of the largest beetles.
+    No matter how much [he] kicked, hit and screamer, the beetle wouldn't
+    put him back down. Beetles were chittering with each other, probably
+    negotiation what should be done with the intruder."
+
+    "Soon [dreamer] was being carried deeper into the hive. They went
+    downwards for a considerable time, until they reached a pit that was
+    covered with a grate. Into that pit [dreamer] was thrown and grate was
+    closed again. [dreamer] was now prisoner of the beetles."
+
+    jump hive_prison
+
+label hive_prison:
+    "TODO: hive prison"
 
 label negotiate_with_beetles:
     "[dreamer] was hesitant, but [he] thought this would be the best course of

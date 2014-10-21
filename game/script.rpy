@@ -900,7 +900,13 @@ label leaving_town:
     jump arriving_to_village
 
 label walk_without_rest:
-    "TODO: walking without rest"
+    "The clearing looked really inviting and [dreamer] found it hard to walk
+    past it. But staying there would have wasted time and [he] wasn't sure
+    how far it was until the friendly village Limbaugh has mentioned. No, it
+    was best to keep going and avoid wasting time. If [he] wanted, [dreamer]
+    could always come back later."
+
+    jump arriving_to_village
 
 label arriving_to_village:
     "Eventually the woods started growing thinner and [dreamer] could see

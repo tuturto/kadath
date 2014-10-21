@@ -939,6 +939,8 @@ label cats_in_alley:
     while others were sitting or standing on boxes and barrels strewn on the
     alley. They looked at [him] inquisitively and then one of them spoke."
 
+    "TODO: finish this"
+
 label end_of_day_one:
     "[dreamer] woke up in [his] bed. First rays of the sun were peeking from
     behind curtains. The book lie on the floor where it had fallen when [he]

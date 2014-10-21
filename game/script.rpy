@@ -934,4 +934,8 @@ label cats_in_alley:
     alley. They looked at [him] inquisitively and then one of them spoke."
 
 label end_of_day_one:
+    "[dreamer] woke up in [his] bed. First rays of the sun were peeking from
+    behind curtains. The book lie on the floor where it had fallen when [he]
+    fell asleep last night."
+
     "TODO: end of day one"

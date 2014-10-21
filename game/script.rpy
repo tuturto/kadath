@@ -92,13 +92,19 @@ label start:
         "Your eyes are really heavy and you feel drowsy. Should you"
 
         "Put book away and sleep":
-            "TODO: description of going to sleep"
             jump clearing_night
 
         "Read just a little bit more":
             jump clearing_morning
 
 label clearing_night:
+    "The child yawned again. The book was really intersting and there were so
+    many pages left to look at still. But it would probably be the best to
+    stop here and continue some other time. The child had one more look at the
+    current page and then closed the book carefully. After placing the book on
+    the night table, the child pulled blanket tighter and tried to sleep. Soon
+    the room was quiet, save for the sound of sleep."
+
     "TODO: clearing at night arc"
     return
 

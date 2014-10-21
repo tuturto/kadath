@@ -936,6 +936,15 @@ label cats_in_alley:
 label end_of_day_one:
     "[dreamer] woke up in [his] bed. First rays of the sun were peeking from
     behind curtains. The book lie on the floor where it had fallen when [he]
-    fell asleep last night."
+    fell asleep last night. The house was quiet, but birds were already
+    singing outside."
 
-    "TODO: end of day one"
+    "[dreamer] got up quickly and picked up the book. [He] would have to
+    return it quickly before anyone would it was missing. [He] opened door of
+    [his] room and listened. The house was still quiet, it looked like [he]
+    had woken up before [his] parents."
+
+    "[dreamer] snuck into the living room and replaced the book. [He] had
+    already resolved to borrow the book next night and see if [he] could
+    return back to that strange dream world or if it had been just a dream.
+    But that would have to wait until the evening."

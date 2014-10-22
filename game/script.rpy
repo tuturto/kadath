@@ -437,16 +437,6 @@ label nap_in_clearing:
     realised that [he] was surrounded with small, winged creatures that were
     the source of chattering [he] had heard in [his] dream."
 
-    jump fairy_folk_in_clearing
-
-label stay_awake_in_clearing:
-    "Despite feeling drowsy, [dreamer] thought that it would be best to stay
-    awake. Short naps had the bad habit of turning into long sleep and [he]
-    did want to get to the village before it would be dark."
-
-    "TODO: Staying awake"
-
-label fairy_folk_in_clearing:
     simbali "Hey, big folk! What are you doing here, snoring like an old bear?
     We can barely hear our own thoughts and I'm sure all the birds of the
     forest have gone deaf and are not going to sing in a while."
@@ -457,6 +447,38 @@ label fairy_folk_in_clearing:
     stranger or [his] unfashionable and dull clothes. [dreamer] tried to follow
     them all with [his] eyes, but soon gave up and focused only on the one what
     had been talking to [him]."
+
+    jump fairy_folk_in_clearing
+
+label stay_awake_in_clearing:
+    "Despite feeling drowsy, [dreamer] thought that it would be best to stay
+    awake. Short naps had the bad habit of turning into long sleep and [he]
+    did want to get to the village before it would be dark. However, [he]
+    decided that it wouldn't do any harm to lie on the grass for a moment and
+    watch the clouds as they sailed across the sky."
+
+    "Some of the butterflies that were flying above [him] looked sort of odd.
+    It was almost if they had tiny arms and legs and were wearing clothes.
+    [dreamer] focused [his] attention more closely to them and sat up to see
+    them better. What [he] saw, took [him] completely by surprise."
+
+    scene bg simbali_bg
+    with dissolve  
+
+    "Tiny winged creatures were sitting on flowers and in grass. Some were
+    flying around and all of them were chattering busily with each other. It
+    seemed that most of their talking was to comment loud stomping of the
+    stranger or [his] unfashionable and dull clothes. [dreamer] tried to follow
+    them all with [his] eyes, but soon gave up and focused only on the one that
+    was closest to [him]."
+
+    simbali "Hey, big folk! What are you doing here, stomping around like an
+    old bear? We can barely hear our own thoughts and I'm sure all the birds of
+    the forest have gone deaf and are not going to sing in a while."
+
+    jump fairy_folk_in_clearing
+
+label fairy_folk_in_clearing:
 
     simbali "This clearing is home of the fairy folk and we don't like when
     big folk come stomping and crushing here. You are loud and impolite and

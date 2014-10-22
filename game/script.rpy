@@ -441,7 +441,9 @@ label nap_in_clearing:
 
 label stay_awake_in_clearing:
     "Despite feeling drowsy, [dreamer] thought that it would be best to stay
-    awake."
+    awake. Short naps had the bad habit of turning into long sleep and [he]
+    did want to get to the village before it would be dark."
+
     "TODO: Staying awake"
 
 label fairy_folk_in_clearing:

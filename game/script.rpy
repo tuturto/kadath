@@ -440,6 +440,8 @@ label nap_in_clearing:
     jump fairy_folk_in_clearing
 
 label stay_awake_in_clearing:
+    "Despite feeling drowsy, [dreamer] thought that it would be best to stay
+    awake."
     "TODO: Staying awake"
 
 label fairy_folk_in_clearing:

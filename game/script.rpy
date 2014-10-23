@@ -962,6 +962,7 @@ label arriving_to_village:
             jump fresh_bread
 
 label fresh_bread:
+    "[dreamer] opened a wooden door and step into the bakery."
     "TODO: fresh bread"
 
 label cats_in_alley:

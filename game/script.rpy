@@ -10,6 +10,8 @@ define fairies = Character('other fairies', color="#33cccc")
 
 define Chkakuth = Character('Chkakuth', color="#cc6633")
 
+define baker = Character('Baker', color="#3366cc")
+
 define black_cat = Character('black cat', color="#336666")
 
 image bg house = "opening_house.png"
@@ -962,8 +964,13 @@ label arriving_to_village:
             jump fresh_bread
 
 label fresh_bread:
-    "[dreamer] opened a wooden door and step into the bakery."
-    "TODO: fresh bread"
+    "[dreamer] opened a wooden door and step into the bakery. Shelves lined
+    the room and all kinds of breads, cakes and cookies were piled on them.
+    Mouth watering smell of freshly baked goods filled the air. A large and
+    friendly looking man put a new batch of bread into the large oven and
+    turned around to face [dreamer]."
+
+    baker "Welcome to the bakery."
 
 label cats_in_alley:
     "[dreamer] followed two cats as they disappeared into a shadowy alley.

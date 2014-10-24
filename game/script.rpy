@@ -44,6 +44,7 @@ define met_limbaugh = False
 define ate_pie_with_limbaugh = False
 define white_pearls = False
 define black_pearls = False
+define delivered_bread = False
 
 label start:
     scene bg house
@@ -1002,9 +1003,33 @@ label fresh_bread:
     going well and tossed [him] a pastry or bread roll to eat."
 
     "Eventually all the goods had been delivered and [dreamer] could rest for
-     a bit."
+     a bit. The day was turning into night and sky outside of the bakery
+     window looked gloom."
+
+    baker "The day is over and night is coming. I have a spare room over the
+    bakery. If you need a place to sleep, you're free to use that. It's not
+    a big one, but it's warm and dry place."
+
+    "[dreamer] was more than happy to stay there. [He] thanked Baker and
+    climbed narrow stairs up to the room. Furniture was very minimal, just
+    bed, small table and chair. In the corner was cabinet, but that was all.
+    There wouldn't have been much space for anything else anyway. A candle
+    was sitting on the window sill."
+
+    "[dreamer] lit the candle and sat on the bed. [He] wasn't quite ready to
+    sleep yet, so [he] took out the book and started leafing through it. Such
+    a strange book and somehow it had sucked [him] into an adventure.
+    Eventually [dreamer] was getting tired and extinguished the candle.
+    Moon had risen and moonlight cast some rays through the window. It was the
+    last thing [he] saw before falling into a peaceful sleep."
+
+    $ delivered_bread = True
+
+    jump end_of_day_one
 
 label cats_in_alley:
+    jump fresh_bread
+
     "[dreamer] followed two cats as they disappeared into a shadowy alley.
     When [he] entered the alley, [dreamer] saw that there were at least a
     dozen if not more of them already there. Some of them were on the ground,

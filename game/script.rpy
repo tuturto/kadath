@@ -979,7 +979,30 @@ label fresh_bread:
     would be to eat. But then [dreamer] remembered that [he] didn't have
     any money with [him] and [his] smile died."
 
-    baker "What's the matter?"
+    baker "What's the matter? Don't you like bread or cookies?"
+
+    "Sheepishly [dreamer] admitted that [he] didn't have any money with [him].
+    Freshly baked bread would have been really great, but [he] just couldn't
+    buy any."
+
+    baker "Hm.. Lets not make that into a problem. I have some baked goods
+    that needs to be delivered to people. Ordinarily I would do that by
+    myself, but if you can help me, I can keep baking here. In return you'll
+    get as much bread and pastries as you want to eat."
+
+    "[dreamer] thought that it was a great idea and quickly agreed. Baker gave
+    [him] a bread roll to drive away the hunger and then showed [him] the
+    goods and explained where to deliver them."
+
+    "[dreamer] started delivering them around the village as soon as [he] had
+    finished with the bread roll. There were a basket of bread rolls to old
+    mrs. Wiggums. Then there were two loafs of sesame seed bread to mr.
+    Stutter. And many more after that. Everytime [dreamer] returned to the
+    bakery to pick up more goods to deliver Baker asked if everything was
+    going well and tossed [him] a pastry or bread roll to eat."
+
+    "Eventually all the goods had been delivered and [dreamer] could rest for
+     a bit."
 
 label cats_in_alley:
     "[dreamer] followed two cats as they disappeared into a shadowy alley.

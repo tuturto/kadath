@@ -970,7 +970,16 @@ label fresh_bread:
     friendly looking man put a new batch of bread into the large oven and
     turned around to face [dreamer]."
 
-    baker "Welcome to the bakery."
+    baker "Welcome to the bakery. What would you like to have? We have
+    everything from simple, yet delicious, breads to most complex cakes."
+
+    "[dreamer] looked all the delicious goods around [him] and [his] mouth
+    watered. [He] could almost feel how soft and fluffy one of those breads
+    would feel in [his] mouth and how sweet and delicious the small pastries
+    would be to eat. But then [dreamer] remembered that [he] didn't have
+    any money with [him] and [his] smile died."
+
+    baker "What's the matter?"
 
 label cats_in_alley:
     "[dreamer] followed two cats as they disappeared into a shadowy alley.

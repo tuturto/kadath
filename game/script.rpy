@@ -1061,3 +1061,8 @@ label end_of_day_one:
     already resolved to borrow the book next night and see if [he] could
     return back to that strange dream world or if it had been just a dream.
     But that would have to wait until the evening."
+
+    "This is the end of the demo. I'll try and get the real thing done as soon
+    as I can. Thanks for playing."
+
+    return

@@ -108,6 +108,10 @@ label clearing_night:
     the night table, the child pulled blanket tighter and tried to sleep. Soon
     the room was quiet, save for the sound of sleep."
 
+    "'this part of the story is still unfinished..."
+
+    jump clearing_morning
+
     "TODO: clearing at night arc"
     return
 
@@ -138,6 +142,8 @@ label clearing_morning:
             jump clearing_wait
 
 label clearing_wait:
+    jump clearing_forward
+
     "TODO: clearing wait"
 
 label clearing_forward:
@@ -772,6 +778,8 @@ label negotiate_with_beetles:
             jump offer_peace
 
 label offer_trade:
+    jump offer_peace
+
     "TODO: offer trade"
 
 label offer_peace:

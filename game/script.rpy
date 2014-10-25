@@ -30,6 +30,8 @@ image bg trial_bg = "trial.png"
 image bg white_pearls_bg = "white_pearls.png"
 image bg high_grass_bg = "high_grass.png"
 image bg hive_bg = "hive.png"
+image bg central_hive_bg = "central_hive.png"
+image bg king_beetle_bg = "king_beetle.png"
 
 define dreamer = None
 define he = None
@@ -610,6 +612,9 @@ label fairy_folk_in_clearing:
     replaced with pale glow of the fungi. [He] heard faint chittering in the
     distance that grew stronger further [he] progressed."
 
+    scene bg central_hive_bg
+    with dissolve
+
     "Eventually [dreamer] arrived to an opening that let into a big cavern.
     [He] could see large beetles sleeping here and there in the cavern, with
     few of them wandering about the cavern. They were large, dark coloured and
@@ -741,6 +746,9 @@ label negotiate_with_beetles:
     spotted [him]. As [he] walked towards them [dreamer] heard chittering and
     clattering as more and more beetles were woken and alarmed."
 
+    scene bg king_beetle_bg
+    with dissolve
+
     "Large beetles were surrounding [him] now. [dreamer] hoped that [he] hadn't
     done a mistake when [he] decided to try and reason with them. A large and
     differently coloured beetle slowly walked on front of [him]. It towered far
@@ -836,6 +844,9 @@ label offer_peace:
     jump fairy_town
 
 label fairy_town:
+    scene bg fairy_town_bg
+    with dissolve
+
     "Back in the fairy town, there was a huge gathering of fairies waiting for
     [him]. Loud murmuring rose from the crowd as the butterfly landed and
     [dreamer] stepped down, holding the bag of pearls."
@@ -924,6 +935,9 @@ label leaving_town:
     soon enough [he] and few fairies that were escorting [him] were again at
     the edge of the meadow. [dreamer] stepped down and closed [his] eyes as
     one of the fairies started throwing the colourful dust at [him]."
+
+    scene bg meadow_bg
+    with dissolve
 
     "[dreamer] felt the familiar tingle that started from [his] spine and
     spread over the whole body. As [he] opened [his] eyes, fairies were

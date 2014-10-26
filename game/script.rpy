@@ -32,6 +32,7 @@ image bg high_grass_bg = "high_grass.png"
 image bg hive_bg = "hive.png"
 image bg central_hive_bg = "central_hive.png"
 image bg king_beetle_bg = "king_beetle.png"
+image bg village_bg = "village.png"
 
 define dreamer = None
 define he = None
@@ -966,6 +967,9 @@ label walk_without_rest:
     jump arriving_to_village
 
 label arriving_to_village:
+    scene bg village_bg
+    with dissolve
+
     "Eventually the woods started growing thinner and [dreamer] could see
     further than before. [He] could see fields in the distance and thought
     the the village shouldn't be that far anymore. Soon after that the forest
@@ -1080,3 +1084,13 @@ label end_of_day_one:
     as I can. Thanks for playing."
 
     return
+
+label day_two:
+    "The house was silent again. [dreamer] had been patiently waiting for this
+    late hour. [His] parents were sleeping and now would be [his] chance to
+    sneak into living room and take the book again."
+
+    "Just like previous night, [dreamer] silently entered the living room and
+    with the help of a chair, retrieved the book. Then [he] sneakily returned
+    into [his] room and carefully closed the door behind [him]. In a one quick
+    move, the book was open on the bed and [dreamer] hunched over it."

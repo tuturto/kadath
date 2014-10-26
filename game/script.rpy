@@ -1107,3 +1107,15 @@ label day_two:
     least find a clue how the book worked. A little yawn escaped [his] lips,
     but [he] tried to push drowsiness aside. [He] continued examining the
     book and yawned again."
+
+    if met_limbaugh:
+        jump clearing_2nd_morning
+
+    if not met_limbaugh:
+        jump clearing_2nd_night
+
+label clearing_2nd_morning:
+    "TODO: write"
+
+label clearing_2nd_night:
+    "TODO: write"

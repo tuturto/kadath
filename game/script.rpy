@@ -1094,3 +1094,16 @@ label day_two:
     with the help of a chair, retrieved the book. Then [he] sneakily returned
     into [his] room and carefully closed the door behind [him]. In a one quick
     move, the book was open on the bed and [dreamer] hunched over it."
+
+    "[dreamer] waited for a moment, then another and yet another. Then it
+    dawned to [him] that while [he] had been able to visit the dream world
+    night before, [he] didn't have a clue how that had happened. [dreamer] had
+    just assumed that the book had something to do with it and [he] had been
+    told about its signifigance. But still [he] didn't know how to return to
+    where he had been."
+
+    "[dreamer] turned the pages and tried to think what [he] should do next.
+    While [he] was a bit tired, [dreamer] wanted to solve to riddle or at
+    least find a clue how the book worked. A little yawn escaped [his] lips,
+    but [he] tried to push drowsiness aside. [He] continued examining the
+    book and yawned again."

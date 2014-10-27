@@ -49,6 +49,8 @@ define white_pearls = False
 define black_pearls = False
 define delivered_bread = False
 
+define chose_day = True
+
 label start:
     scene bg house
     with dissolve
@@ -1108,10 +1110,10 @@ label day_two:
     but [he] tried to push drowsiness aside. [He] continued examining the
     book and yawned again."
 
-    if met_limbaugh:
+    if chose_day:
         jump clearing_2nd_morning
 
-    if not met_limbaugh:
+    if not chose_day:
         jump clearing_2nd_night
 
 label clearing_2nd_morning:

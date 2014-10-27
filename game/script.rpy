@@ -118,6 +118,9 @@ label clearing_night:
     jump clearing_morning
 
     "TODO: clearing at night arc"
+
+    $ chose_day = False
+
     return
 
 label clearing_morning:

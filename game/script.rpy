@@ -32,6 +32,7 @@ image bg high_grass_bg = "high_grass.png"
 image bg hive_bg = "hive.png"
 image bg central_hive_bg = "central_hive.png"
 image bg king_beetle_bg = "king_beetle.png"
+image bg prison_bg = "prison.png"
 image bg village_bg = "village.png"
 
 define dreamer = None
@@ -719,6 +720,9 @@ label charge_hive:
     jump hive_prison
 
 label hive_prison:
+    scene bg prison_bg
+    with dissolve
+
     "[dreamer] dusted off [his] clothes, stood up and looked around. [He] was
     in a small, but rather deep pit. Grate covered the pit high above [his]
     head and was well beyond [his] reach. The floor was bare and featureless.

@@ -14,6 +14,9 @@ define baker = Character('Baker', color="#3366cc")
 
 define black_cat = Character('black cat', color="#336666")
 
+define sprite = Character('?', color="#cccccc")
+define Sprite = Character('Sprite', color="#cccccc")
+
 image bg house = "opening_house.png"
 image bg book = "book.png"
 image bg open_book = "open_book.png"
@@ -114,11 +117,80 @@ label clearing_night:
     the night table, the child pulled blanket tighter and tried to sleep. Soon
     the room was quiet, save for the sound of sleep."
 
-    "'this part of the story is still unfinished..."
+    "The child woke up in grass. Stars were lit high in the sky and dark trees
+    surrounding the grassy clearing. Night was quiet, but full of sounds. All
+    the creatures that slept during the day were on the move and taking care
+    of their nightly business. The child sat up and looked around."
 
-    jump clearing_morning
+    sprite "Hello there stranger, are you lost?"
 
-    "TODO: clearing at night arc"
+    "The child spun around and saw a translucent being that had been standing
+    there silently. It seemed to change the shape all the time and it was
+    hard to see the details. But the child concluded that this was some sort
+    of human looking spirit."
+
+    Sprite "No need to be afraid dear child. I'm night sprite and completely
+    harmless being. I wander between dusk and dawn and look that everything
+    is as it should be in the dream world."
+
+    Sprite "I have not seen you before and I know most if not all the beings
+    that wander in these parts of the land. What should I call you? Do you
+    know a particularly nice name that you would like to have?"
+
+    python:
+        dreamer = renpy.input("What do you want to be called?")
+        dreamer = dreamer.strip()
+
+        if not dreamer:
+            dreamer = "Simon"
+
+    Sprite "Pleasure to meet you [dreamer]."
+
+    "As they shook hands, the child was suddenly alarmed. Both of them had
+    same translucent appearance. Before the child could panic more, Sprite
+    continued."
+
+    Sprite "Do not be alarmed. We are in a dream and that means that things
+    can get a bit strange now and then. But that also means that you can
+    be something that you aren't in the waking world. Or you can be the same
+    thing that you're in the waking world. The choise is yours."
+
+    menu:
+        "I would like to be:"
+
+        "a boy":
+            python:
+                he = "he"
+                him = "him"
+                his = "his"
+                himself = "himself"
+                He = "He"
+                Him = "Him"
+                His = "His"
+            
+        "a girl":
+            python:
+                he = "she"
+                him = "her"
+                his = "her"
+                himself = "herself"
+                He = "She"
+                Him = "Her"
+                His = "Her"
+
+        "something else":
+            python:
+                he = "they"
+                him = "them"
+                his = "their"
+                himself = "themself"
+                He = "They"
+                Him = "Them"
+                His = "Their"
+
+    "As soon as [dreamer] had made [his] choice, [he] felt [his] body to turn
+    more solid. Looking at [his] hands, [dreamer] still could see through
+    them, but at least they were more defined now."
 
     $ chose_day = False
 

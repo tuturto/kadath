@@ -192,6 +192,8 @@ label clearing_night:
     more solid. Looking at [his] hands, [dreamer] still could see through
     them, but at least they were more defined now."
 
+    "TODO: continue"
+
     $ chose_day = False
 
     return

@@ -233,7 +233,14 @@ label clearing_night:
 label would_eat_mushroom:
     "TODO: write"
 
+    jump forest_road
+
 label would_not_eat_mushroom:
+    "TODO: write"
+
+    jump forest_road
+
+label forest_road:
     "TODO: write"
 
 label clearing_morning:

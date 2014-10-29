@@ -110,6 +110,8 @@ label start:
             jump clearing_morning
 
 label clearing_night:
+    $ chose_day = False
+
     "The child yawned again. The book was really intersting and there were so
     many pages left to look at still. But it would probably be the best to
     stop here and continue some other time. The child had one more look at the
@@ -203,11 +205,36 @@ label clearing_night:
 
     "[dreamer] thought that this sounded like a good idea and agreed. Who
     knows, how often [he] would have an opportunity to travel around in
-    company of such a guide."
+    company of such a guide. And so they set to travel in the night. Sprite
+    was leading the way and [dreamer] was following right behind."
 
-    $ chose_day = False
+    "Their journey took them along the road and into the woods. They passed by
+    some large mushrooms that were standing by the roadside. Sprite stopped
+    and examined them closely."
 
-    return
+    Sprite "These mushrooms are favoured resting place for travelers. They
+    offer shelter from rain and shade from sun. Sometimes hungry travelers
+    have idea to try and eat them. That's why I'm stopping here and checking
+    that they have not been eaten too much. Small bites the mushrooms can
+    heal, but with bigger ones they need my help."
+
+    Sprite "What do you think you would do? If you were traveling here alone
+    and were hungry when arriving to these mushrooms, would you take a bite?"
+
+    menu:
+        "Would [dreamer] eat mushroom?"
+
+        "Yes, [he] would":
+            jump would_eat_mushroom
+
+        "No, [he] wouldn't":
+            jump would_not_eat_mushroom
+
+label would_eat_mushroom:
+    "TODO: write"
+
+label would_not_eat_mushroom:
+    "TODO: write"
 
 label clearing_morning:
     scene bg clearing

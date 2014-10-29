@@ -192,7 +192,18 @@ label clearing_night:
     more solid. Looking at [his] hands, [dreamer] still could see through
     them, but at least they were more defined now."
 
-    "TODO: continue"
+    Sprite "Much better. Since we can be anything in dream, you need to first
+    decide what you are, before others can see you properly. Some do that
+    instinctively, some need to do it on a more conscious level."
+
+    Sprite "Like I said earlier, I'm night sprite and wander around to see
+    that things are generally as they should be. Sort of general handyperson
+    you see. You could tag along and I'll show you around. There are plenty
+    of things to see during night."
+
+    "[dreamer] thought that this sounded like a good idea and agreed. Who
+    knows, how often [he] would have an opportunity to travel around in
+    company of such a guide."
 
     $ chose_day = False
 

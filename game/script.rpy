@@ -243,7 +243,14 @@ label would_eat_mushroom:
     jump forest_road
 
 label would_not_eat_mushroom:
-    "TODO: write"
+    Sprite "That's nice of you not to eat these mushrooms. Like I said, they
+    can heal small cuts and bites, but bigger portions need my help to heal.
+    Seems though that we're in luck this time and nobody hungry has been
+    snacking here."
+
+    Sprite "However, if you do get hungry later on during our journey, do let
+    me know. I have some excellent mushroom pie that a friend of mine made. We
+    could share that."
 
     jump forest_road
 

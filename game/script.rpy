@@ -257,7 +257,15 @@ label would_not_eat_mushroom:
 label forest_road:
     Sprite "Lets continue our journey, there's still a lot to do and see."
 
-    "TODO: write"
+    "[dreamer] and night sprite walked along the road in silence for a while.
+    After passing a particularly large oak, night sprite turned and headed
+    into forest. [dreamer] had some difficulty following, since [he] wasn't
+    accustomed to walking in dark woods."
+
+    "Soon [he] noticed red glow further in the woods. It grew stronger as they
+    closed and [dreamer] thought that it must be a campfire."
+
+    "TODO: continue here"
 
 label clearing_morning:
     scene bg clearing

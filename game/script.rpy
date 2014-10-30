@@ -241,6 +241,8 @@ label would_not_eat_mushroom:
     jump forest_road
 
 label forest_road:
+    Sprite "Lets continue our journey, there's still a lot to do and see."
+
     "TODO: write"
 
 label clearing_morning:

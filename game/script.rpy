@@ -231,7 +231,14 @@ label clearing_night:
             jump would_not_eat_mushroom
 
 label would_eat_mushroom:
-    "TODO: write"
+    Sprite "I can't blame you, the mushrooms look quite tasty. If you feel
+    hungry, I have some excellent mushroom pie that a friend of mine made. You
+    could have some of it."
+
+    "Night sprite produced piece of pie seemingly out of thin air and handed
+    it over to [dreamer], who accepted it. The pie was very delicious and
+    [dreamer] guessed that it was probably made with penny buns. [He] ate the
+    slice with good appetite."
 
     jump forest_road
 

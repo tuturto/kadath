@@ -263,9 +263,13 @@ label forest_road:
     accustomed to walking in dark woods."
 
     "Soon [he] noticed red glow further in the woods. It grew stronger as they
-    closed and [dreamer] thought that it must be a campfire."
+    closed and [dreamer] thought that it must be a campfire. But when they
+    arrived to it, [he] realised that it was not a regular campfire."
 
-    "TODO: continue here"
+    "On the sandy ground there was a small pit, carefully lined with small
+    pebbles. Ground around it had been cleaned of leaves and twigs. In the
+    pit lay 5 large eggs that were glowing red. The air around was hot and
+    dry."
 
 label clearing_morning:
     scene bg clearing

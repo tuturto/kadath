@@ -57,6 +57,9 @@ define delivered_bread = False
 
 define chose_day = True
 
+define night_mushrooms = False
+define dragon_eggs = False
+
 label start:
     scene bg house
     with dissolve
@@ -160,9 +163,9 @@ label clearing_night:
     thing that you're in the waking world. The choise is yours."
 
     menu:
-        "I would like to be:"
+        "I would like to"
 
-        "a boy":
+        "be a boy":
             python:
                 he = "he"
                 him = "him"
@@ -172,7 +175,7 @@ label clearing_night:
                 Him = "Him"
                 His = "His"
             
-        "a girl":
+        "be a girl":
             python:
                 he = "she"
                 him = "her"
@@ -182,7 +185,7 @@ label clearing_night:
                 Him = "Her"
                 His = "Her"
 
-        "something else":
+        "not choose":
             python:
                 he = "they"
                 him = "them"
@@ -242,6 +245,8 @@ label would_eat_mushroom:
     [dreamer] guessed that it was probably made with penny buns. [He] ate the
     slice with good appetite."
 
+    $ night_mushrooms = True
+
     jump forest_road_at_night
 
 label would_not_eat_mushroom:
@@ -295,6 +300,8 @@ label forest_road_at_night:
 
 label beautiful_eggs:
     "TODO: write"
+
+    $ dragon_eggs = True
 
     jump fairy_meadow
 

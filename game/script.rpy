@@ -38,6 +38,8 @@ image bg king_beetle_bg = "king_beetle.png"
 image bg prison_bg = "prison.png"
 image bg village_bg = "village.png"
 
+image bg dragon_nest_bg = "dragon_nest.png"
+
 define dreamer = None
 define he = None
 define him = None
@@ -240,7 +242,7 @@ label would_eat_mushroom:
     [dreamer] guessed that it was probably made with penny buns. [He] ate the
     slice with good appetite."
 
-    jump forest_road
+    jump forest_road_at_night
 
 label would_not_eat_mushroom:
     Sprite "That's nice of you not to eat these mushrooms. Like I said, they
@@ -252,9 +254,9 @@ label would_not_eat_mushroom:
     me know. I have some excellent mushroom pie that a friend of mine made. We
     could share that."
 
-    jump forest_road
+    jump forest_road_at_night
 
-label forest_road:
+label forest_road_at_night:
     Sprite "Lets continue our journey, there's still a lot to do and see."
 
     "[dreamer] and night sprite walked along the road in silence for a while.
@@ -266,15 +268,18 @@ label forest_road:
     closed and [dreamer] thought that it must be a campfire. But when they
     arrived to it, [he] realised that it was not a regular campfire."
 
+    scene bg dragon_nest_bg
+    with dissolve
+
     "On the sandy ground there was a small pit, carefully lined with small
     pebbles. Ground around it had been cleaned of leaves and twigs. In the
     pit lay several large eggs that were glowing red. The air around was hot
     and dry."
 
-    Spirit "This is a dragon's nest. Those eggs are hot, so be careful and
+    Sprite "This is a dragon's nest. Those eggs are hot, so be careful and
     don't touch them. You would just burn yourself."
 
-    Spirit "Dragons are rare and I have been coming here every night to see
+    Sprite "Dragons are rare and I have been coming here every night to see
     that that the eggs are safe, while parents are out hunting for food. Not
     that many creatures would dare to touch the eggs in the first place. But
     aren't they beautiful?"

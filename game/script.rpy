@@ -268,8 +268,38 @@ label forest_road:
 
     "On the sandy ground there was a small pit, carefully lined with small
     pebbles. Ground around it had been cleaned of leaves and twigs. In the
-    pit lay 5 large eggs that were glowing red. The air around was hot and
-    dry."
+    pit lay several large eggs that were glowing red. The air around was hot
+    and dry."
+
+    Spirit "This is a dragon's nest. Those eggs are hot, so be careful and
+    don't touch them. You would just burn yourself."
+
+    Spirit "Dragons are rare and I have been coming here every night to see
+    that that the eggs are safe, while parents are out hunting for food. Not
+    that many creatures would dare to touch the eggs in the first place. But
+    aren't they beautiful?"
+
+    menu:
+        "What do you thing?"
+
+        "Yes, they are beautiful":
+            jump beautiful_eggs
+
+        "I'm sort of scared, should we leave?":
+            jump scared_of_eggs
+
+label beautiful_eggs:
+    "TODO: write"
+
+    jump fairy_meadow
+
+label scared_of_eggs:
+    "TODO: write"
+
+    jump fairy_meadow
+
+label fairy_meadow:
+    "TODO: write"
 
 label clearing_morning:
     scene bg clearing

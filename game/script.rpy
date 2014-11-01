@@ -299,18 +299,36 @@ label forest_road_at_night:
             jump scared_of_eggs
 
 label beautiful_eggs:
-    "TODO: write"
+    "[dreamer] nodded. [He] hadn't seen anything like this before and the
+    sight captivated [him]. Tiny pattern that covered the eggs seemed to
+    shift and move, depending on the direction [he] looked at it."
+
+    Sprite "We shouldn't stay here too long though. Dragons don't look kindly
+    to other creatures that wander too close to their nest. They know me, but
+    you are a stranger to them. Maybe in the future I'll ask them if they
+    would permit you to be introduced to them."
 
     $ dragon_eggs = True
 
     jump fairy_meadow
 
 label scared_of_eggs:
-    "TODO: write"
+    "While the eggs looked fascinating, [dreamer] found it hard to concentrate
+    onto them. They were dragon eggs and this was a dragon nest. Which meant,
+    that somewhere in the darkness there were two large dragons. [dreamer] had
+    never met one and [he] intended to keep it that way."
+
+    Sprite "I know, dragons are big and scary. They know me, so I should be
+    safe even if they would suddenly return. You are a stranger to them
+    though, so they might be angry if they surprised us here. I might be able
+    to talk senses to them still, they're fairly intelligent creatures."
 
     jump fairy_meadow
 
 label fairy_meadow:
+    Sprite "But lets continue. Everything is in order here. Our next stop is
+    not far and we should arrive there in no time."
+
     "TODO: write"
 
 label clearing_morning:

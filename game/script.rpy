@@ -420,7 +420,22 @@ label meadow_mediate:
     jump night_village
 
 label meadow_divide:
-    "TODO write"
+    Sprite "I have thought of simply dividing the meadow in two, probably
+    along the stream. One side would be for fairies and another side would be
+    for thunder beetles. Neither would have no business at all on the other
+    side."
+
+    Sprite "That is almost the current situation anyway. Somebody would be
+    needed to guard the stream though and that somebody would have to be
+    neutral, trusted by both sides. Or at least equally hated by both sides."
+
+    Sprite "This is such a sad state of affairs. The meadow is big enough
+    for both of the sides, yet they constantly fight over it. I'm not very
+    hopeful currently."
+
+    Sprite "We need to continue our journey now. Night is getting old and dawn
+    is drawing close. Soon I have to retire and rest until the next dusk.
+    There's still one more place to visit tonight."
 
     $ divide_meadow = True
 

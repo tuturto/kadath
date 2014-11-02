@@ -290,7 +290,7 @@ label forest_road_at_night:
     aren't they beautiful?"
 
     menu:
-        "What do you thing?"
+        "What do you think?"
 
         "Yes, they are beautiful":
             jump beautiful_eggs
@@ -334,9 +334,56 @@ label fairy_meadow:
     walking, night sprite told [dreamer] stories of things that had happened
     in the woods."
 
-    "Soon they arrived to a meadow and stood still."
+    "Soon they arrived to a meadow and stood still on the edge of it."
 
-    "TODO: write"
+    Sprite "This is domain of fairies and thunder beetles. We should not
+    wander too far from the road, as they don't take kindly on large folk
+    trampling through their meadow."
+
+    "Night sprite pointed some tiny light that were dancing in the air. And
+    asked if [dreamer] could see them."
+
+    Sprite "Those are fairies, they are having a banquet tonight it seems.
+    They like to dress in colourful clothes and carry tiny lanters while
+    flying around. They're easy to mistake as fireflies, if you don't know
+    what you're looking at."
+
+    Sprite "If you listen closely, you can hear a small stream that is flowing
+    though the meadow. On the other side of it live thunder beetles. They're
+    hard working creatures and have built a big underground kingdom there."
+
+    Sprite "Unfortunately fairies and thunder beetles don't get along with
+    each other at all. They are constantly raiding and fighting. To me it
+    seems that fairies are worried that thunder beetles will build tunnels
+    under their houses and make a surprise attack from there."
+
+    Sprite "Thunder beetles are wary of the fairies, because fairies can fly
+    and them can't. The stream is no obstacle to fairies, who can easily fly
+    over it and make a surprise attack anytime."
+
+    Sprite "I have been wondering if something should be done about the
+    matter, but haven't yet decided anything."
+
+    menu:
+        "What do you think?"
+
+        "Let them solve it alone":
+            jump meadow_solve_alone
+
+        "Somebody should mediate":
+            jump meadow_mediate
+
+        "Meadow could be divided to two":
+            jump meadow_divide
+
+label meadow_solve_alone:
+    "TODO write"
+
+label meadow_mediate:
+    "TODO write"
+
+label meadow_divide:
+    "TODO write"
 
 label clearing_morning:
     scene bg clearing

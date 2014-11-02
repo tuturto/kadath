@@ -416,7 +416,7 @@ label meadow_divide:
 
     jump night_village
 
-label night_village
+label night_village:
     "TODO: write"
 
 label clearing_morning:

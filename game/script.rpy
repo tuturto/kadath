@@ -403,7 +403,17 @@ label meadow_solve_alone:
     jump night_village
 
 label meadow_mediate:
-    "TODO write"
+    "Night sprite nodded in agreement. His face was sad and suddenly he looked
+    much older and frailer than before."
+
+    Sprite "I want to believe that there would be a peaceful solution to this.
+    But sometimes it's really hard to keep believing when no progress is being
+    made at all. But if you too think that mediating is the answer, maybe I'm
+    not wrong after all. We'll see.."
+
+    Sprite "But the time for that is not now. Soon perhaps, but not now. Next
+    we'll continue our journey and visit one more place before it's time for
+    me to rest until next dusk."
 
     $ mediate = True
 

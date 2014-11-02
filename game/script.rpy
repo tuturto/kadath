@@ -442,7 +442,49 @@ label meadow_divide:
     jump night_village
 
 label night_village:
+    "Night sprite and [dreamer] once again continued their journey. The mood
+    was much somber now and the cheerfulness seemed to be gone. As they walked
+    in silence, [dreamer] was thinking of fairies and thunder beetles and
+    their constant quarrel."
+
+    Sprite "Are you thinking of what we talked at the meadow?"
+
+    Sprite "It's sad, but maybe you should forget it for a moment."
+
+    Sprite "Our last stop will be at a friendly village that lies on the other
+    side of the forest. It will be a much happier place to visit and it might
+    cheer you up again. In any case, we're not going to solve the trouble in
+    fairy meadow tonight, so better not to worry about it all the time."
+
+    "As they talked, the forest had started to grow thin and soon they were
+    walking between fields. Night was silent and moon had risen. Fields around
+    them were bathed in silvery light and [dreamer] thought how beautiful
+    everything looked like."
+
+    "A little further away was the village night sprite had been talking
+    about. As they entered it, the streets were quiet and nobody was walking
+    on them. [dreamer] and night sprite walked through them, until they
+    arrived to the market place."
+
+    "Market place was full of cats of all kinds. They were sitting on the
+    benches and under the trees. Some of them were perched on window sills of
+    nearby houses and many were sitting on the ground. One, particularly
+    dignified looking black cat, was sitting on the edge of the fountain. As
+    they approached, it spoke."
+
+    black_cat "Welcome night sprite, we were already waiting for you."
+
+    Sprite "Greetings to you Black Cat, I'm sorry if I have kept you waiting
+    for long. I met a stranger on my way and have been traveling with [him]."
+
+    "[dreamer] greeted Black Cat shyly, not quite sure how to address it or
+    how to behave in general in this strange situation."
+
+    black_cat "continue"
+
     "TODO: write"
+
+    jump end_of_day_one
 
 label clearing_morning:
     scene bg clearing

@@ -59,6 +59,9 @@ define chose_day = True
 
 define night_mushrooms = False
 define dragon_eggs = False
+define mediate = False
+define solve_alone = False
+define divide_meadow = False
 
 label start:
     scene bg house
@@ -377,13 +380,44 @@ label fairy_meadow:
             jump meadow_divide
 
 label meadow_solve_alone:
-    "TODO write"
+    "Night sprite looked at the dancing lights in the meadow again. His face
+    was frowned and he was silent for a long time."
+
+    Sprite "You are probably right. This is something that they need to solve
+    by themselves. Outsiders meddling witht them would just complicate things
+    and make it harder for them to find a solution."
+
+    Sprite "It's just so frustrating to watch them to repeat same mistakes
+    over and over again. I think that there is hope still though. There are
+    some young fairies and thunder beetles who have grown tired of constant
+    fighting and have been secretly been discussing with each other. Maybe
+    they can change the course of history."
+
+    Sprite "But lets not spend all night here, worrying about things that we
+    can't help right now. There is still one more stop that we need to do
+    tonight and night is growing old. Soon the sun will rise and I will need
+    to rest until next night."
+
+    $ solve_alone = True
+
+    jump night_village
 
 label meadow_mediate:
     "TODO write"
 
+    $ mediate = True
+
+    jump night_village
+
 label meadow_divide:
     "TODO write"
+
+    $ divide_meadow = True
+
+    jump night_village
+
+label night_village
+    "TODO: write"
 
 label clearing_morning:
     scene bg clearing

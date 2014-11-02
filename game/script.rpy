@@ -436,19 +436,7 @@ label clearing_morning:
     soon pass by and tell what this strange place was. There was also the old
     book that could be read while waiting for a person to come."
 
-    menu:
-        "What would be the best course of action?"
-
-        "Continue forwards into the forest":
-            jump clearing_forward
-
-        "Wait here":
-            jump clearing_wait
-
-label clearing_wait:
     jump clearing_forward
-
-    "TODO: clearing wait"
 
 label clearing_forward:
     "The child pondered and thought and pondered some more. Waiting would be

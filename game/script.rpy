@@ -329,6 +329,13 @@ label fairy_meadow:
     Sprite "But lets continue. Everything is in order here. Our next stop is
     not far and we should arrive there in no time."
 
+    "Like before, night sprite walked first and [dreamer] followed. They
+    returned back to road and continue walking down it. While they were
+    walking, night sprite told [dreamer] stories of things that had happened
+    in the woods."
+
+    "Soon they arrived to a meadow and stood still."
+
     "TODO: write"
 
 label clearing_morning:

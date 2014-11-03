@@ -480,7 +480,7 @@ label night_village:
     "[dreamer] greeted Black Cat shyly, not quite sure how to address it or
     how to behave in general in this strange situation."
 
-    black_cat "continue"
+    black_cat "We have gathered here for a specific purpose."
 
     "TODO: write"
 

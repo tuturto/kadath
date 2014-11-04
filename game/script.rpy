@@ -492,6 +492,39 @@ label night_village:
     collected will attract mice. But staying with humans means that we can't
     have a big celebration."
 
+    "Other cats started taking turns in talking, weighting in their opinions.
+    Some of them were worried that mice might eat lots of grains if they were
+    away. Others thought that the mice wouldn't have time to eat that much and
+    it would be nice to be able celebrate somewhere where humans weren't in
+    the way."
+
+    "The meeting continued for a while, but no consensus could be reached.
+    Eventually Black Cat who had been sitting quietly and listening to others
+    stood up and spoke."
+
+    black_cat "I don't think we can reach the conclusion without outside help.
+    Both ways have their merits. Why don't we ask the night sprite what he
+    thinks?"
+
+    Sprite "I have my opinion and that is that you should ask [dreamer]. [He]
+    is impartial for sure and doesn't have preference or a favourite cat.
+    What do you say [dreamer], where cats should have their harvest party?"
+
+    menu:
+        "Where should cats celebrate?"
+
+        "Secretly among humans":
+            jump cats_with_humans
+
+        "Away from humans":
+            jump cats_without_humans
+
+label cats_with_humans:
+    "TODO: write"
+
+    jump end_of_day_one
+
+label cats_without_humans:
     "TODO: write"
 
     jump end_of_day_one

@@ -480,7 +480,17 @@ label night_village:
     "[dreamer] greeted Black Cat shyly, not quite sure how to address it or
     how to behave in general in this strange situation."
 
-    black_cat "We have gathered here for a specific purpose."
+    black_cat "We have gathered here for a specific purpose. As you know, the
+    harvesting season is soon upon us and it's time to celebrate that. While
+    the villagers are having their celebration, we'll have ours. But first
+    we need to decide where to celebrate this year."
+
+    black_cat "There are two options left. We can stay with the humans and
+    secretly celebrate with them. Or we can move to some secluded place and
+    have a proper celebration there. Both have their advantages and
+    disadvantages. We shouldn't forget that all that grain that they have
+    collected will attract mice. But staying with humans means that we can't
+    have a big celebration."
 
     "TODO: write"
 

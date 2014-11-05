@@ -522,9 +522,14 @@ label night_village:
 label cats_with_humans:
     "TODO: write"
 
-    jump end_of_day_one
+    jump end_of_meeting
 
 label cats_without_humans:
+    "TODO: write"
+
+    jump end_of_meeting
+
+label end_of_meeting:
     "TODO: write"
 
     jump end_of_day_one

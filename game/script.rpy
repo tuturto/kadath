@@ -63,6 +63,9 @@ define mediate = False
 define solve_alone = False
 define divide_meadow = False
 
+define harvest_with_humans = False
+define harvest_without_humans = False
+
 label start:
     scene bg house
     with dissolve
@@ -520,19 +523,49 @@ label night_village:
             jump cats_without_humans
 
 label cats_with_humans:
-    "TODO: write"
+    black_cat "It's decided then. This year we will celebrate among the humans
+    and keep a close eye on the mice. They won't suspect anything and the
+    harvest will be kept safe."
 
-    jump end_of_meeting
+    black_cat "I'm sure the humans will welcome you to take part into their
+    celebration. Some of us will drop by to greet you, but mostly we'll stay
+    out of the sight."
+
+    black_cat "Now that the important matter has been decided, we'll start
+    arranging practical details. There's plenty to do and not much time."
+
+    "Cats started doing practical arrangements. They agreed who would be in
+    charge of arranging food and who would make sure that the harvest was
+    being guarded even while the celebration was going on. It seemed to
+    [dreamer] that the meeting was going to continue forever and [he] yawned."
+
+    Sprite "The meeting will continue for a while still, but I don't think
+    there will be anything important anymore. They're just going through the
+    practical arrangements, not that they aren't important too, but nothing
+    that will be particular interest to us."
+
+    Sprite "I think you did well there. The night is starting to turn into
+    dawn and it's time for me to retire into shadows. If you happen to wander
+    around these parts again, I would like to meet you again."
+
+    Sprite "But you should rest too while you have chance. You could take a
+    short nap under that tree over there."
+
+    "[dreamer] nodded, [his] eyelids were heavy as lead and it sounded like
+    a great idea to have a short nap. [He] wished night sprite a safe journey
+    and then curled under the tree. Soon [he] was fast asleep, while the cats
+    were still discussing details of the celebration."
+
+    $ harvest_with_humans = True
+
+    jump end_of_day_one
 
 label cats_without_humans:
     "TODO: write"
 
+    $ harvest_without_humans = True
+
     jump end_of_meeting
-
-label end_of_meeting:
-    "TODO: write"
-
-    jump end_of_day_one
 
 label clearing_morning:
     scene bg clearing

@@ -1238,7 +1238,29 @@ label negotiate_with_beetles:
             jump offer_peace
 
 label offer_trade:
-    jump offer_peace
+    "[dreamer] cleared [his] throat and asked if the beetles could trade the
+    pearls for something. [He] explained that while [he] didn't know fairies
+    that well, they probably would have something that the beetles could use.
+    They would just have to name it and [dreamer] would try to convince the
+    fairies to trade the pearls for it."
+
+    Chkakuth "The fairies have a similar bag of pearls as this one is. The
+    difference is that those pearls are black, while these are white. We are
+    willing to trade our bag to theirs."
+
+    Chkakuth "Black pearls are our most beloved treasure and they have been
+    in our possession for countless generations. Fairies have tried to stole
+    them from us multiple times and only very recently have succeed doing so.
+    Luckily, our surprise raid managed to capture their white pearls soon
+    after."
+
+    Chkakuth "Take these pearls and go. Do not try to double cross us, since
+    our reach is long and our hathred is strong. You will be escorted to the
+    surface."
+
+    $ white_pearls = True
+
+    jump return_surface
 
     "TODO: offer trade"
 
@@ -1275,6 +1297,11 @@ label offer_peace:
     what I talk about if you ask them. They took those pearls from us in force.
     A guard will escort you back to the surface."
 
+    $ white_pearls = True
+
+    jump return_surface
+
+label return_surface:
     "Chkakuth turned and slowly walked away. Other beetles started scattering
     to different directions. Lighter coloured beetle handed [dreamer] the bag
     of pearls and started escorting [him] towards the surface. This new beetle
@@ -1290,8 +1317,6 @@ label offer_peace:
     happy to take off and leave the vicinity of the hive. [He] was clutching
     the bag of pearls during the whole flight, worried that they would drop
     and get lost in the tall grass."
-
-    $ white_pearls = True
 
     jump fairy_town
 
@@ -1530,11 +1555,6 @@ label end_of_day_one:
     already resolved to borrow the book next night and see if [he] could
     return back to that strange dream world or if it had been just a dream.
     But that would have to wait until the evening."
-
-    "This is the end of the demo. I'll try and get the real thing done as soon
-    as I can. Thanks for playing."
-
-    "TODO: finish this"
 
     jump day_two
 

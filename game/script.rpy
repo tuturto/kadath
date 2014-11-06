@@ -561,7 +561,8 @@ label cats_with_humans:
     jump end_of_day_one
 
 label cats_without_humans:
-    "TODO: write"
+    black_cat "Right, that's decided then. This year we'll celebrate in a
+    secret location."
 
     $ harvest_without_humans = True
 

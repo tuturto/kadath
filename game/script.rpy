@@ -1262,8 +1262,6 @@ label offer_trade:
 
     jump return_surface
 
-    "TODO: offer trade"
-
 label offer_peace:
     "[dreamer] cleared [his] throat and asked if the beetles would rather live
     in peace with the fairies. It seemed to [him] that there would be enough
@@ -1530,8 +1528,6 @@ label fresh_bread:
     jump end_of_day_one
 
 label cats_in_alley:
-    jump fresh_bread
-
     "[dreamer] followed two cats as they disappeared into a shadowy alley.
     When [he] entered the alley, [dreamer] saw that there were at least a
     dozen if not more of them already there. Some of them were on the ground,
@@ -1539,6 +1535,8 @@ label cats_in_alley:
     alley. They looked at [him] inquisitively and then one of them spoke."
 
     "TODO: finish this"
+
+    jump end_of_day_one
 
 label end_of_day_one:
     "[dreamer] woke up in [his] bed. First rays of the sun were peeking from

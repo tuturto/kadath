@@ -539,6 +539,26 @@ label cats_with_humans:
     being guarded even while the celebration was going on. It seemed to
     [dreamer] that the meeting was going to continue forever and [he] yawned."
 
+    $ harvest_with_humans = True
+
+    jump end_of_meeting
+
+label cats_without_humans:
+    black_cat "Right, that's decided then. This year we'll celebrate in a
+    secret location. Mice won't be destroying the harvest in one night and we
+    have deserved our special occasion."
+
+    black_cat "Now that the important matter has been decided, we'll start
+    arranging practical details. There's plenty to do and not much time."
+
+    "Cats started doing practical arrangements. It seemed to [dreamer] that
+    the meeting was going to continue forever and [he] yawned."
+
+    $ harvest_without_humans = True
+
+    jump end_of_meeting
+
+label end_of_meeting:
     Sprite "The meeting will continue for a while still, but I don't think
     there will be anything important anymore. They're just going through the
     practical arrangements, not that they aren't important too, but nothing
@@ -556,17 +576,7 @@ label cats_with_humans:
     and then curled under the tree. Soon [he] was fast asleep, while the cats
     were still discussing details of the celebration."
 
-    $ harvest_with_humans = True
-
     jump end_of_day_one
-
-label cats_without_humans:
-    black_cat "Right, that's decided then. This year we'll celebrate in a
-    secret location."
-
-    $ harvest_without_humans = True
-
-    jump end_of_meeting
 
 label clearing_morning:
     scene bg clearing
@@ -1524,7 +1534,9 @@ label end_of_day_one:
     "This is the end of the demo. I'll try and get the real thing done as soon
     as I can. Thanks for playing."
 
-    return
+    "TODO: finish this"
+
+    jump day_two
 
 label day_two:
     "The house was silent again. [dreamer] had been patiently waiting for this

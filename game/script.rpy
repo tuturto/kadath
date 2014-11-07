@@ -1534,6 +1534,8 @@ label cats_in_alley:
     while others were sitting or standing on boxes and barrels strewn on the
     alley. They looked at [him] inquisitively and then one of them spoke."
 
+    black_cat "I see that you're carrying the book."
+
     "TODO: finish this"
 
     jump end_of_day_one

@@ -1455,14 +1455,23 @@ label arriving_to_village:
     manner. On [his] left, [dreamer] saw some cats walk into an alley, while
     from the right [he] could smell delicious freshly baked bread."
 
+    "[dreamer] looked to the sky. The sun had already passed the high point
+    and it might be a good idea to find a place to sleep. There was an inn
+    nearby, maybe [he] could get a room from there."
+
     menu:
         "Which direction [dreamer] should go?"
 
-        "Left, follow the cats":
-            jump cats_in_alley
+        "Left, sleeping in the inn would be good":
+            jump inn
 
         "Right, freshly baked bread should be delicious":
             jump fresh_bread
+
+label inn:
+    "TODO write"
+
+    jump end_of_day_one
 
 label fresh_bread:
     "[dreamer] opened a wooden door and step into the bakery. Shelves lined
@@ -1524,19 +1533,6 @@ label fresh_bread:
     last thing [he] saw before falling into a peaceful sleep."
 
     $ delivered_bread = True
-
-    jump end_of_day_one
-
-label cats_in_alley:
-    "[dreamer] followed two cats as they disappeared into a shadowy alley.
-    When [he] entered the alley, [dreamer] saw that there were at least a
-    dozen if not more of them already there. Some of them were on the ground,
-    while others were sitting or standing on boxes and barrels strewn on the
-    alley. They looked at [him] inquisitively and then one of them spoke."
-
-    black_cat "I see that you're carrying the book."
-
-    "TODO: finish this"
 
     jump end_of_day_one
 

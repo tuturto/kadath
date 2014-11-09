@@ -11,6 +11,7 @@ define fairies = Character('other fairies', color="#33cccc")
 define Chkakuth = Character('Chkakuth', color="#cc6633")
 
 define baker = Character('Baker', color="#3366cc")
+define keeper = Character('Keeper', color="#3366cc")
 
 define black_cat = Character('black cat', color="#336666")
 
@@ -1469,6 +1470,14 @@ label arriving_to_village:
             jump fresh_bread
 
 label inn:
+    "[dreamer] stepped into the inn. As [he] entered through the door, rich
+    aroma of various foods and tobacco smoke greeted [him]. The main room
+    of the inn had few patrons and a very large man who seemed to be the owner
+    of the inn."
+
+    keeper "Hello and welcome to the Spork and Apple, my very own inn. I'm the
+    inn keeper and Keeper is also my name."
+
     "TODO write"
 
     jump end_of_day_one

@@ -1477,7 +1477,21 @@ label inn:
 
     keeper "Hello and welcome to the Spork and Apple, my very own inn. I'm the
     inn keeper and Keeper is also my name. We have excellent food and good
-    beds for the weary travelers here."
+    beds for the weary travelers here. And you look like you could use both of
+    them, if you don't mind me saying so."
+
+    "[dreamer] nodded. [He] was both hungry and tired. Then [he] remembered
+    that [he] had no money to pay for food and shelter. [dreamer] looked
+    embarrassed and didn't know what to say."
+
+    keeper "What's the matter, don't you have money to pay? Hm.. I'm sure we
+    can arrange something."
+
+    keeper "Say, what about if you could help here a bit? There's always some
+    chores to do. Work for couple of hours and you'll get warm food and dry
+    place to sleep over the night."
+
+    "[dreamer] was more than happy to agree."
 
     "TODO write"
 

@@ -1476,7 +1476,8 @@ label inn:
     of the inn."
 
     keeper "Hello and welcome to the Spork and Apple, my very own inn. I'm the
-    inn keeper and Keeper is also my name."
+    inn keeper and Keeper is also my name. We have excellent food and good
+    beds for the weary travelers here."
 
     "TODO write"
 

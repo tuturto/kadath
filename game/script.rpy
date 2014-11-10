@@ -1639,4 +1639,10 @@ label clearing_2nd_morning:
     "TODO: write"
 
 label clearing_2nd_night:
+    Sprite "Hello there"
+
+    "[dreamer] looked up. [He] was sitting on a familiar clearing and night
+    sprite was standing close by. [dreamer] must have fallen asleep at some
+    point, although [he] couldn't guess when."
+
     "TODO: write"

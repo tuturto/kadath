@@ -55,6 +55,7 @@ define ate_pie_with_limbaugh = False
 define white_pearls = False
 define black_pearls = False
 define delivered_bread = False
+define stayed_in_inn = False
 
 define chose_day = True
 
@@ -1491,9 +1492,36 @@ label inn:
     chores to do. Work for couple of hours and you'll get warm food and dry
     place to sleep over the night."
 
-    "[dreamer] was more than happy to agree."
+    "[dreamer] was more than happy to agree. Keeper showed [him] around and
+    soon [dreamer] was happily carrying full plates to customers and taking
+    the empty ones back to the kitchen. When there were no customers requiring
+    [his] attention, [dreamer] kept tables clean by wiping them and generally
+    made sure the dining hall was clean."
 
-    "TODO write"
+    "Eventually even the last patron had left the dining hall, but that didn't
+    mean that [dreamer] had time to rest. [He] still had to help cleaning up
+    the hall for the night and then attend the dishes in the kitchen."
+
+    "Big oaken vats were filled with steaming water and dishes were loaded
+    into them. And then they were scrubbed. [dreamer] thought that they would
+    never be done. [His] arms hurt and sweat formed on [his] brow."
+
+    "Finally Keeper put the last plate away and announced that the were no
+    more dishes left. [dreamer] dried [his] hands and sat down exhausted,
+    while keeper set up some food for them to eat."
+
+    "The soup that was served was probably the best tasting food ever
+    [dreamer] had eaten. While they were eating, Keeper told stories of the
+    many customers that had stayed in the inn. Over the course of years many
+    colourful characters had stayed there and Keeper had many good stories
+    to tell."
+
+    "Eventually they were done with their late meal and [dreamer] yawned.
+    Keeper showed [him] a small, but cozy room where [he] could spend the
+    night. The last thing [dreamer] saw before falling asleep were rays of
+    moonlight that streamed in from the small window."
+
+    $ stayed_in_inn = True
 
     jump end_of_day_one
 

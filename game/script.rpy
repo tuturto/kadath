@@ -61,6 +61,7 @@ define chose_day = True
 
 define night_mushrooms = False
 define dragon_eggs = False
+define visited_dragons = False
 define mediate = False
 define solve_alone = False
 define divide_meadow = False
@@ -1646,4 +1647,71 @@ label clearing_2nd_night:
     them. [dreamer] must have fallen asleep at some point, although [he]
     couldn't guess when."
 
+    Sprite "I see you decided to come and visit here again. Fancy a stroll
+    through the night like last time?"
+
+    "[dreamer] jumped up and picked up the book. [He] wouldn't want to miss
+    another chance to see secrets of the dream world. [He] was wondering where
+    they would head this time as the night sprite started walking along the
+    road."
+
+    if dragon_eggs:
+        jump dragon_nest
+
+    jump unicorn_spring
+
+label unicorn_spring:
+    "TODO: write"
+
+    jump fairy_meadow_again
+
+label dragon_nest:
+    Sprite "I already checked the mushrooms on the way here, so we don't have
+    to visit there. Instead, we'll head directly to the dragon nest. I have a
+    feeling that there's something really great there tonight. Lets see if my
+    feeling is right."
+
+    "Like last time, they walked along the road until the arrived to the large
+    oak and then turned into the woods. Night sprite was walking more
+    carefully than last time and avoiding making too much noise. Soon
+    [dreamer] started to see the familiar red glow, the nest was near."
+
+    "Night sprite had now stopped and was looking at the direction of the
+    nest. He motioned [dreamer] to come closer and started talking in a low
+    voice."
+
+    Sprite "I was right. Look very closely and tell me what you see there."
+
+    "[dreamer] trained [his] eyes and stared at the direction of the nest. At
+    first [he] didn't notice anything strange, but then [he] realised that the
+    glow was larger than before and slowly moving. After staring for another
+    moment [he] realised that there were two dragons at the nest."
+
+    Sprite "Correct, both dragons are at the nest. They probably caught their
+    food early and have already returned to the nest. They seem pretty calm
+    even. Do you think you would want to come there with me and introduce
+    yourself?"
+
+    menu:
+        "Will [dreamer] go and see the dragons?"
+
+        "yes":
+            jump visit_dragons
+
+        "no":
+            jump admire_dragons
+
+label visit_dragons:
+    "TODO: write"
+
+    $ visited_dragons = True
+
+    jump fairy_meadow_again
+
+label admire_dragons:
+    "TODO: write"
+
+    jump fairy_meadow_again
+
+label fairy_meadow_again:
     "TODO: write"

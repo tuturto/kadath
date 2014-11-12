@@ -1703,7 +1703,13 @@ label dragon_nest:
 
 label visit_dragons:
     "[dreamer] swallowed. [His] throat was dry of fear, but after short
-    hesitation [he] nodded."
+    hesitation [he] nodded. Not very often [he] would be able to meet real
+    dragons."
+
+    "Night sprite nodded and told [dreamer] to follow him. As they walked
+    towards the dragons, dreamer was wondering if this was such a good idea
+    after all. Those dragons looked larger and larger they got and night
+    sprite had said that they didn't like unexpected visitors."
 
     $ visited_dragons = True
 

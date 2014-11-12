@@ -1711,6 +1711,32 @@ label visit_dragons:
     after all. Those dragons looked larger and larger they got and night
     sprite had said that they didn't like unexpected visitors."
 
+    "The dragons looked up. They had obviously sensed their presence. Night
+    sprite started talking on a soothing voice and they continued towards the
+    dragons slower than before."
+
+    "Eventually they entered the glow of the nest and [dreamer] was staring
+    two dragons from very close distance. They were much larger than [he] had
+    guessed from the distance, but at the same time dragons were were elegant
+    and sleek looking."
+
+    "The dragons eyed them suspiciously and one of them leaned down to have a
+    closer look. [dreamer] felt hot and sulfuric breath of it as it stared
+    [him] from the touching distance. Without thinking, [dreamer] raised [his]
+    hand and touched the bony beak of the dragon. They stared at each other
+    and then dragon raised his head again."
+
+    Sprite "You are either really brave or really stupid, perhaps even both.
+    Stronger warriors than you have lost limbs from trying that. But it's
+    clear that they accept you and we shouldn't have anything to worry about
+    right now."
+
+    "They stayed for a bit still, admiring the dragons who pretty much ignored
+    them now and discussing in a low voice. Eventually it was time to leave
+    and they slowly walked away. [dreamer] didn't really know what to think
+    about the dragons and [he] was confused. They walked back to the road in
+    silence and started following it again."
+
     $ visited_dragons = True
 
     jump fairy_meadow_again

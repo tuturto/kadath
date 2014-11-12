@@ -1702,7 +1702,8 @@ label dragon_nest:
             jump admire_dragons
 
 label visit_dragons:
-    "TODO: write"
+    "[dreamer] swallowed. [His] throat was dry of fear, but after short
+    hesitation [he] nodded."
 
     $ visited_dragons = True
 

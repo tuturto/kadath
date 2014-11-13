@@ -1742,7 +1742,8 @@ label visit_dragons:
     jump fairy_meadow_again
 
 label admire_dragons:
-    "TODO: write"
+    "[dreamer] looked at the looming shapes in the distance and decided that
+    [he] was already close enough."
 
     jump fairy_meadow_again
 

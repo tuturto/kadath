@@ -1743,7 +1743,36 @@ label visit_dragons:
 
 label admire_dragons:
     "[dreamer] looked at the looming shapes in the distance and decided that
-    [he] was already close enough."
+    [he] was already close enough. While the dragons looked beautiful, they
+    were also quite scary looking in the darkness. [dreamer] forced [his]
+    breath to normal, but still [he] was on the edge."
+
+    Sprite "Aren't they beautiful? There aren't many left and they are very
+    reclusive to begin with. Having a chance to see two of them together and
+    a real nest is very rare thing indeed."
+
+    Sprite "Dragons live really long time, but they don't often lay eggs. And
+    eggs take several years before they will hatch. I think that dragons are
+    not really from this world and they don't see things in the same way as we
+    do. 10 years is for them like a morning is for us."
+
+    Sprite "They don't build towns or cities, but I'm sure they're
+    intelligent. They rarely communicate with anything else than other
+    dragons. So, very mysterious and enigmatic creatures that nobody has been
+    able to really figure out."
+
+    "They stood in silence again. Dampness was creeping through shoes and
+    [dreamer] shivered. Night sprite noticed that and turned back towards the
+    road."
+
+    Sprite "It's time for us to continue our journey. There's many places to
+    go and many things to do. And the night is short enough without us
+    standing here all night. Not that I don't like admiring the dragons. We
+    can always come back some other night of course."
+
+    "They starting walking through the forest. While they walked, [dreamer]
+    and night sprite were conversing in a low voice. After arriving back to
+    the road, they started following it again."
 
     jump fairy_meadow_again
 

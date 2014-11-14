@@ -1777,7 +1777,31 @@ label admire_dragons:
     jump fairy_meadow_again
 
 label fairy_meadow_again:
-    "After a while, [dreamer] and night sprite arrived to the meadow again."
+    "After a while, [dreamer] and night sprite arrived to the meadow again.
+    Like before they stood on the edge of the meadow and looked across it
+    towards the lights of fairy village."
+
+    Sprite "I think tonight we'll venture further into the meadow and see what
+    can be done about the war between fairies and thunder beetles. I know some
+    magic that allows us to shrink to a smaller size. That should ensure that
+    we don't accidentally trample over their houses."
+
+    Sprite "I have sent a word earlier letting them know that we'll arrive
+    tonight. No reason to drop by unannounced, especially when the matter is
+    as important as it's now. Our rides should arrive soon, better get ready."
+
+    "Night sprite closed his eyed and muttered some intonation. Immediately
+    everything around them seemed to grow enermous as they shrunk to size of
+    fairies. [dreamer] looked around and admired how the world looked so
+    different from their new perspective. Little twigs that [he] wouldn't have
+    normally noticed were suddenly size of large logs."
+
+    "As [dreamer] was exploring their surroundings, two large moths landed
+    near them. Night sprite indicated that they should climb on them and off
+    they went. The flight through night meadow was breath taking. [dreamer]
+    could rather feel than see how they were weaving through the long grass
+    and flowers. Soon lights of the fairy village were right in front of them
+    and they landed on a clearing."
 
     if mediate:
         jump fairy_meadow_mediate

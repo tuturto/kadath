@@ -1777,4 +1777,4 @@ label admire_dragons:
     jump fairy_meadow_again
 
 label fairy_meadow_again:
-    "TODO: write"
+    "After a while, [dreamer] and night sprite arrived to the meadow again."

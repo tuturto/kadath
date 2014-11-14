@@ -1778,3 +1778,30 @@ label admire_dragons:
 
 label fairy_meadow_again:
     "After a while, [dreamer] and night sprite arrived to the meadow again."
+
+    if mediate:
+        jump fairy_meadow_mediate
+
+    if solve_alone:
+        jump fairy_meadow_solve_alone
+
+    if divide_meadow:
+        jump fairy_meadow_divided
+
+label fairy_meadow_mediate:
+    "TODO: write"
+
+    jump continue_towards_village
+
+label fairy_meadow_solve_alone:
+    "TODO: write"
+
+    jump continue_towards_village
+
+label fairy_meadow_divided:
+    "TODO: write"
+
+    jump continue_towards_village
+
+label continue_towards_village:
+    "TODO: write"

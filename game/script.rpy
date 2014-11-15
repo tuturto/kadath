@@ -1781,8 +1781,8 @@ label fairy_meadow_again:
     Like before they stood on the edge of the meadow and looked across it
     towards the lights of fairy village."
 
-    if mediate:
-        jump fairy_meadow_mediate
+    if solve_alone:
+        jump fairy_meadow_solve_alone
 
     Sprite "I think tonight we'll venture further into the meadow and see what
     can be done about the war between fairies and thunder beetles. I know some
@@ -1806,8 +1806,8 @@ label fairy_meadow_again:
     and flowers. Soon lights of the fairy village were right in front of them
     and they landed on a clearing."
 
-    if solve_alone:
-        jump fairy_meadow_solve_alone
+    if mediate:
+        jump fairy_meadow_mediate
 
     if divide_meadow:
         jump fairy_meadow_divided
@@ -1818,7 +1818,33 @@ label fairy_meadow_mediate:
     jump continue_towards_village
 
 label fairy_meadow_solve_alone:
-    "TODO: write"
+    Sprite "My heart is heavy, but I guess there's no other way now than to
+    leave them to solve their differences by themselves. We wouldn't be able
+    to help them when the situation is as tensed as it is now. Maybe in the
+    future though..."
+
+    "Night sprite sighed heavily and [dreamer] felt night around them like a
+    suffocating blanket. [He] didn't know any of the fairies or thunder
+    beetles, but still the thought of two warring groups made [him] sad."
+
+    Sprite "Don't worry too much about them. They have been against each other
+    for a very long time. Couple more years here or there won't make a
+    difference in the large scale. Of course for the individuals even a single
+    day might be a crucial difference. But that's how it always is."
+
+    Sprite "Even if we leave them to their own devises, we should check back
+    from time to time and see if there's anything we can do to nudge them to
+    a more peaceful direction. Forcing a peace isn't an option, so we must
+    be patient and calm."
+
+    Sprite "Lets continue further on, there's a certain celebration that is
+    waiting and I wouldn't want to miss that. Harvest has been good and there
+    is much reason to celebrate tonight."
+
+    "Night sprite started walking down the road and [dreamer] followed him.
+    For a while they walked in a silence, but soon their spirits started to
+    rise and mood was merrier again. [dreamer] was already looking forward the
+    harvest celebration."
 
     jump continue_towards_village
 

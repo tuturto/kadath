@@ -1781,6 +1781,9 @@ label fairy_meadow_again:
     Like before they stood on the edge of the meadow and looked across it
     towards the lights of fairy village."
 
+    if mediate:
+        jump fairy_meadow_mediate
+
     Sprite "I think tonight we'll venture further into the meadow and see what
     can be done about the war between fairies and thunder beetles. I know some
     magic that allows us to shrink to a smaller size. That should ensure that
@@ -1802,9 +1805,6 @@ label fairy_meadow_again:
     could rather feel than see how they were weaving through the long grass
     and flowers. Soon lights of the fairy village were right in front of them
     and they landed on a clearing."
-
-    if mediate:
-        jump fairy_meadow_mediate
 
     if solve_alone:
         jump fairy_meadow_solve_alone

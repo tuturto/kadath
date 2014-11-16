@@ -1813,7 +1813,11 @@ label fairy_meadow_again:
         jump fairy_meadow_divided
 
 label fairy_meadow_mediate:
-    "TODO: write"
+    "A fairy stepped out from the crowd that had gathered on the clearing and
+    greeted them."
+
+    Simbali "I'm Simbali, captain of the guard and will be representing
+    fairies in the matter at hand."
 
     jump continue_towards_village
 

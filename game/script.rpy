@@ -1819,6 +1819,9 @@ label fairy_meadow_mediate:
     Simbali "I'm Simbali, captain of the guard and will be representing
     fairies in the matter at hand."
 
+    "While Simbali was greeting the night sprite and [dreamer], crowd parted
+    and few thunder beetles emerged."
+
     jump continue_towards_village
 
 label fairy_meadow_solve_alone:

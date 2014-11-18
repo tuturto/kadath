@@ -1820,7 +1820,16 @@ label fairy_meadow_mediate:
     fairies in the matter at hand."
 
     "While Simbali was greeting the night sprite and [dreamer], crowd parted
-    and few thunder beetles emerged."
+    and few thunder beetles emerged. They were large, burly and serious
+    looking creatures."
+
+    Chkakuth "I am Chkakuth and I am king of the thunder beetles. I have come
+    here as night sprite summonned us."
+
+    "[dreamer] sensed that the atmosphere was tensed and everyone present was
+    ready for action. [He] started seriously thinking if this was a good idea
+    to begin with and if they would survive through the meeting without a
+    fight."
 
     jump continue_towards_village
 

@@ -1831,6 +1831,9 @@ label fairy_meadow_mediate:
     to begin with and if they would survive through the meeting without a
     fight."
 
+    Sprite "this is [dreamer]. I have bought [him] here to act as mediator.
+    [He] is not affliated with either side and we all can trust [him]."
+
     jump continue_towards_village
 
 label fairy_meadow_solve_alone:

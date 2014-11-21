@@ -1832,7 +1832,8 @@ label fairy_meadow_mediate:
     fight."
 
     Sprite "this is [dreamer]. I have bought [him] here to act as mediator.
-    [He] is not affliated with either side and we all can trust [him]."
+    [He] is not affliated with either side and we all can trust [him]. Shall
+    we move into the grand hall then?"
 
     jump continue_towards_village
 

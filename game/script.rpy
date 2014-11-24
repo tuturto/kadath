@@ -40,6 +40,7 @@ image bg prison_bg = "prison.png"
 image bg village_bg = "village.png"
 
 image bg dragon_nest_bg = "dragon_nest.png"
+image bg dragon_faceoff_bg = "dragon_faceoff.png"
 
 define dreamer = None
 define he = None
@@ -1719,6 +1720,9 @@ label visit_dragons:
     two dragons from very close distance. They were much larger than [he] had
     guessed from the distance, but at the same time dragons were were elegant
     and sleek looking."
+
+    scene bg dragon_faceoff_bg
+    with dissolve
 
     "The dragons eyed them suspiciously and one of them leaned down to have a
     closer look. [dreamer] felt hot and sulfuric breath of it as it stared

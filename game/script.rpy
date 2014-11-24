@@ -1835,6 +1835,8 @@ label fairy_meadow_mediate:
     [He] is not affliated with either side and we all can trust [him]. Shall
     we move into the grand hall then?"
 
+    "Simbali and Chkakuth hesitated and then turned towards a large building."
+
     jump continue_towards_village
 
 label fairy_meadow_solve_alone:

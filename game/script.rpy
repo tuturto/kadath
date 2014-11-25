@@ -1839,7 +1839,10 @@ label fairy_meadow_mediate:
     [He] is not affliated with either side and we all can trust [him]. Shall
     we move into the grand hall then?"
 
-    "Simbali and Chkakuth hesitated and then turned towards a large building."
+    "Simbali and Chkakuth hesitated and then turned towards a large building.
+    [dreamer] and night sprite followed them with some other fairies and
+    thunder beetles. Night sprite explained that they would be there to
+    observe and act as secretaries."
 
     jump continue_towards_village
 

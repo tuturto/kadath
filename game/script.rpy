@@ -1844,6 +1844,11 @@ label fairy_meadow_mediate:
     thunder beetles. Night sprite explained that they would be there to
     observe and act as secretaries."
 
+    "The grand hall had a table set up in the middle and negotiators sat
+    around it. Secretaries were positioned a little distance away from it,
+    close enough to hear what was being talked, but far away enough so that
+    they wouldn't disturb the negotiations."
+
     jump continue_towards_village
 
 label fairy_meadow_solve_alone:

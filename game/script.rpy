@@ -1849,6 +1849,9 @@ label fairy_meadow_mediate:
     close enough to hear what was being talked, but far away enough so that
     they wouldn't disturb the negotiations."
 
+    "Start of the negotiations was really tense. Both parties were very
+    decided on what they wanted and were not willing to compromise at all."
+
     jump continue_towards_village
 
 label fairy_meadow_solve_alone:

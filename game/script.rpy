@@ -1850,7 +1850,8 @@ label fairy_meadow_mediate:
     they wouldn't disturb the negotiations."
 
     "Start of the negotiations was really tense. Both parties were very
-    decided on what they wanted and were not willing to compromise at all."
+    decided on what they wanted and were not willing to compromise at all.
+    Night sprite was doing his best to guide the negotiations."
 
     jump continue_towards_village
 

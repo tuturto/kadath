@@ -1851,7 +1851,9 @@ label fairy_meadow_mediate:
 
     "Start of the negotiations was really tense. Both parties were very
     decided on what they wanted and were not willing to compromise at all.
-    Night sprite was doing his best to guide the negotiations."
+    Night sprite was doing his best to guide the negotiations and from time
+    [dreamer] did [his] best to help too. On the background, the scribes
+    were busily writing down everything that was being said."
 
     jump continue_towards_village
 

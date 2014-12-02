@@ -1855,6 +1855,9 @@ label fairy_meadow_mediate:
     [dreamer] did [his] best to help too. On the background, the scribes
     were busily writing down everything that was being said."
 
+    "As time passed, [dreamer] was getting more and more agitated with the
+    negotiatiors."
+
     jump continue_towards_village
 
 label fairy_meadow_solve_alone:

@@ -1949,6 +1949,29 @@ label fairy_meadow_solve_alone:
     jump continue_towards_village
 
 label fairy_meadow_divided:
+    "A fairy stepped out from the crowd that had gathered on the clearing and
+    greeted them."
+
+    Simbali "I'm Simbali, captain of the guard and will be representing
+    fairies in the matter at hand."
+
+    "While Simbali was greeting the night sprite and [dreamer], crowd parted
+    and few thunder beetles emerged. They were large, burly and serious
+    looking creatures."
+
+    Chkakuth "I am Chkakuth and I am king of the thunder beetles. I have come
+    here as night sprite summonned us."
+
+    Sprite "Right, lets get down to business and get this over with as soon
+    as we can."
+
+    "Simbali and few other fairies showed way to a large building, while night
+    sprite, [dreamer] and few thunder beetles followed. Inside the building
+    was a large hall with table in the middle. As soon as everyone had been
+    seated, night sprite continued."
+
+    Sprite ""
+
     "TODO: write"
 
     jump continue_towards_village

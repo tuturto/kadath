@@ -1856,7 +1856,14 @@ label fairy_meadow_mediate:
     were busily writing down everything that was being said."
 
     "As time passed, [dreamer] was getting more and more agitated with the
-    negotiatiors."
+    negotiatiors. They were arguing over insignificant details and complaining
+    how they had to do all the hard work, while the other party just reaped
+    the benefits. At this rate the negotiations would take years and the only
+    result would be heaps and heaps of paper."
+
+    "[dreamer] suddenly stood up and slammed both of [his] palms on the table.
+    The room was completely silent, most of those present even forgot to
+    breath for a moment."
 
     jump continue_towards_village
 

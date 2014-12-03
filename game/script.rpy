@@ -1863,7 +1863,31 @@ label fairy_meadow_mediate:
 
     "[dreamer] suddenly stood up and slammed both of [his] palms on the table.
     The room was completely silent, most of those present even forgot to
-    breath for a moment."
+    breath for a moment. All eyes were on [him] and [dreamer] was starting to
+    feel hesitant. Then [he] noticed night sprite giving a slight nod and got
+    [his] courage back."
+
+    "[dreamer] started explaining how they were getting nowhere by fighting
+    and arguing about petty little things. In the beginning, [his] voice was
+    shaky, but as [he] continue, it grew stedier. [dreamer] explained that it
+    really didn't matter how many butterflies fairies were allowed to have or
+    how long tunnels thunder beetles could dig."
+
+    "Simbali and Chkakuth glanced each other sheepishly as [dreamer] said that
+    so far the negotiations had been closer to an argument on a school yard
+    than to group of adults trying to find a solution that everybody could
+    agree. Eventually [dreamer] ran out of steam, looked around flustered and
+    then slumped back to [his] chair."
+
+    Simbali "I think [dreamer] is correct and I apologize on the behalf of the
+    fairies. I hope we can start the discussion again, with fresh minds and
+    find a solution that works for all of us."
+
+    Chkakuth "Thunder beetles are not without fault either. We're ready to
+    try and find a solution that helps us to live in peace. The meadow is
+    large and there is enough space for all of us. Especially when we
+    remember that thunder beetles prefer to live underground while fairy folk
+    love to see sun, moon and stars."
 
     jump continue_towards_village
 

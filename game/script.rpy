@@ -1889,6 +1889,32 @@ label fairy_meadow_mediate:
     remember that thunder beetles prefer to live underground while fairy folk
     love to see sun, moon and stars."
 
+    "The negotiations resumed with much different agenda. They still weren't
+    particularly easy, but this time both parties were trying to find a
+    solution that would work for everyone, instead of trying to win and
+    outsmart their opponent."
+
+    "Eventually there was a decision to continue negotiations at a later time.
+    There were still some open issues, but the big picture was starting to
+    be clear for everyone. Chkakuth and Simbali thanked night sprite and
+    [dreamer] for their help and hoped they would join them in the future too.
+    They waved them good bye as [dreamer] and night sprite took off on a
+    night moths."
+
+    "Night sprite was on a good mood as they reached the edge of the meadow.
+    He cast the spell to return them back to normal size and they resumed
+    their journey on the road."
+
+    Sprite "You did really well there. I was starting to lose all hope that
+    the negotiations would have any chance of succeeding. But you managed to
+    get us back on track. There's still a lot to do, but the first steps have
+    been taken and they are the most important ones."
+
+    "Stars were twinkling high above their heads as the two travelers were
+    walking on the road. [dreamer] was already thinking of the celebration
+    that would be waiting them in the village. [He] was starting to get
+    hungry and food would really hit the spot."
+
     jump continue_towards_village
 
 label fairy_meadow_solve_alone:

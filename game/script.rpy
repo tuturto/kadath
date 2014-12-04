@@ -1968,9 +1968,22 @@ label fairy_meadow_divided:
     "Simbali and few other fairies showed way to a large building, while night
     sprite, [dreamer] and few thunder beetles followed. Inside the building
     was a large hall with table in the middle. As soon as everyone had been
-    seated, night sprite continued."
+    seated, night sprite continued in a stern voice:"
 
-    Sprite ""
+    Sprite "As you all know, fairy folk and thunder beetles have been in war
+    for a very long time. Numerous attemps have been made to solve the
+    situation, but nothing has been worked so far. Thus, instead of solving
+    the situation, we are going to limit the damages as much as possible."
+
+    Sprite "The meadow will be divided in two and an area will be placed in
+    the middle where none of you will have any business being on. Both sides
+    are free to guard their side in the way they see fit. The middle ground
+    will be guarded by sentries that are neutral."
+
+    "Fairies and thunder beetles started to protest. They feared that the
+    sentries wouldn't be neutral or could be surprised by their enemies. The
+    exact location of division was an important matter too and both sides
+    wanted to grab as much land as possible."
 
     "TODO: write"
 

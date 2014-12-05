@@ -2004,7 +2004,16 @@ label fairy_meadow_divided:
     see if we can try again to live in peace and among each other. But until
     then, the meadow shall be a divided domain."
 
-    "TODO: write"
+    "As the meeting ended, thunder beetles gathered their items and started
+    their journey through the meadow. Night sprite and [dreamer] watched
+    their departing in silence and then starting making preparations for
+    their own departure."
+
+    "The flight back to the edge of meadow was somber and [dreamer] felt heavy
+    weight on [his] shoulders as they started along the road once again.
+    [He] knew that there would be a celebration waiting for them in the
+    village and the journey wouldn't take long, but it was hard for [him]
+    to feel happy about it."
 
     jump continue_towards_village
 

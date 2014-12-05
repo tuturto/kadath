@@ -2038,7 +2038,17 @@ label continue_towards_village:
             "join cats":
                 jump celeb_secret_cats
   
-label celeb_village_without_cats:
+label celeb_village_with_cats:
+    Sprite "They started celebrating as the sun went down and will continue
+    until morning. You have plenty of time still to join the villagers and
+    enjoy the festivities. The cats will be there too, but they will be
+    keeping their distance I would assume."
+
+    Sprite "I won't be joining the villagers, they don't really know me after
+    all. While they have an idea that something like me exists, I have
+    deliberately kept my distance and let them to take care of their own
+    matters. But I'll be somewhere nearby, in case you need me."
+
     "TODO: write"
 
 label celeb_village_without_cats:

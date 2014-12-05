@@ -2018,4 +2018,32 @@ label fairy_meadow_divided:
     jump continue_towards_village
 
 label continue_towards_village:
+    "Eventually the woods started to thin and [dreamer] knew that the village
+    was really close. After the next bend in the road, they arrived to a
+    location where they could see the village nestled in between of all the
+    fields. Colourful lanterns had been placed all around it and a bonfire
+    had been set on the market square."
+
+    if harvest_with_humans:
+        jump celeb_village_with_cats
+
+    if harvest_without_humans:
+        "fooo"
+
+        menu:
+            "Who should we celebrate with?":
+
+            "join villagers":
+                jump celeb_village_without_cats
+            "join cats":
+                jump celeb_secret_cats
+  
+label celeb_village_without_cats:
     "TODO: write"
+
+label celeb_village_without_cats:
+    "TODO: write"
+
+label celeb_secret_cats:
+    "TODO: write"
+

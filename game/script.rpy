@@ -1985,6 +1985,25 @@ label fairy_meadow_divided:
     exact location of division was an important matter too and both sides
     wanted to grab as much land as possible."
 
+    "[dreamer] felt sorry for everyone. In a way [he] understood what was
+    going on and why thunder beetles and fairies tried to protect their
+    domains. But on the other hand [he] couldn't fathom why they couldn't just
+    make peace and find a way to live together. The meadow surely should be
+    big enough."
+
+    Sprite "The meadow will be divided where the stream flows. In the coming
+    weeks thunder beetles and fairy folk will move to their own sides. After
+    passage of 4 weeks everything should be ready. At that point a group of
+    water sprites will move in and settle in the stream and on its banks.
+    They will act as sentries and make sure that our agreements are
+    respected."
+
+    Sprite "We are doing this while hoping that the future will be different.
+    Now the most important thing is to stop the fighting and give everyone
+    time to calm down. After some time, we will revisit this decision and
+    see if we can try again to live in peace and among each other. But until
+    then, the meadow shall be a divided domain."
+
     "TODO: write"
 
     jump continue_towards_village

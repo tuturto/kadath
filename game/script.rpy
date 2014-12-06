@@ -2031,7 +2031,7 @@ label continue_towards_village:
         "fooo"
 
         menu:
-            "Who should we celebrate with?":
+            "Who should we celebrate with?"
 
             "join villagers":
                 jump celeb_village_without_cats
@@ -2049,11 +2049,57 @@ label celeb_village_with_cats:
     deliberately kept my distance and let them to take care of their own
     matters. But I'll be somewhere nearby, in case you need me."
 
+    "[dreamer] continued towards the village as the night sprite disappeared
+    in the shadows. [He] could hear the laughter and merry-making already even
+    at this distance. Delicious smell of food lingered in the air and [he]
+    started walking faster."
+
     "TODO: write"
+
+    jump decision
 
 label celeb_village_without_cats:
     "TODO: write"
 
+    jump decision
+
 label celeb_secret_cats:
     "TODO: write"
 
+    jump decision
+
+label decision:
+    "[dreamer] sat on a stone and watched as the sky was slowly starting to
+    grow lighter. It wouldn't take long before the dawn and [he] would have
+    to return back to waking world."
+
+    Sprite "Another night is over and a new day will start again. Soon it
+    will be time for me to hide away and let the dream world to run its own
+    course. It would be nice, if I could have an eye on the world during the
+    day too, but it's not really possible for me."
+
+    Sprite "You on the other hand, would not have a problem walking here
+    during the day time. And as far as I have seen, you have sensible ideas
+    about the world. What do you think? Would you want to help me to look
+    after the dream world? We could meet during dusk and dawn to see how
+    things are currently going."
+
+    "[dreamer] was pondering. On the one hand, it sounded like a really
+    exciting arrangement, but on the other hand the responsibility was
+    concerning [him]. Would [he] be able to do all the correct decisions when
+    the night sprite weren't there to guide [him]?"
+
+    menu:
+        "What will [dreamer] decide?"
+
+        "Help the night sprite":
+            jump night_end_help
+
+        "Decline to help":
+            jump night_end_no_help
+
+label night_end_help:
+    "TODO: write"
+
+label night_end_no_help:
+    "TODO: write"

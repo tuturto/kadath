@@ -2099,7 +2099,58 @@ label decision:
             jump night_end_no_help
 
 label night_end_help:
+    Sprite "That is great, I'm glad to hear that you're willing to help me.
+    I shall send a word around that you are helping me in governing the dream
+    world. Next time you come to visit the dream world, I'll be waiting for
+    you in that same clearing we originally met."
+
+    Sprite "But now I must go, before the day really breaks. Take care
+    [dreamer] and have safe journeys."
+
+    "[dreamer] started helping night sprite with his duties and soon got quite
+    good at them. [He] was respected for all the hard work and devotion [he]
+    put into the task."
+
+    if night_mushrooms:
+        "There were some trouble with mushrooms now and then, but nothing too
+        major. It seemed that visitors of dream world were more likely to take
+        a bite from large mushrooms than before. The reason for this was never
+        discovered and since it wasn't a big problem, was never really
+        investigated that much."
+
+    if visited_dragons:
+        "[dreamer] was held in very high regard because somehow [he] had been
+        able to befriend the mighty dragons. Nobody knew how this was
+        possible and it hadn't ever happened before. Nevertheless, [dreamer]
+        knew dragons and that was something to respect."
+
+    if mediate:
+        "The old strife between thunder beetles and fairy folk was finally
+        solved thanks to the help of [dreamer] and night sprite. It wasn't an
+        easy task and it wasn't done quickly, but in the end it happened.
+        [dreamer] got nickname 'the soothsayer', because of [his] great skills
+        in negotiation."
+
+    if solve_alone:
+        "The old strife between thunder beetles and fairy folk was not solved
+        properly. They tried arranging their own negotiations from time to
+        time, but without too much of success. [dreamer] and night sprite kept
+        close eye on both groups though and patiently waited for time when
+        they could step in and guide them to peace."
+
+    if divide_meadow:
+        "TODO: write"
+
     "TODO: write"
 
 label night_end_no_help:
-    "TODO: write"
+    Sprite "I understand that you're wary of the responsibility. I hope that
+    you still will visit us from time to time and drop by to have a chat.
+    There are always new things to see and experience in the dream world."
+
+    Sprite "But now I must go, before the day really breaks. Take care
+    [dreamer] and have safe journeys."
+
+    "[dreamer] watched as the night sprite disappeared into shadows and then
+    turned to watch the sunrise. Soon it would be time for [him] to wake up,
+    but there was still a little bit of time to enjoy the rays of sun."

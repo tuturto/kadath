@@ -2139,9 +2139,12 @@ label night_end_help:
         they could step in and guide them to peace."
 
     if divide_meadow:
-        "TODO: write"
+        "The old strife between thunder beetles and fairy folk was solved with
+        force. The meadow was divided between them and sentries were placed
+        on the border to guard it. Even while fighting between the inhabitants
+        of the meadow ceased, the solution was far from the optimal."
 
-    "TODO: write"
+    jump closing_the_book
 
 label night_end_no_help:
     Sprite "I understand that you're wary of the responsibility. I hope that
@@ -2154,3 +2157,10 @@ label night_end_no_help:
     "[dreamer] watched as the night sprite disappeared into shadows and then
     turned to watch the sunrise. Soon it would be time for [him] to wake up,
     but there was still a little bit of time to enjoy the rays of sun."
+
+    jump closing_the_book
+
+label closing_the_book:
+    "TODO: write"
+
+    return

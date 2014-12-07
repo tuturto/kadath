@@ -2028,7 +2028,10 @@ label continue_towards_village:
         jump celeb_village_with_cats
 
     if harvest_without_humans:
-        "fooo"
+        Sprite "Cats have probably started their own celebration too in
+        secrecy. If you want, we can join them there. However, if you rather
+        would celebrate with the humans, you can go there too. I can't really
+        join with you there though."
 
         menu:
             "Who should we celebrate with?"

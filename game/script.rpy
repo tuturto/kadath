@@ -2144,7 +2144,13 @@ label night_end_help:
         on the border to guard it. Even while fighting between the inhabitants
         of the meadow ceased, the solution was far from the optimal."
 
-    jump closing_the_book
+    "[dreamer] liked [his] new duties and tried [his] best to be good at them.
+    Eventually [he] decided to stay completely in the dream world and moved in
+    to a small house at the edge of the village. Villagers liked this
+    arrangement and made sure [dreamer] always had fresh food and warm clothes
+    at [his] disposal."
+
+    return
 
 label night_end_no_help:
     Sprite "I understand that you're wary of the responsibility. I hope that
@@ -2161,6 +2167,14 @@ label night_end_no_help:
     jump closing_the_book
 
 label closing_the_book:
-    "TODO: write"
+    "As time passed, [dreamer] started visiting the dream world less often.
+    [He] had grown up and was busy in the waking world. [dreamer] graduated,
+    moved into [his] own apartment and started working. One day [he] met the
+    just perfect person and eventually a wedding was held."
+
+    "[dreamer] had pretty much forgotten the old book and the adventures [he]
+    had in the dream world. Sometimes [he] almost remembered them when [his]
+    children were telling stories about the adventures they had while
+    sleeping, but usually [dreamer] just pushed the memories aside."
 
     return

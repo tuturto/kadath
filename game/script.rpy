@@ -1662,6 +1662,39 @@ label clearing_2nd_night:
     jump unicorn_spring
 
 label unicorn_spring:
+    Sprite "I was thinking that we could go and see if some of my old friends
+    would be around. They come and go unannounced and it's always a bit of
+    question of a luck if I can catch up with them. But the night air has
+    that certain feeling in it, so I'm very hopeful they'll be around."
+
+    "Night sprite started walking along the road. But instead of heading to
+    the direction of the village, he was walking to the opposite direction."
+
+    Sprite "We need to make a bit of detour on our way to the village, but
+    it's not that far. There's a spring nearby and my friends often stay
+    there when they come to this area."
+
+    "[dreamer] was wondering what kind of friends night sprite was talking
+    this time. Surely it wouldn't be yet another dragon nest. No matter what
+    night sprite would say, [dreamer] would be hesitant to meet such
+    creatures."
+
+    "Soon they stepped from the road and continued through the woods. After
+    reaching a small stream, night sprite started following it to the
+    upstream. Suddenly, they stepped into a small clearing, where a stream
+    connected to a small pond. And on the opposite side of the clearing were
+    two unicorns."
+
+    "[dreamer] had never seen anything so beautiful in [his] whole life. One
+    of the unicorns raised his head and looked at the travelers, while the
+    other continued eating the grass that covered the clearing. They had pearl
+    white coat that glimmered in the moonlight."
+
+    Sprite "Beautiful, aren't they? Unicorns travel over wide distances and
+    don't tend to stay in one place for long. However, they tend to get
+    attached to a special locations and like visiting them when they are
+    around the area. This spring is one of such places."
+
     "TODO: write"
 
     jump fairy_meadow_again

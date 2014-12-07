@@ -2110,6 +2110,30 @@ label celeb_village_with_cats:
     at this distance. Delicious smell of food lingered in the air and [he]
     started walking faster."
 
+    "Soon [he] entered the market square, which was packed full of people.
+    Tables have been carried outside and placed all around it. A large bonfire
+    was in the middle and several smaller ones had been lit on the edge of the
+    market square. Smell of roasted meat was in the air and mixed with fresh
+    bread, exotic spices and other food items."
+
+    baker "Hello there. I think I haven't seen you around here before. I'm
+    Baker and welcome you to join our harvest festival."
+
+    "A large and friendly looking man had spotted [dreamer] and was talking to
+    [him]. [dreamer] replied and explained that [he] was just passing by, when
+    the sound of the festival had caught [his] attention."
+
+    baker "No worries at all. We in the dream land have gotten used to all
+    kinds of people passing by. It would be a strange week when we didn't
+    see any new faces."
+
+    baker "Here, have a seat and take something to eat. Would you like som
+    sesame seed bread? I baked it by myself just for the occasion. It's a
+    special recipe that has been handed down for generations in our family."
+
+    "[dreamer] sat down and took some of the bread that Baker offered. It
+    was fluffy and tasted very good."
+
     "TODO: write"
 
     jump decision

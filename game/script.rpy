@@ -63,6 +63,7 @@ define chose_day = True
 define night_mushrooms = False
 define dragon_eggs = False
 define visited_dragons = False
+define visited_unicorns = False
 define mediate = False
 define solve_alone = False
 define divide_meadow = False
@@ -1695,7 +1696,26 @@ label unicorn_spring:
     attached to a special locations and like visiting them when they are
     around the area. This spring is one of such places."
 
-    "TODO: write"
+    "Now both unicorns crossed the clearing and came very close. [dreamer]
+    could see that their hooves weren't like horses had, but cloven. Their
+    tail resembled more of a lion tail than of horse tail. But they moved
+    very graciously and [dreamer] felt unfamiliar longing and sadness in [his]
+    chest as [he] watched them."
+
+    "[He] reached out and carefully stroked mane of the unicorn that was
+    closest to [him]. [dreamer] was surprised to find that the mane felt like
+    silken strands and not coarse at all. [He] started into intelligent eyes
+    of the unicorn as [he] continue stroking the mane."
+
+    Sprite "We should continue. The night is young, but there's still plenty
+    of things to do."
+
+    "Longingly [dreamer] said good bye to unicorns and then they turned back
+    and started their journey back to the road. [dreamer] found it hard to
+    later remember how long they had spent in the clearing. It felt like an
+    eternity and split second at the same time."
+
+    $ visited_unicorns = True
 
     jump fairy_meadow_again
 
@@ -2159,6 +2179,12 @@ label night_end_help:
         able to befriend the mighty dragons. Nobody knew how this was
         possible and it hadn't ever happened before. Nevertheless, [dreamer]
         knew dragons and that was something to respect."
+
+    if visited_unicorns:
+        "There were rumours that when moon was full and stars bright,
+        [dreamer] often met with unicorns in the woods. Nobody had actually
+        seen this happen, as unicorns were very rare animals, but people still
+        whispered about it."
 
     if mediate:
         "The old strife between thunder beetles and fairy folk was finally

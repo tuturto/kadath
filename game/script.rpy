@@ -2132,7 +2132,11 @@ label celeb_village_with_cats:
     special recipe that has been handed down for generations in our family."
 
     "[dreamer] sat down and took some of the bread that Baker offered. It
-    was fluffy and tasted very good."
+    was fluffy and tasted very good. A bowl full of steaming meat stew was
+    brought to her and [he] started eating it with a good appetite. While
+    [dreamer] was eating, Baker was telling stories about the village and
+    its inhabitants. He knew people of the village very well and had many
+    funny stories to tell."
 
     "TODO: write"
 

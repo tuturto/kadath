@@ -2118,7 +2118,9 @@ label celeb_village:
     bread, exotic spices and other food items."
 
     if harvest_with_humans:
-        "TODO: write, cat walking by"
+        "As [dreamer] walked in the market square, two cats emerged from a
+        side alley. They stopped briefly and watched [him]. Then they nodded
+        and went on their way as [dreamer] raised [his] hand in a greeting."
 
     baker "Hello there. I think I haven't seen you around here before. I'm
     Baker and welcome you to join our harvest festival."
@@ -2143,7 +2145,15 @@ label celeb_village:
     funny stories to tell."
 
     if harvest_with_humans:
-        "TODO: write, cat jumping on the bench"
+        "As [dreamer] was eating, a red cat jumped on the bench next to [him]
+        and butted its head against [his] side. [dreamer] reached at it and
+        scratched the cat behind ear. It started purring immediately. After
+        staying there for a moment, the cat jumped off the bench and
+        disappeared somewhere."
+
+        baker "That's Molly, she's old Jameson's cat. Usually she's quite
+        a bit more shy and don't like strangers at all, but she seems to
+        have taken liking to you."
 
     "A bit later a woman joined their company and brought some mead with her.
     She introduced herself as Cutter, the local carpenter, who had made all
@@ -2170,7 +2180,10 @@ label celeb_village:
     headed to outside of the village to wait for night sprite."
 
     if harvest_with_humans:
-        "TODO: write, say cheers to a cat"
+        "On [his] way out of the village [dreamer] passed a group of three
+        cats who were lying under a tree. One of the cats looked up as [he]
+        passed and lazily yawned. [dreamer] waved to them as [he] walked
+        past them and out of the village."
 
     jump decision
 

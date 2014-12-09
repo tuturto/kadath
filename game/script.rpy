@@ -2152,7 +2152,11 @@ label celeb_village_with_cats:
     outside, she's lying there in the middle of the all the bench parts."
 
     "[dreamer] and Baker were laughing with tears in their eyes. Cutter was
-    good at telling stories and this one she apparently had told many times."
+    good at telling stories and this one she apparently had told many times.
+    Cutter sipped her mead and asked Baker to tell a story. She didn't have to
+    ask twice and soon Baker was in the middle of the story about how he was
+    supposed to bake two dozen saffron rolls, but used dried chili instead of
+    saffron."
 
     "TODO: write"
 

@@ -12,6 +12,7 @@ define Chkakuth = Character('Chkakuth', color="#cc6633")
 
 define baker = Character('Baker', color="#3366cc")
 define keeper = Character('Keeper', color="#3366cc")
+define cutter = Character('Cutter', color="#33cc33")
 
 define black_cat = Character('black cat', color="#336666")
 
@@ -2138,6 +2139,21 @@ label celeb_village_with_cats:
     its inhabitants. He knew people of the village very well and had many
     funny stories to tell."
 
+    "A bit later a woman joined their company and brought some mead with her.
+    She introduced herself as Cutter, the local carpenter, who had made all
+    the chairs and the tables on the market square. She was cheerful person
+    and [dreamer] immediately liked her friendly manners."
+
+    Cutter "And then there was this time when I was making a new garden
+    benches for the Mr. and Mrs. Sandhurst. I had cut all the parts and was
+    doing fitting, so benches had been assembled, but had not been properly
+    joined yet. So, Mrs. Sandhurst comes to visit and decides to test sit
+    one of the benches while I'm inside. I head a loud crash and when I ran
+    outside, she's lying there in the middle of the all the bench parts."
+
+    "[dreamer] and Baker were laughing with tears in their eyes. Cutter was
+    good at telling stories and this one she apparently had told many times."
+
     "TODO: write"
 
     jump decision
@@ -2145,7 +2161,7 @@ label celeb_village_with_cats:
 label celeb_village_without_cats:
     "TODO: write"
 
-    jump decision
+   jump decision
 
 label celeb_secret_cats:
     "TODO: write"

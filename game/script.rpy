@@ -2079,7 +2079,7 @@ label continue_towards_village:
     had been set on the market square."
 
     if harvest_with_humans:
-        jump celeb_village_with_cats
+        jump celeb_village
 
     if harvest_without_humans:
         Sprite "Cats have probably started their own celebration too in
@@ -2091,11 +2091,11 @@ label continue_towards_village:
             "Who should we celebrate with?"
 
             "join villagers":
-                jump celeb_village_without_cats
+                jump celeb_village
             "join cats":
                 jump celeb_secret_cats
   
-label celeb_village_with_cats:
+label celeb_village:
     Sprite "They started celebrating as the sun went down and will continue
     until morning. You have plenty of time still to join the villagers and
     enjoy the festivities. The cats will be there too, but they will be
@@ -2116,6 +2116,9 @@ label celeb_village_with_cats:
     was in the middle and several smaller ones had been lit on the edge of the
     market square. Smell of roasted meat was in the air and mixed with fresh
     bread, exotic spices and other food items."
+
+    if harvest_with_humans:
+        "TODO: write, cat walking by"
 
     baker "Hello there. I think I haven't seen you around here before. I'm
     Baker and welcome you to join our harvest festival."
@@ -2138,6 +2141,9 @@ label celeb_village_with_cats:
     [dreamer] was eating, Baker was telling stories about the village and
     its inhabitants. He knew people of the village very well and had many
     funny stories to tell."
+
+    if harvest_with_humans:
+        "TODO: write, cat jumping on the bench"
 
     "A bit later a woman joined their company and brought some mead with her.
     She introduced herself as Cutter, the local carpenter, who had made all
@@ -2163,12 +2169,10 @@ label celeb_village_with_cats:
     that were still left of the bonfire and then left the market square. [He]
     headed to outside of the village to wait for night sprite."
 
+    if harvest_with_humans:
+        "TODO: write, say cheers to a cat"
+
     jump decision
-
-label celeb_village_without_cats:
-    "TODO: write"
-
-   jump decision
 
 label celeb_secret_cats:
     "TODO: write"

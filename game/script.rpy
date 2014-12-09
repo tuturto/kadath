@@ -2158,7 +2158,10 @@ label celeb_village_with_cats:
     supposed to bake two dozen saffron rolls, but used dried chili instead of
     saffron."
 
-    "TODO: write"
+    "Eventually the celebration started to quiet down and people started
+    heading their homes to sleep. [dreamer] enjoyed last heat of the embers
+    that were still left of the bonfire and then left the market square. [He]
+    headed to outside of the village to wait for night sprite."
 
     jump decision
 

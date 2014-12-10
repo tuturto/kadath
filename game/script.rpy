@@ -2189,7 +2189,15 @@ label celeb_village:
 
 label celeb_secret_cats:
     Sprite "The cats sent me a message earlier telling where their celebration
-    is being held."
+    is being held. We don't need to enter the village, but head into one of
+    those barns over there, outside of the village. The cats have gathered
+    there, as villagers aren't going there tonight."
+
+    "[dreamer] looked the direction night sprite was pointing and saw a barn
+    not far away from them. The doors were closed and it was completely dark.
+    [He] wouldn't have been able to guess that there was a celebration going
+    on inside it, if [he] hadn't been told so."
+
     "TODO: write"
 
     jump decision

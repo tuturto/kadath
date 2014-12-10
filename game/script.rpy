@@ -2188,6 +2188,8 @@ label celeb_village:
     jump decision
 
 label celeb_secret_cats:
+    Sprite "The cats sent me a message earlier telling where their celebration
+    is being held."
     "TODO: write"
 
     jump decision

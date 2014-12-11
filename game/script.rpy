@@ -2198,6 +2198,18 @@ label celeb_secret_cats:
     [He] wouldn't have been able to guess that there was a celebration going
     on inside it, if [he] hadn't been told so."
 
+    "They stepped from the road and started walking towards the barn. Field
+    was bare as the harvest had been gathered recently. [dreamer] found
+    [himself] wondering what kind of celebration the cats would be having.
+    [He] hadn't really thought it before. Hopefully something that [he] could
+    participate."
+
+    "As they stepped in the front of the barn, night sprite pointed out a
+    small crack on the wall that was partly hidden by a haybale. The sneaked
+    through it and then they were inside of the barn. Some bales had been
+    arranged to block out the light from showing through the crack and
+    [dreamer] had to walk around them."
+
     "TODO: write"
 
     jump decision

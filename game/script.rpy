@@ -43,6 +43,8 @@ image bg village_bg = "village.png"
 image bg dragon_nest_bg = "dragon_nest.png"
 image bg dragon_faceoff_bg = "dragon_faceoff.png"
 
+image bg unicorn_bg = "unicorn.png"
+
 define dreamer = None
 define he = None
 define him = None
@@ -1680,6 +1682,9 @@ label unicorn_spring:
     this time. Surely it wouldn't be yet another dragon nest. No matter what
     night sprite would say, [dreamer] would be hesitant to meet such
     creatures."
+
+    scene bg unicorn_bg
+    with dissolve
 
     "Soon they stepped from the road and continued through the woods. After
     reaching a small stream, night sprite started following it to the

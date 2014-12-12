@@ -2216,6 +2216,15 @@ label celeb_secret_cats:
     arranged to block out the light from showing through the crack and
     [dreamer] had to walk around them."
 
+    black_cat "Well, well, look who have arrived. Welcome to the harvest
+    celebration of the cats."
+
+    "The black cat bowed to them and gestured them to step further in.
+    [dreamer] saw that bales had been pushed to the sides of the barn, so that
+    they would block all the light from escaping outside. In the middle, there
+    was clear space that was surrounded by steps and tables made of bales.
+    And everywhere [he] looked, [dreamer] saw cats of all colours and sizes."
+
     "TODO: write"
 
     jump decision

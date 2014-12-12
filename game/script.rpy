@@ -15,6 +15,7 @@ define keeper = Character('Keeper', color="#3366cc")
 define cutter = Character('Cutter', color="#33cc33")
 
 define black_cat = Character('black cat', color="#336666")
+define red_cat = Character('red car', color="#cc3333")
 
 define sprite = Character('?', color="#cccccc")
 define Sprite = Character('Sprite', color="#cccccc")

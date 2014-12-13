@@ -2235,6 +2235,27 @@ label celeb_secret_cats:
     people give cats something nice to eat during the harvest celebration and
     it all ends here."
 
+    "Another cat walked to greet them. This one was red with stripes and thick
+    fur. It nodded to night sprite and looked [dreamer] from head to toe and
+    back."
+
+    red_cat "I remember you from the meeting some nights ago. You were in the
+    village as we were discussing whether to have harvest celebration among
+    the villagers or all by ourselves. I must admit that it's really nice to
+    be here for a change, haven't had a harvest celebration without villagers
+    in a while."
+
+    "[dreamer] nodded. That was all [he] could do, since [his] mouth was full
+    of delicious bread and speaking with mouth full would have been impolite.
+    This seemed to amuse the red cat, who chuckled a bit."
+
+    red_cat "I'll be heading back with my friends. It was nice meeting you
+    again. If you want to have a chat later, I'm free."
+
+    black_cat "I'll do the same thing as well. Enjoy your stay here. We don't
+    have any formal program, so feel free to mingle with others, eat some
+    food and generally just have a good time."
+
     "TODO: write"
 
     jump decision

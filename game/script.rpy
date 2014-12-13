@@ -2225,6 +2225,16 @@ label celeb_secret_cats:
     was clear space that was surrounded by steps and tables made of bales.
     And everywhere [he] looked, [dreamer] saw cats of all colours and sizes."
 
+    "On the tables there were all kinds of foods and drinks. Night sprite took
+    some bread and offered it to [dreamer] who took it and tasted it. The
+    bread was very fresh, it couldn't have been baked longer than an hour ot
+    two ago."
+
+    black_cat "Every cat brings a little bit food or drink to the celebration.
+    That way we have enough to eat and nobody has to bring too much. Many
+    people give cats something nice to eat during the harvest celebration and
+    it all ends here."
+
     "TODO: write"
 
     jump decision

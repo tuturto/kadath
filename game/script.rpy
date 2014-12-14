@@ -2256,7 +2256,29 @@ label celeb_secret_cats:
     have any formal program, so feel free to mingle with others, eat some
     food and generally just have a good time."
 
-    "TODO: write"
+    "[dreamer] nodded again. Then [he] finally managed to finish the bread and
+    thanked the two cats best [he] could. Night sprite seemed to be having
+    fun and [dreamer] shot a stern glance at him."
+
+    Sprite "Just having a bit of fun, no worries. Don't worry too much, but
+    have another bite. Those pies look positively delicious."
+
+    "Night sprite and [dreamer] each took small pies and then headed to a
+    group of cats to see what they were talking about. Soon [dreamer] found
+    [himself] in the middle of a debate whether the cat was created when the
+    lion sneezed or not."
+
+    "Eventually the celebration started to wind down. Cats started
+    disappearing one by one. [dreamer] yawned, [he] had been up all night and
+    was getting really tired."
+
+    Sprite "Lets go, I know this nice stone nearby where we can sit for a bit
+    and watch as the sun gets ready to get up."
+
+    "[dreamer] agreed and they slipped outside. It was still dark, but the sky
+    wasn't as deep blue as when they entered the barn. The field was covered
+    in morning dew and [dreamer] soon found [his] feet wet. Night sprite lead
+    them to a small pile of stones that was at the edge of the field."
 
     jump decision
 

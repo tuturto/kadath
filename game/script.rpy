@@ -1643,7 +1643,12 @@ label day_two:
         jump clearing_2nd_night
 
 label clearing_2nd_morning:
-    "TODO: write"
+    "Frustrated, [dreamer] threw [himself] on [his] back. But instead of
+    finding the familiar bed, [he] discovered soft and green grass. And the
+    ceiling above [him] wasn't there anymore either. Instead of it, [dreamer]
+    was staring at the blue sky. [dreamer] quickly got back up and realized
+    that [he] must have fallen asleep at somepoint and was now in the dream
+    world."
 
 label clearing_2nd_night:
     Sprite "Hello there"

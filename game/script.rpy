@@ -2166,7 +2166,7 @@ label celeb_village:
     the chairs and the tables on the market square. She was cheerful person
     and [dreamer] immediately liked her friendly manners."
 
-    Cutter "And then there was this time when I was making a new garden
+    cutter "And then there was this time when I was making a new garden
     benches for the Mr. and Mrs. Sandhurst. I had cut all the parts and was
     doing fitting, so benches had been assembled, but had not been properly
     joined yet. So, Mrs. Sandhurst comes to visit and decides to test sit

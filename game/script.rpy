@@ -1650,6 +1650,17 @@ label clearing_2nd_morning:
     that [he] must have fallen asleep at somepoint and was now in the dream
     world."
 
+    "[dreamer] got up and took the book that was lying on the grass. [He]
+    brushed it clean and then looked around. The clearing looked just like the
+    previous time [he] had been here. Same green grass, same old road, same
+    trees around the clearing."
+
+    "[dreamer] started walking. If everything was like before, not far ahead
+    there would be a group of big mushrooms where [he] could take a break
+    before continuing. If [he] were lucky, maybe that old bird would be there
+    too. Last time he had offered [dreamer] some pie and having something to
+    eat didn't sound the worst option to [him]."
+
 label clearing_2nd_night:
     Sprite "Hello there"
 

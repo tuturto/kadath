@@ -1661,6 +1661,10 @@ label clearing_2nd_morning:
     too. Last time he had offered [dreamer] some pie and having something to
     eat didn't sound the worst option to [him]."
 
+    "Soon [he] arrived at the mushrooms, but something was wrong. Last time
+    [dreamer] had been here, the mushrooms had been on the right side of the
+    road. Now they were on the left side."
+
 label clearing_2nd_night:
     Sprite "Hello there"
 

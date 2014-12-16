@@ -1663,7 +1663,21 @@ label clearing_2nd_morning:
 
     "Soon [he] arrived at the mushrooms, but something was wrong. Last time
     [dreamer] had been here, the mushrooms had been on the right side of the
-    road. Now they were on the left side."
+    road. Now they were on the left side. [He] stopped and stared at the
+    mushrooms. Could it be that [he] was mistaken and they had always been on
+    the left side? Or were these different mushrooms and [he] was walking to
+    a wrong direction?"
+
+    "[dreamer] decided to sit down and think what to do next. [He] didn't want
+    to risk walking to a wrong direction accidentally. Mushrooms did look like
+    what [he] remembered them looking, but they definitely were on the wrong
+    side of the road."
+
+    Limbaugh "Hello there traveler. [dreamer], if my old mind isn't playing
+    tricks on me. How are you on this beautiful day?"
+
+    "[dreamer] looked up and saw the familiar bird. It was Limbaugh, who [he]
+    had met last time on a trip to dream world."
 
 label clearing_2nd_night:
     Sprite "Hello there"

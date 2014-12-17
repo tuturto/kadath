@@ -1686,10 +1686,15 @@ label clearing_2nd_morning:
         "What will [dreamer] answer?"
 
         "I'm fine, how about you?":
-            "TODO: write"
+            Limbaugh "Radiant, just radiant. Thank you for asking. The day is
+            beautiful and I'm feeling well. A bit of warm sunshine is always
+            good for these old bones."
 
         "I'm confused about these mushrooms":
-            "TODO: write"
+            Limbaugh "You should remember that we're in the dream world and
+            not everything is like in the waking world. Sometimes things are
+            almost, but not quite like before. So don't worry that the
+            mushrooms seem to be on the wrong side of the road."
 
     "TODO: write"
 

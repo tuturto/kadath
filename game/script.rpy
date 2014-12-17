@@ -1677,7 +1677,21 @@ label clearing_2nd_morning:
     tricks on me. How are you on this beautiful day?"
 
     "[dreamer] looked up and saw the familiar bird. It was Limbaugh, who [he]
-    had met last time on a trip to dream world."
+    had met last time on a trip to dream world. Like last time, the old bird
+    had managed to walk up to [him] without making sound or attracting [his]
+    attention. Nevertheless, [dreamer] was more than happy to see a familiar
+    face."
+
+    menu:
+        "What will [dreamer] answer?"
+
+        "I'm fine, how about you?":
+            "TODO: write"
+
+        "I'm confused about these mushrooms":
+            "TODO: write"
+
+    "TODO: write"
 
 label clearing_2nd_night:
     Sprite "Hello there"

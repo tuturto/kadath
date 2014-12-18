@@ -1697,7 +1697,10 @@ label clearing_2nd_morning:
             mushrooms seem to be on the wrong side of the road."
 
             Limbaugh "Visitors of the dream world soon learn how to deal with
-            landscape that changes slightly from time to time."
+            landscape that changes slightly from time to time. Giving
+            directions can be somewhat problematic if you rely on things on
+            being exactly at any given spot, but the general layout of things
+            is usually the same."
 
     "TODO: write"
 

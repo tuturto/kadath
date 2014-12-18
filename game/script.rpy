@@ -1702,6 +1702,31 @@ label clearing_2nd_morning:
             being exactly at any given spot, but the general layout of things
             is usually the same."
 
+    if ate_pie_with_limbaugh:
+        Limbaugh "I have some cup cakes in my backpack. I remember that you
+        liked my mushroom pie, so perhaps you would like these too. They
+        aren't warm anymore, far from it, but they still should be tasty."
+
+        "[dreamer] was more that happy to agree. [He] still remember how good
+        the pie had been and [his] stomach was empty. Limbaugh was rummaging
+        through his various bags, while muttering that the cup cakes should
+        be somewhere there. Then he let out load exclamation and produced
+        few large cup cakes."
+
+        Limbaugh "As I said, I baked these by myself. The recipe is from earl
+        of eastern marches, lord Malfodor. The story goes that he and duke
+        of sandy hills were playing cards one night. The earl won, but duke
+        didn't want to give up the lands that he had placed as a bet. Instead,
+        he managed to convince the earl to accept the recipe as a substitute."
+
+        Limbaugh "I don't know how true the story is. The old lord Malfodor is
+        known to spun a yarn now and then. But the recipe is good and the
+        resulting cup cakes are really great."
+
+        "[dreamer] nodded as he was savouring the tasty cup cake."
+
+        "TODO: write"
+
     "TODO: write"
 
 label clearing_2nd_night:

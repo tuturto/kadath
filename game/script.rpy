@@ -1696,6 +1696,9 @@ label clearing_2nd_morning:
             almost, but not quite like before. So don't worry that the
             mushrooms seem to be on the wrong side of the road."
 
+            Limbaugh "Visitors of the dream world soon learn how to deal with
+            landscape that changes slightly from time to time."
+
     "TODO: write"
 
 label clearing_2nd_night:

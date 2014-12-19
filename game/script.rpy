@@ -40,6 +40,7 @@ image bg central_hive_bg = "central_hive.png"
 image bg king_beetle_bg = "king_beetle.png"
 image bg prison_bg = "prison.png"
 image bg village_bg = "village.png"
+image bg outside_village_bg = "outside_village.png"
 
 image bg dragon_nest_bg = "dragon_nest.png"
 image bg dragon_faceoff_bg = "dragon_faceoff.png"
@@ -1458,6 +1459,9 @@ label arriving_to_village:
     the the village shouldn't be that far anymore. Soon after that the forest
     ended and [dreamer] was walking on a road that was nestled between two
     fields."
+
+    scene bg outside_village_bg
+    with dissolve
 
     "The village wasn't big, but it certainly was friendly looking. People
     were walking around smiling and they greeted each other in warm and open

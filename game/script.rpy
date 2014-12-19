@@ -1723,9 +1723,36 @@ label clearing_2nd_morning:
         known to spun a yarn now and then. But the recipe is good and the
         resulting cup cakes are really great."
 
-        "[dreamer] nodded as he was savouring the tasty cup cake."
+        "[dreamer] nodded as he was savouring the tasty cup cake. [He] could
+        taste at least strawberries, rasberries and blueberries. There
+        probably were some other berries there too, but [dreamer] couldn't be
+        sure which ones they were. In any case, cup cakes were delicious."
 
-        "TODO: write"
+        "Soon cup cakes were gone and [dreamer] was wiping [his] mouth clean
+        as Limbaugh arranged his many bags in order again. The food had hit
+        the spot and [dreamer] wasn't hungry anymore."
+
+    Limbaugh "I trust you found your way to the friendly village last time you
+    were visiting here. If you fancy, you could go there again and see if the
+    landscape is still the same as the last time. That makes it fun to travel
+    in the dream world, you can never be quite sure what you'll find. Even if
+    you have visited that part before."
+
+    Limbaugh "I remember this one time when I was on my way to see the young
+    prince of Grokkington and his court. Sure, I could found the youn prince
+    no problem, but his court was entirely different matter. Instead of a
+    large and impressive castle, there was a village of huts with straw roofs.
+    Whole court was living in the huts."
+
+    Limbaugh "The chancellor Grubarik tried to look all mighty and important.
+    He had chosen the second biggest hut as the biggest one had been given to
+    the prince. But it's not so easy to look impressive with huts and straw
+    and all that stuff. Poor chap, really."
+
+    "Limbaugh was laughing heartily and [dreamer] was soon too. But soon it
+    was time for Limbaugh to continue his journey. He picked up his numerous
+    bags and heading straight through the forest after wishing [dreamer] a
+    safe journey."
 
     "TODO: write"
 

@@ -58,6 +58,7 @@ define His = None
 
 define met_limbaugh = False
 define ate_pie_with_limbaugh = False
+define visited_clearing = False
 define white_pearls = False
 define black_pearls = False
 define delivered_bread = False
@@ -875,6 +876,8 @@ label drowsy_clearing:
     stretch out in the long grass and take a short nap. [His] head felt heavy
     and [dreamer] wanted nothing more than just nap in the grass and enjoy
     scent of the flowers."
+
+    $ visited_clearing = True
 
     menu:
         "Should [dreamer] sleep here?"
@@ -1758,6 +1761,22 @@ label clearing_2nd_morning:
     bags and heading straight through the forest after wishing [dreamer] a
     safe journey."
 
+    "TODO: write"
+
+    jump before_clearing_2nd
+
+label before_clearing_2nd:
+    "TODO: write"
+
+    if visited_clearing:
+        jump visit_clearing_again
+
+    jump forest_again
+
+label visit_clearing_again:
+    "TODO: write"
+
+label forest_again:
     "TODO: write"
 
 label clearing_2nd_night:

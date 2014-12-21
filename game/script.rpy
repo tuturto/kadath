@@ -1746,7 +1746,7 @@ label clearing_2nd_morning:
     you have visited that part before."
 
     Limbaugh "I remember this one time when I was on my way to see the young
-    prince of Grokkington and his court. Sure, I could found the youn prince
+    prince of Grokkington and his court. Sure, I could find the young prince
     no problem, but his court was entirely different matter. Instead of a
     large and impressive castle, there was a village of huts with straw roofs.
     Whole court was living in the huts."
@@ -1756,20 +1756,42 @@ label clearing_2nd_morning:
     the prince. But it's not so easy to look impressive with huts and straw
     and all that stuff. Poor chap, really."
 
+    Limbaugh "Young prince on the other hand wasn't bothered at all. He spent
+    his time lounging in a hammock instead of posturing and posing. He even
+    said that the court should consider setting up hammocks in the castle and
+    use them instead of thrones and stone benches."
+
     "Limbaugh was laughing heartily and [dreamer] was soon too. But soon it
     was time for Limbaugh to continue his journey. He picked up his numerous
     bags and heading straight through the forest after wishing [dreamer] a
     safe journey."
 
-    "TODO: write"
+    "[dreamer] looked around, stood up and picked the book with [him]. Then
+    [he] turned to continue [his] journey. The village wasn't too far away,
+    if everything was more or less like during [his] previous visit. But there
+    was only one way to find out for sure and that was to walk there and see
+    with [his] own eyes."
 
     jump before_clearing_2nd
 
 label before_clearing_2nd:
-    "TODO: write"
+    "[dreamer] was in a good mood. The forest didn't feel as dark as last time
+    [he] had been there. Probably just because [he] now knew what was supposed
+    to be ahead. There were small birds singing somewhere in the woods.
+    [dreamer] didn't see them, but [he] could hear them easily."
+
+    "After walking a while, [dreamer] arrived at the edge of a familiar
+    clearing. It looked like [he] remembered it from the last time. Lots of
+    high grass that was dotted with various flower of all colours. There were
+    butterflies and bees flying around."
 
     if visited_clearing:
         jump visit_clearing_again
+
+    "Like last time, [dreamer] decided that while the clearing looked really
+    inviting, it would be better to continue [his] journey. The village wasn't
+    that far anymore and [he] was looking forward arriving there. Last time
+    everybody had been really nice and helpful."
 
     jump forest_again
 

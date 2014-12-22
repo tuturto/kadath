@@ -1796,6 +1796,10 @@ label before_clearing_2nd:
     jump forest_again
 
 label visit_clearing_again:
+    "[dreamer] stepped on the edge of the clearing. [He] didn't want to enter
+    deeper uninvited this time. Last time had taught [him] enough about the
+    fairy folk and their suspicions towards big folk."
+
     "TODO: write"
 
 label forest_again:

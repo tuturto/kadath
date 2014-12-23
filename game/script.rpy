@@ -1802,6 +1802,11 @@ label visit_clearing_again:
     bit on the edge, the fairy folk should spot [him] and hopefully invite
     to visit the meadow."
 
+    "Sure enough, [dreamer] didn't have to wait for long until [he] saw what
+    looked like small butterflies circle around [him]. They were the fairy
+    folk that had arrived to look who was standing in the edge of their
+    domain."
+
     "TODO: write"
 
 label forest_again:

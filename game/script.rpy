@@ -1798,7 +1798,9 @@ label before_clearing_2nd:
 label visit_clearing_again:
     "[dreamer] stepped on the edge of the clearing. [He] didn't want to enter
     deeper uninvited this time. Last time had taught [him] enough about the
-    fairy folk and their suspicions towards big folk."
+    fairy folk and their suspicions towards big folk. If [he] waited for a
+    bit on the edge, the fairy folk should spot [him] and hopefully invite
+    to visit the meadow."
 
     "TODO: write"
 

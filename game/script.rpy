@@ -1810,7 +1810,19 @@ label visit_clearing_again:
     fairies "Oh, hey! It's that big brute again. Why are you standing on the
     edge of our domain? Are you lost or just slow?"
 
-    "Fairies were flying around laughing."
+    "Fairies were flying around laughing. They were making fun of [dreamer],
+    but [he] didn't particularly care. Last time it had felt annoying, but
+    this time [dreamer] knew better and didn't take it too seriously. [He]
+    extended [his] arms and asked if the fairy folk could take him into their
+    village again."
+
+    fairies "You, in our village? All the houses would be trampled down by
+    those gigantic feet of yours. And our beautiful flower would be completely
+    flat after you sat on them. No, we cannot let this happen."
+
+    "One of the fairies then flew around [dreamer] and threw some sparkling
+    dust over [him]. Immediately [dreamer] felt the familiar tingle and
+    everything around [him] seemed to grow huge."
 
     "TODO: write"
 

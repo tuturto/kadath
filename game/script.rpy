@@ -1807,6 +1807,11 @@ label visit_clearing_again:
     folk that had arrived to look who was standing in the edge of their
     domain."
 
+    fairies "Oh, hey! It's that big brute again. Why are you standing on the
+    edge of our domain? Are you lost or just slow?"
+
+    "Fairies were flying around laughing."
+
     "TODO: write"
 
 label forest_again:

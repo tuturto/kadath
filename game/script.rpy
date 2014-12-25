@@ -1847,10 +1847,25 @@ label visit_clearing_again:
 label prep_after_peace_offering:
     "TODO: write"
 
+label join_war:
+    "TODO: write"
+
+label prevent_war:
+    "TODO: write"
+
 label prep_after_no_peace_offering:
     "TODO: write"
 
+label join_war_2:
+    "TODO: write"
+
+label prevent_war_2:
+    "TODO: write"
+
 label prep_after_jail:
+    "TODO: write"
+
+label join_war_3:
     "TODO: write"
 
 label forest_again:

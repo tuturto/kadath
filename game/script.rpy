@@ -1822,7 +1822,17 @@ label visit_clearing_again:
 
     "One of the fairies then flew around [dreamer] and threw some sparkling
     dust over [him]. Immediately [dreamer] felt the familiar tingle and
-    everything around [him] seemed to grow huge."
+    everything around [him] seemed to grow huge. Soon, the high grass of
+    meadow had transformed into a forest and flowers towered high above of
+    [him]."
+
+    fairies "That is much better. You still look like big folk and can't fly
+    by yourself, but at least you aren't going to trample our beautiful houses
+    or step on our precious flowers. Come, we'll take you to the village.
+    Big things are on the move and Simbali might want to talk with you."
+
+    "A monarch butterfly was summoned and soon [dreamer] was flying through
+    the air."
 
     "TODO: write"
 

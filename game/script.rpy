@@ -1832,8 +1832,25 @@ label visit_clearing_again:
     Big things are on the move and Simbali might want to talk with you."
 
     "A monarch butterfly was summoned and soon [dreamer] was flying through
-    the air."
+    the air. This time felt different than before. There was certain urgency
+    in the beating of the wings and the butterfly was flying very straight,
+    instead of the usual wandering. Soon [dreamer] could see the village in
+    front of [him]."
 
+    if white_pearls:
+        if black_pearls:
+            jump prep_after_peace_offering
+        jump prep_after_no_peace_offering
+
+    jump prep_after_jail:
+
+label prep_after_peace_offering:
+    "TODO: write"
+
+label prep_after_no_peace_offering:
+    "TODO: write"
+
+label prep_after_jail:
     "TODO: write"
 
 label forest_again:

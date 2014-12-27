@@ -1847,6 +1847,15 @@ label visit_clearing_again:
 label prep_after_peace_offering:
     "TODO: write"
 
+    menu:
+        "What should [dreamer] do?"
+
+        "Join the attack":
+            jump join_war
+
+        "Try to prevent the attack":
+            jump prevent_war
+
 label join_war:
     "TODO: write"
 
@@ -1856,6 +1865,15 @@ label prevent_war:
 label prep_after_no_peace_offering:
     "TODO: write"
 
+    menu:
+        "What should [dreamer] do?"
+
+        "Join the attack":
+            jump join_war_2
+
+        "Try to prevent the attack":
+            jump prevent_war_2
+
 label join_war_2:
     "TODO: write"
 
@@ -1864,6 +1882,8 @@ label prevent_war_2:
 
 label prep_after_jail:
     "TODO: write"
+
+    jump join_war_3
 
 label join_war_3:
     "TODO: write"

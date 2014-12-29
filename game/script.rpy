@@ -1845,7 +1845,9 @@ label visit_clearing_again:
     jump prep_after_jail:
 
 label prep_after_peace_offering:
-    "TODO: write"
+    "As the monarch landed, [dreamer] could see that something was wrong. Lot
+    of fairy folk was running around and they were carrying spears and other
+    weapons that [dreamer] hadn't seen last time [he] was visiting the village."
 
     menu:
         "What should [dreamer] do?"

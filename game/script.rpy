@@ -1847,7 +1847,9 @@ label visit_clearing_again:
 label prep_after_peace_offering:
     "As the monarch landed, [dreamer] could see that something was wrong. Lot
     of fairy folk was running around and they were carrying spears and other
-    weapons that [dreamer] hadn't seen last time [he] was visiting the village."
+    weapons that [dreamer] hadn't seen last time [he] was visiting the village.
+    Fairies faces were stern and [dreamer] didn't hear the usual joking and
+    laughter that was so characteristic to them."
 
     menu:
         "What should [dreamer] do?"

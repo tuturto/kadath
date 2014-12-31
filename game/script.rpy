@@ -1851,6 +1851,10 @@ label prep_after_peace_offering:
     Fairies faces were stern and [dreamer] didn't hear the usual joking and
     laughter that was so characteristic to them."
 
+    "[dreamer] spotted Simbali at the center of the village square and ran to
+    him. He was clad in light armour and carried a spear in his hand. A short
+    sword was by his side and he was giving orders to other fairies."
+
     menu:
         "What should [dreamer] do?"
 

@@ -1855,6 +1855,17 @@ label prep_after_peace_offering:
     him. He was clad in light armour and carried a spear in his hand. A short
     sword was by his side and he was giving orders to other fairies."
 
+    Simbali "You have arrived during tumultuous times. The elders of the fairy
+    folk has decided that we should go and try to regain control of the pearls
+    that were given away. Preparations are already underway and our forces are
+    being gathered."
+
+    "[dreamer] wasn't very happy to hear about this. [He] had worked hard to
+    get the thunder beetles and fairies on the path towards peaceful life. And
+    now they were after each other again. In a way [he] could understand that
+    fairy folk wanted the pearls back though. [He] had promised them to
+    thunder beetles without consulting with fairies first after all."
+
     menu:
         "What should [dreamer] do?"
 

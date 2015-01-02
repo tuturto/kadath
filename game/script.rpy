@@ -1866,6 +1866,16 @@ label prep_after_peace_offering:
     fairy folk wanted the pearls back though. [He] had promised them to
     thunder beetles without consulting with fairies first after all."
 
+    Simbali "Elders will be happy to hear that you have arrived. Thunder
+    beetles keep changing where their tunnels surface and you would have first
+    hand knowledge about the entrance. That could provide us a valuable
+    advantage if you would join us."
+
+    "[dreamer] was now faced with a dilemma. Should [he] aid the fairies, or
+    should [he] honour the agreement with thunder beetles and try to avoid the
+    war somehow. [His] part of the deal had been fulfilled already though, so
+    in a way [he] didn't owe anything to the beetles anymore."
+
     menu:
         "What should [dreamer] do?"
 

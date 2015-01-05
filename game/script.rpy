@@ -1889,6 +1889,12 @@ label join_war:
     "TODO: write"
 
 label prevent_war:
+    "[dreamer] was unsure how to best explain [his] view to Simbali.
+    Regardless, [he] decided to try. Initially, [he] spoke in an unsure voice,
+    but soon picked up the speed and explained with strong terms how the war
+    should be avoided at any cost. When [dreamer] was done, [he] and Simbali
+    stood face to face, both being completely silent."
+
     "TODO: write"
 
 label prep_after_no_peace_offering:

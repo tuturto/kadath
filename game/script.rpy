@@ -1895,6 +1895,11 @@ label prevent_war:
     should be avoided at any cost. When [dreamer] was done, [he] and Simbali
     stood face to face, both being completely silent."
 
+    Simbali "You know, I'm not entirely happy about the situation either. I
+    would rather avoid the war. Even if I'm captain of the guard, I don't
+    always agree what the elders decide. Maybe this is the first time I'm
+    going to do something about it."
+
     "TODO: write"
 
 label prep_after_no_peace_offering:

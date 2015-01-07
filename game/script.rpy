@@ -1900,6 +1900,10 @@ label prevent_war:
     always agree what the elders decide. Maybe this is the first time I'm
     going to do something about it."
 
+    Simbali "I don't think that we can succeed alone though, but we need
+    allies. And those allies will have to come from the side of thunder
+    beetles."
+
     "TODO: write"
 
 label prep_after_no_peace_offering:

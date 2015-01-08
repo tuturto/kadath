@@ -1902,7 +1902,8 @@ label prevent_war:
 
     Simbali "I don't think that we can succeed alone though, but we need
     allies. And those allies will have to come from the side of thunder
-    beetles."
+    beetles. If we want to prevent the war, we must hurry and get to the
+    thunder beetles before forces of fairy folk are ready."
 
     "TODO: write"
 

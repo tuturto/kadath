@@ -1905,6 +1905,17 @@ label prevent_war:
     beetles. If we want to prevent the war, we must hurry and get to the
     thunder beetles before forces of fairy folk are ready."
 
+    "Simbali barked some order to two fairies that were hurrying past them.
+    [dreamer] and Simbali would need a quick way to get to thunder beetles.
+    Monarch butterflies wouldn't be fast enough, but Simbali seemed to have
+    a plan that would help them. He guided [dreamer] through the crowd towards
+    the edge of the clearing where two other fairies had already hurried."
+
+    Simbali "We're going to take fastest possible way to travel there and that
+    is by using dragon fly. They're fast, but quite temperament and require
+    a skilled rider. And my personal mount is the fastest of them all. As soon
+    as we get into the air, nobody can catch us anymore."
+
     "TODO: write"
 
 label prep_after_no_peace_offering:

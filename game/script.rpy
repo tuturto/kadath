@@ -1924,7 +1924,19 @@ label prevent_war:
 
     Simbali "Climb up and sit behind of me. The dragonfly is strong enough to
     carry us both and we don't have time to teach you how to steer one by
-    yourself."
+    yourself. Be sure to hold on tight, since the ride might be a little bit
+    rough."
+
+    "[dreamer] climbed behind of Simbali and wrapped [his] arms around the
+    fairy. Simbali's wings were partly blocking [his] view, but [dreamer]
+    could still see how two other fairies ran further away as the dragonfly
+    took off and started quickly ascending."
+
+    "The ride was breath taking. Simbali kept the dragonfly low and had to
+    constantly dodge long grass and flowers. When [dreamer] dared to take a
+    quick peek to side, [he] could only see green blur whizzing past in a
+    dizzying speed and decided that keeping [his] eyes closed was much better
+    idea."
 
     "TODO: write"
 

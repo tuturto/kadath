@@ -1912,9 +1912,19 @@ label prevent_war:
     the edge of the clearing where two other fairies had already hurried."
 
     Simbali "We're going to take fastest possible way to travel there and that
-    is by using dragon fly. They're fast, but quite temperament and require
+    is by using dragonfly. They're fast, but quite temperament and require
     a skilled rider. And my personal mount is the fastest of them all. As soon
     as we get into the air, nobody can catch us anymore."
+
+    "At the edge of the clearing, under shade of some large leaves were few
+    dragonflies waiting. They eyed fairies and [dreamer] suspiciously, but
+    Simbali soon calmed down one of them and started saddling it with the help
+    of two other fairies. Soon they were ready and Simbali climbed onto the
+    dragonfly and extended his hand for [dreamer]."
+
+    Simbali "Climb up and sit behind of me. The dragonfly is strong enough to
+    carry us both and we don't have time to teach you how to steer one by
+    yourself."
 
     "TODO: write"
 

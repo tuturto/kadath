@@ -1938,6 +1938,22 @@ label prevent_war:
     dizzying speed and decided that keeping [his] eyes closed was much better
     idea."
 
+    "After a rough ride, [dreamer] felt that the dragonfly was descending
+    rapidly and opened [his] eyes. At the same time Simbali motioned with his
+    hand and pointed to quickly approaching ground."
+
+    Simbali "I'll set down over there. We are close to the location where you
+    said their tunnels start. Unfortunately I don't dare to leave the
+    dragonfly here alone, so I'll have to send it away. If we fail to reason
+    with thunder beetles, we don't have any means of escape. And even if we
+    manage to reason with them, we are in for a long walk back."
+
+    "[dreamer] nodded. The whole mission was desperate last chance effort and
+    [he] realised how slim their chances for success were. But it was also
+    reassuring that [he] wasn't on it alone, but had Simbali there to help.
+    Hopefully together they would be able to convince the thunder beetles to
+    help them."
+
     "TODO: write"
 
 label prep_after_no_peace_offering:

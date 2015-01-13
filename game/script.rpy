@@ -1961,6 +1961,21 @@ label prevent_war:
     any easier. On the contrary, since now [he] knew how large and fearsome
     they actually were."
 
+    "Simbali hoisted the gear in a small bag and turned towards [dreamer]. He
+    didn't watch how dragonfly was getting smaller and smaller as it raced
+    away. Simbali didn't want to waste time on sentiments. They had things to
+    do and it was best to get going."
+
+    Simbali "You have been here before. Lead the way. Lets try and stay out of
+    sight as long as possible. No point alarming them before we have an idea
+    what the situation is. I'll follow right behind of you."
+
+    "[dreamer] and Simbali started creeping through the high grass and other
+    vegetation. Even when they tried to be as quiet as possible, [dreamer]
+    thought that they must sound like two cargo trains going through forest.
+    However; the truth was that they were very silent and probably could have
+    sneaked past anything."
+
     "TODO: write"
 
 label prep_after_no_peace_offering:

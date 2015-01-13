@@ -1954,6 +1954,13 @@ label prevent_war:
     Hopefully together they would be able to convince the thunder beetles to
     help them."
 
+    "After the landing Simbali removed their few items from the back of the
+    dragonfly and set it free after taking of the harness and saddle. In the
+    meantime, [dreamer] was keeping watch, while nervously glancing around.
+    [He] had been here before, but it didn't make facing the thunder beetles
+    any easier. On the contrary, since now [he] knew how large and fearsome
+    they actually were."
+
     "TODO: write"
 
 label prep_after_no_peace_offering:

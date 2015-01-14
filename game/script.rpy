@@ -1976,6 +1976,12 @@ label prevent_war:
     However; the truth was that they were very silent and probably could have
     sneaked past anything."
 
+    "After dodging brambles and branches for a while, the two adventurers
+    arrived to a clearing that [dreamer] recognized well. On the center of it,
+    there was an entrance into tunnels of thunder beetles. Unlike last time,
+    the entrance was being guarded by two ferocious looking thunder beetles.
+    Sneaking past them would be difficult, if not impossible."
+
     "TODO: write"
 
 label prep_after_no_peace_offering:

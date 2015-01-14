@@ -1982,6 +1982,25 @@ label prevent_war:
     the entrance was being guarded by two ferocious looking thunder beetles.
     Sneaking past them would be difficult, if not impossible."
 
+    menu:
+        "How should they proceed?"
+
+        "Sneak past the guards":
+            jump sneak_past
+
+        "Walk openly to clearing":
+            jump open_approach
+
+        "Wait for a while":
+            jump wait_and_see
+
+label sneak_past:
+    "TODO: write"
+
+label open_approach:
+    "TODO: write"
+
+label wait_and_see:
     "TODO: write"
 
 label prep_after_no_peace_offering:

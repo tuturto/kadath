@@ -1997,10 +1997,19 @@ label prevent_war:
 label sneak_past:
     "TODO: write"
 
+    jump before_thunder_beetles
+
 label open_approach:
     "TODO: write"
 
+    jump before_thunder_beetles
+
 label wait_and_see:
+    "TODO: write"
+
+    jump before_thunder_beetles
+
+label before_thunder_beetles:
     "TODO: write"
 
 label prep_after_no_peace_offering:

@@ -1997,20 +1997,29 @@ label prevent_war:
 label sneak_past:
     "TODO: write"
 
+    "got caught and escorted down the tunnels"
+
     jump before_thunder_beetles
 
 label open_approach:
     "TODO: write"
+
+    "get surrounded and escorted down the tunnels"
 
     jump before_thunder_beetles
 
 label wait_and_see:
     "TODO: write"
 
+    "get surprised and escorted down the tunnels"
+
     jump before_thunder_beetles
 
 label before_thunder_beetles:
     "TODO: write"
+
+
+
 
 label prep_after_no_peace_offering:
     "TODO: write"

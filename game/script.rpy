@@ -2018,6 +2018,42 @@ label wait_and_see:
 label before_thunder_beetles:
     "TODO: write"
 
+    "interrogation, explanation"
+
+    menu:
+        "What should [dreamer] do?"
+
+        "Try to convince beetles":
+            jump convince_beetles
+
+        "Let Simbali help":
+            jump simbali_convinces
+
+label convince_beetles:
+    "try convince, fail"
+
+    "Simbali steps in, offers pearls"
+    
+    "TODO: write"
+
+    jump beetle_plan
+
+label simbali_convinces:
+    "simbali offers pearls"
+
+    "TODO: write"
+
+    jump beetle_plan
+
+label beetle_plan:
+    "beetles hide, dreamer and simbali stay behind"
+    "fairies arrive, questioning"
+    "king beetle arrives with pearls"
+    "negotiation"
+
+    "TODO: write"
+
+
 
 
 

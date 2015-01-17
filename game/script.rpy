@@ -1982,6 +1982,9 @@ label prevent_war:
     the entrance was being guarded by two ferocious looking thunder beetles.
     Sneaking past them would be difficult, if not impossible."
 
+    Simbali "This looks like a tricky situation. I think we might be able to
+    sneak past them though. But I'll leave the decision to you."
+
     menu:
         "How should they proceed?"
 

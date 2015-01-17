@@ -1998,6 +1998,11 @@ label prevent_war:
             jump wait_and_see
 
 label sneak_past:
+    "[dreamer] decided that it would be best to sneak past the guards. Trying
+    to explain their mission to them would just take too long and they didn't
+    have time to waste. Forces of fairie folk might be on their way any moment
+    now."
+
     "TODO: write"
 
     "got caught and escorted down the tunnels"

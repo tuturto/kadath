@@ -2010,7 +2010,9 @@ label sneak_past:
     jump before_thunder_beetles
 
 label open_approach:
-    "TODO: write"
+    "[dreamer] thought that there was little point in hiding. The thunder
+    beetles would see them eventually anyway. So it would be a good idea to
+    openly walk on the clearing and show that they didn't mean harm."
 
     "get surrounded and escorted down the tunnels"
 

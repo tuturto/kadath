@@ -2019,6 +2019,12 @@ label open_approach:
     jump before_thunder_beetles
 
 label wait_and_see:
+    "[dreamer] decided that they should wait for a bit and see how the
+    situation develops. With a bit of luck, the thunder beetles would move
+    further away from the tunnels and it would be easier to slip past them
+    unnoticed. They didn't have too much time, but hurrying in a wrong spot
+    would cost them time that they couldn't afford."
+
     "TODO: write"
 
     "get surprised and escorted down the tunnels"

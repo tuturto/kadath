@@ -2025,6 +2025,12 @@ label wait_and_see:
     unnoticed. They didn't have too much time, but hurrying in a wrong spot
     would cost them time that they couldn't afford."
 
+    "Simbali and [dreamer] were talking with hushed voices as they waited and
+    watched the thunder beetle guards. The beetles weren't moving far from the
+    tunnel opening and were keenly watching around them. [dreamer] was already
+    starting to wonder if they would have to wait forever, because they had
+    waited so long without anything happening."
+
     "TODO: write"
 
     "get surprised and escorted down the tunnels"

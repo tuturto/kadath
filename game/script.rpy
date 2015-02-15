@@ -1842,7 +1842,7 @@ label visit_clearing_again:
             jump prep_after_peace_offering
         jump prep_after_no_peace_offering
 
-    jump prep_after_jail:
+    jump prep_after_jail
 
 label prep_after_peace_offering:
     "As the monarch landed, [dreamer] could see that something was wrong. Lot

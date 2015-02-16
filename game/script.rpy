@@ -2031,7 +2031,13 @@ label wait_and_see:
     starting to wonder if they would have to wait forever, because they had
     waited so long without anything happening."
 
-    "TODO: write"
+    "As [dreamer] and Simbali were looking at the clearing, they heard a stern
+    voice behind them. As they turned, they saw three beetles that had sneaked
+    behind them and had spears pointed at them. Running at this point would
+    have been futile, there was nothing else to do, but to raise the hands and
+    hope for the best."
+
+    "Angry looking beetles"    
 
     "get surprised and escorted down the tunnels"
 

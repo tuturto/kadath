@@ -2001,7 +2001,9 @@ label sneak_past:
     "[dreamer] decided that it would be best to sneak past the guards. Trying
     to explain their mission to them would just take too long and they didn't
     have time to waste. Forces of fairie folk might be on their way any moment
-    now."
+    now. [He] and Simbali had a quick discussion over the plan and they
+    decided to try and crawl in the cover of underbush as close as possible
+    and then sneak past when thunder beetles were looking different direction."
 
     "TODO: write"
 
@@ -2037,9 +2039,10 @@ label wait_and_see:
     have been futile, there was nothing else to do, but to raise the hands and
     hope for the best."
 
-    "Angry looking beetles"    
-
-    "get surprised and escorted down the tunnels"
+    "Angry looking beetles surrounded them and started escorting Simbali and
+    [dreamer] towards the entrance and then down the tunnel. While this was
+    where [dreamer] and Simbali wanted to get, they would have preferred to
+    arrive without angry guards that had sharp spears."
 
     jump before_thunder_beetles
 

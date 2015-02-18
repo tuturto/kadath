@@ -2005,6 +2005,15 @@ label sneak_past:
     decided to try and crawl in the cover of underbush as close as possible
     and then sneak past when thunder beetles were looking different direction."
 
+    "[dreamer] and Simbali started crawling towards the entrace trying to hide
+    behind the underbush. There was a small ditch running at the edge of the
+    clearing and that they chose to use as an avenue of approach. Moving was
+    slow and every tiny sound they made sounded like rumbling truck to
+    [dreamer]. Eventually they made to the point where the ditch was closest
+    to the entrance and stopped."
+
+    "This was the most dangerous step. "
+
     "TODO: write"
 
     "got caught and escorted down the tunnels"

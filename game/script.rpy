@@ -2012,7 +2012,11 @@ label sneak_past:
     [dreamer]. Eventually they made to the point where the ditch was closest
     to the entrance and stopped."
 
-    "This was the most dangerous step. "
+    "This was the most dangerous step. The beetles were slowly patrolling
+    around and [dreamer] would have to time their move perfectly. They waited
+    for a time that felt like an eternity and then when all the beetles were
+    facing away, quickly started towards the entrace, while trying to make
+    as little sound as possible."
 
     "TODO: write"
 

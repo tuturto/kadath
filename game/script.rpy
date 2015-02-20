@@ -2018,9 +2018,16 @@ label sneak_past:
     facing away, quickly started towards the entrace, while trying to make
     as little sound as possible."
 
-    "TODO: write"
+    "Just as everything was looking good and [dreamer] thought they would
+    miraculously succeed, they saw two thunder beetles emerge from the shadows
+    of the entrance. Maybe they had been hiding there or maybe they were
+    replacement guards sent to relieve the current ones. Either way, it made
+    no difference to them at this point."
 
-    "got caught and escorted down the tunnels"
+    "[dreamer] and Simbali were quickly surrounded by the thunder beetles who
+    then started escorting them down the tunnels. While this was the direction
+    [dreamer] and Simbali wanted to go, they would have much preferred to be
+    able to sneak in without being noticed."
 
     jump before_thunder_beetles
 
@@ -2029,7 +2036,7 @@ label open_approach:
     beetles would see them eventually anyway. So it would be a good idea to
     openly walk on the clearing and show that they didn't mean harm."
 
-    "get surrounded and escorted down the tunnels"
+    "TODO: get surrounded and escorted down the tunnels"
 
     jump before_thunder_beetles
 

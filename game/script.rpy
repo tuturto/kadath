@@ -2036,6 +2036,18 @@ label open_approach:
     beetles would see them eventually anyway. So it would be a good idea to
     openly walk on the clearing and show that they didn't mean harm."
 
+    "They quickly went over their plan just one more time and then Simbali
+    took his sword and left it on the ground. No point on walking to the
+    thunder beetles while openly carrying arms. Then they took a deep breath
+    and stepped on the clearing."
+
+    "As soon as [dreamer] stepped on the clearing, the thunder beetles noticed
+    [him]. Simbali was following right behind of [him]. The beetles ran
+    towards them and quickly surrounded the two adventurers, who tried their
+    best to remain calm. As soon as they had been surrounded, one large
+    beetle stepped in front of them. [dreamer] reasoned that this one must be
+    some sort of leader."
+
     "TODO: get surrounded and escorted down the tunnels"
 
     jump before_thunder_beetles

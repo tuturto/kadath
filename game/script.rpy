@@ -2048,6 +2048,18 @@ label open_approach:
     beetle stepped in front of them. [dreamer] reasoned that this one must be
     some sort of leader."
 
+    "The large thunder beetle stepped in the front of [dreamer] and stared down
+    at [him] without speaking. [dreamer] had never felt so small, but bravely
+    [he] stared back at the beetle. After a silence that seemed to go forever,
+    the beetle turned away and ordered [dreamer] and Simbali to be escorted
+    down the tunnels."
+
+    "While they descented, [dreamer] found [himself] wondering if they had
+    made a good choice. Now they were prisoners of the thunder beetles and
+    escaping would be almost impossible. But other hand, [he] thought that open
+    approach was best way to convince the thunder beetles that they meant no
+    harm."
+
     "TODO: get surrounded and escorted down the tunnels"
 
     jump before_thunder_beetles

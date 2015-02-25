@@ -2060,8 +2060,6 @@ label open_approach:
     approach was best way to convince the thunder beetles that they meant no
     harm."
 
-    "TODO: get surrounded and escorted down the tunnels"
-
     jump before_thunder_beetles
 
 label wait_and_see:
@@ -2091,6 +2089,12 @@ label wait_and_see:
     jump before_thunder_beetles
 
 label before_thunder_beetles:
+    "After descending deep into the tunnels of the thunder beetles, [dreamer]
+    and Simbali arrived in a large chamber. Dozens and dozens of thunder
+    beetles were lined by the walls and more were arriving all the time. This
+    had to be some sort of assembly hall concluded [dreamer] as [he] looked
+    around."
+
     "TODO: write"
 
     "interrogation, explanation"

@@ -2095,6 +2095,12 @@ label before_thunder_beetles:
     had to be some sort of assembly hall concluded [dreamer] as [he] looked
     around."
 
+    "A large thunder beetle stands in the middle of other beetles. His
+    commanding presence indicated him to be a leader of all these beetles.
+    After observing the adventurers for a while, he finally spoke."
+
+    Chkakuth "I am king Chkakuth, leader of the thunder beetles."
+
     "TODO: write"
 
     "interrogation, explanation"

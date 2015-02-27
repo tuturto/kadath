@@ -2099,7 +2099,8 @@ label before_thunder_beetles:
     commanding presence indicated him to be a leader of all these beetles.
     After observing the adventurers for a while, he finally spoke."
 
-    Chkakuth "I am king Chkakuth, leader of the thunder beetles."
+    Chkakuth "I am king Chkakuth, leader of the thunder beetles and you have
+    entered in our domain without a permission."
 
     "TODO: write"
 

@@ -47,6 +47,8 @@ image bg dragon_faceoff_bg = "dragon_faceoff.png"
 
 image bg unicorn_bg = "unicorn.png"
 
+image bg cats_marketplace = "cats_at_marketplace.png"
+
 define dreamer = None
 define he = None
 define him = None
@@ -479,6 +481,8 @@ label night_village:
     about. As they entered it, the streets were quiet and nobody was walking
     on them. [dreamer] and night sprite walked through them, until they
     arrived to the market place."
+
+    scene bg cats_marketplace
 
     "Market place was full of cats of all kinds. They were sitting on the
     benches and under the trees. Some of them were perched on window sills of
